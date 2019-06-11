@@ -70,8 +70,6 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 [Cracking PDF password](https://medium.com/@baodad/cracking-my-first-password-8df292fc71c5)
 
-[Someone's best courses algorithms and data structures](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a)
-
 [Zarządzanie pamięcią [PL]](https://bulldogjob.pl/news/536-jak-zrozumiec-pamiec-programu)
 
 [Every cheat sheet](http://overapi.com/)

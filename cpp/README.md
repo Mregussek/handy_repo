@@ -43,3 +43,7 @@
 [Youtube channel](https://www.youtube.com/user/MeetingCPP/featured)
 
 [Slides](https://meetingcpp.com/mcpp/slides/)
+
+## Good Stuff
+
+[Thoughts on C++](https://thoughts-on-cpp.com/)
