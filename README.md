@@ -42,18 +42,6 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 [Programming Jokes](https://github.com/wesbos/dad-jokes)
 
-### Artificial Inteligence / Machine Learning
-
-[Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
-
-[ML in simple words](https://vas3k.com/blog/machine_learning/)
-
-[Data Engineering](https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b)
-
-[Data Science](https://medium.com/@SeattleDataGuy/learning-data-science-our-favorite-resources-to-learn-data-science-from-free-to-not-47beb6424de1)
-
-[Co to jest uczenie maszynowe? [PL]](https://uczymymaszyny.pl/puk-puk-kto-tam-uczenie-maszynowe/)
-
 ### Chrome
 
 [Tips for programming while opening browser](https://30secondsofknowledge.petrovicstefan.rs/)

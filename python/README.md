@@ -11,3 +11,9 @@
 [Why Python is slower than C?](https://www.quora.com/Why-does-C-code-run-faster-than-Pythons)
 
 [Getting started with Lambda on AWS using Python](https://medium.com/@emlynoregan/getting-started-with-lambda-on-aws-in-2018-using-python-3ed34c48671c)
+
+[Install Anaconda](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
+
+## Django 
+
+[15 articles you must read If you are building a website in Python Django](https://dev.to/anuragrana/15-articles-you-must-read-if-you-are-building-a-website-in-python-django-pp2)

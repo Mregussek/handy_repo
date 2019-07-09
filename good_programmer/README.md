@@ -10,6 +10,8 @@
 
 [3 tribes of programming](https://josephg.com/blog/3-tribes/)
 
+[Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+
 ### Code Review
 
 [How to review code?](https://maxbittker.github.io/code-review)

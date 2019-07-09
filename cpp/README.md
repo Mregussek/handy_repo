@@ -16,11 +16,15 @@
 
 [When not to std::move?](https://developers.redhat.com/blog/2019/04/12/understanding-when-not-to-stdmove-in-c/)
 
+[Wprowadzenie do std::thread, wielowątkowości i innych ciekawych rzeczy. [PL]](https://bulldogjob.pl/news/670-pozwol-ze-poodlaczam-ci-te-watki)
+
 ## Compiling Theory
 
 ### CMake
 
 [Directory Structure (good courses in comments)](https://www.reddit.com/r/cpp_questions/comments/boo7ff/c_directory_structure_with_cmake_and_3rd_party/)
+
+[Modern CMake Examples](https://github.com/pr0g/cmake-examples#modern-cmake-examples)
 
 ### Youtube Playlists
 
