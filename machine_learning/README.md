@@ -6,6 +6,8 @@
 
 [Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
 
+[100+ Basic Deep Learning Interview Questions and Answers](http://theprofessionalspoint.blogspot.com/2019/06/100-basic-deep-learning-interview.html)
+
 [ML in simple words](https://vas3k.com/blog/machine_learning/)
 
 [Data Engineering](https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b)
@@ -17,6 +19,12 @@
 [How to plan and execute your ML and DL projects](https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/)
 
 [Machine Learning Summer Schools](https://github.com/sshkhr/awesome-mlss)
+
+## Example AI-Based Apps
+
+[AI-Based Photo Restoration](https://medium.com/@fedor.kitashov/ai-based-photo-restoration-6e41469ce0d7)
+
+[Image Prediction](https://rishi93.github.io/tensorflow/keras/2019/07/06/image-prediction.html?fbclid=IwAR1fu26qJZ4nLd7O63hPXxOfbcRaqhzwquU3Ig1BdewtuYJ57caChWH3riY)
 
 ## Youtube
 

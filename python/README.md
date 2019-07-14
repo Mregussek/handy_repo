@@ -4,6 +4,8 @@
 
 [Make Python script executable](https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263)
 
+[Python consumes a lot of memory or how to reduce the size of objects?](https://m.habr.com/en/post/458518/?fbclid=IwAR1gg0sBfXLYhrVDQoIIixAs2DSda5rNC0AyBBUYGaVXu7tD7bpTPrCg-Sg)
+
 [Tracking your eyes using Python](https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6)
 
 [Every algorithm in Python](https://github.com/TheAlgorithms/Python)
@@ -13,6 +15,10 @@
 [Getting started with Lambda on AWS using Python](https://medium.com/@emlynoregan/getting-started-with-lambda-on-aws-in-2018-using-python-3ed34c48671c)
 
 [Install Anaconda](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
+
+## Windows
+
+[Convert .py to .exe](https://www.youtube.com/watch?v=XHI1J7Wt4EU&t=4s)
 
 ## Django 
 
