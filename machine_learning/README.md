@@ -20,11 +20,27 @@
 
 [Machine Learning Summer Schools](https://github.com/sshkhr/awesome-mlss)
 
+[Machine Learning Courses](https://www.cybrhome.com/topic/machine-learning-courses?fbclid=IwAR14NN8I8wFQT92KFfugBr6FM9LsyNskuQ790BZ70dj5D8kMoTZlpbe93FY)
+
+[Recommended books](http://www.doradolist.com/machine-learning.html?fbclid=IwAR1OpOK8jb6jW5RBM0wai5I9qVYs6bRz-Xx8reUHvouP__2Zzukcjt-I7ow)
+
+## NLP
+
+[How do Natural Language Processing systems work?](https://magnimindacademy.com/how-do-natural-language-processing-systems-work/)
+
+## Notes from courses
+
+[deeplearning.ai](https://github.com/y-ouali/deeplearning.ai_notes)
+
+[fast.ai](https://github.com/y-ouali/fast.ai_notes)
+
 ## Example AI-Based Apps
 
 [AI-Based Photo Restoration](https://medium.com/@fedor.kitashov/ai-based-photo-restoration-6e41469ce0d7)
 
 [Image Prediction](https://rishi93.github.io/tensorflow/keras/2019/07/06/image-prediction.html?fbclid=IwAR1fu26qJZ4nLd7O63hPXxOfbcRaqhzwquU3Ig1BdewtuYJ57caChWH3riY)
+
+[Real-Time Person Tracking on the Edge with a Raspberry Pi](https://heartbeat.fritz.ai/real-time-person-tracking-on-the-edge-with-a-raspberry-pi-93ae636af9fa)
 
 ## Youtube
 

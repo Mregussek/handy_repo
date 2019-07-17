@@ -42,6 +42,10 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 [Programming Jokes](https://github.com/wesbos/dad-jokes)
 
+### Math
+
+[Math Courses](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/)
+
 ### Chrome
 
 [Tips for programming while opening browser](https://30secondsofknowledge.petrovicstefan.rs/)
