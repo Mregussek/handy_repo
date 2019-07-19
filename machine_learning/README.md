@@ -24,11 +24,27 @@
 
 [Recommended books](http://www.doradolist.com/machine-learning.html?fbclid=IwAR1OpOK8jb6jW5RBM0wai5I9qVYs6bRz-Xx8reUHvouP__2Zzukcjt-I7ow)
 
+[101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://blog.datasciencedojo.com/machine-learning-algorithms/?fbclid=IwAR3YUW3s6kQ8HSl7FQEZESKN0IAZ-XOAcgjtyym74Av454bCZoJCad3LHBQ)
+
+[Dive into Deep Learning {Book}](https://d2l.ai/index.html)
+
+## Statistics
+
+[An Introduction to Statistical Learning {Book}](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+
+[Introduction to Statistical Learning {Slides and Videos}](http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html)
+
 ## NLP
 
 [How do Natural Language Processing systems work?](https://magnimindacademy.com/how-do-natural-language-processing-systems-work/)
 
-## Notes from courses
+## Github
+
+[ML asset management](https://github.com/firmai/machine-learning-asset-management)
+
+[Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+
+### Notes from courses
 
 [deeplearning.ai](https://github.com/y-ouali/deeplearning.ai_notes)
 
@@ -77,3 +93,21 @@
 [Machine Learning for Computer Vision](https://www.youtube.com/watch?v=QZmZFeZxEKI&list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
 
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
+[Implementing K-Means Clustering From Scratch: Simply Explained](https://www.youtube.com/watch?v=8nOIB5LDiWo)
+
+## From AGH
+
+[Hype Cycle](https://www.gartner.com/smarterwithgartner/5-trends-emerge-in-gartner-hype-cycle-for-emerging-technologies-2018/)
+
+[Stanford ML course](https://www.coursera.org/learn/machine-learning)
+
+[Deep Learning book](https://www.deeplearningbook.org/)
+
+[Another ML book](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+
+[Solving ML problems](https://www.kaggle.com/)
+
+[Solutions for the site above](http://ndres.me/kaggle-past-solutions/)
+
+[For ML freaks](https://modeldepot.io/)

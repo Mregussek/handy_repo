@@ -18,8 +18,6 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 
-[Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
-
 [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin)
 
 [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
@@ -29,8 +27,6 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 [Awesome TTY games](https://github.com/ligurio/awesome-ttygames)
 
 [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
-
-[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 [Build your own ...](https://github.com/danistefanovic/build-your-own-x)
 
@@ -60,8 +56,6 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 [Top documents from HackerNews](https://www.hackernewspapers.com/)
 
-[Cracking PDF password](https://medium.com/@baodad/cracking-my-first-password-8df292fc71c5)
-
 [Zarządzanie pamięcią [PL]](https://bulldogjob.pl/news/536-jak-zrozumiec-pamiec-programu)
 
 [Every cheat sheet](http://overapi.com/)
@@ -70,19 +64,11 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 [How to understand RGB?](https://ciechanow.ski/color-spaces/)
 
-[Asynchronous programming](https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking)
-
-[Concurrency and parallelism are two different things](https://luminousmen.com/post/concurrency-and-parallelism-are-different)
-
 [What is the hexadecimal?](https://medium.com/wait-what/what-the-hex-467566b120af)
 
 ### Books
 
 [Jak mądrze zadawać pytania? [PL]](http://rtfm.killfile.pl/)
-
-[Dive into Deep Learning](https://d2l.ai/index.html)
-
-[Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 [Open Book Shelf](https://launchschool.com/books)
 
@@ -99,8 +85,6 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 [IT Books [insecure site] #2](http://index-of.es/Varios-2/)
 
 ### Interview
-
-[50+ questions data structures && algorithms](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 [How to not hire software engineer?](http://tonsky.me/blog/hiring/)
 

@@ -1,16 +1,24 @@
+## Good Programmer
+
 [Developer Laws](https://github.com/dwmkerr/hacker-laws)
 
 [Improve youself in Computer Science](https://github.com/anu0012/awesome-computer-science-opportunities)
-
-[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
-
-[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 [Why do arrays start from 0?](https://medium.com/@albertkoz/why-does-array-start-with-index-0-65ffc07cbce8)
 
 [3 tribes of programming](https://josephg.com/blog/3-tribes/)
 
 [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+
+[Asynchronous programming](https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking)
+
+[Concurrency and parallelism are two different things](https://luminousmen.com/post/concurrency-and-parallelism-are-different)
+
+## Github
+
+[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
+
+[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ### Code Review
 
