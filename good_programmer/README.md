@@ -14,14 +14,24 @@
 
 [Concurrency and parallelism are two different things](https://luminousmen.com/post/concurrency-and-parallelism-are-different)
 
+[Things All Developers Should Learn In College](https://dev.to/taillogs/what-developers-should-actually-learn-in-college-2nen)
+
 ## Github
 
 [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 
 [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
+## Open Source
+
+[Friendly Open Source projects should reserve specific issues for newbies](https://www.firsttimersonly.com/)
+
 ### Code Review
 
 [How to review code?](https://maxbittker.github.io/code-review)
 
 [How Do Code Reviews Work at one of the Largest Software Companies?](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/)
+
+### Youtube
+
+[How To Build An App: Everything You Didn't Know You Needed To Know](https://www.youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)

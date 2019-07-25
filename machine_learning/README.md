@@ -6,8 +6,6 @@
 
 [Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
 
-[100+ Basic Deep Learning Interview Questions and Answers](http://theprofessionalspoint.blogspot.com/2019/06/100-basic-deep-learning-interview.html)
-
 [ML in simple words](https://vas3k.com/blog/machine_learning/)
 
 [Data Engineering](https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b)
@@ -28,27 +26,63 @@
 
 [Dive into Deep Learning {Book}](https://d2l.ai/index.html)
 
+[The mission of {PapersWithCode} is to create a free and open resource with Machine Learning papers, code and evaluation tables](https://paperswithcode.com/)
+
+## Python
+
+[Python ML courses](https://www.reddit.com/r/Python/comments/cew4iw/python_machine_learning/)
+
 ## Statistics
 
 [An Introduction to Statistical Learning {Book}](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
 [Introduction to Statistical Learning {Slides and Videos}](http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html)
 
+[Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
+
 ## NLP
 
 [How do Natural Language Processing systems work?](https://magnimindacademy.com/how-do-natural-language-processing-systems-work/)
 
+[fast.ai course](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
+
 ## Github
+
+[Awesome Bots](https://github.com/invocable/awesome-bots)
+
+[Awesome AI](https://github.com/hades217/awesome-ai)
 
 [ML asset management](https://github.com/firmai/machine-learning-asset-management)
 
 [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+
+[Repository explaining the complete process of gathering data, transforming it, getting insights and making plots using pandas, NumPy, Matplotlib and Seaborn.](https://github.com/PhantomInsights/baby-names-analysis)
+
+[Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
+
+[BasicDeepLearning](https://github.com/chuckwolber/BasicDeepLearning/)
+
+[Smelling smells using Deep Learning](https://github.com/tushartushar/DeepLearningSmells)
+
+[Reinforcement Learning and Generative Models section](https://mithi.github.io/deep-blueberry)
+
+[VoiceBook](https://github.com/jim-schwoebel/voicebook)
 
 ### Notes from courses
 
 [deeplearning.ai](https://github.com/y-ouali/deeplearning.ai_notes)
 
 [fast.ai](https://github.com/y-ouali/fast.ai_notes)
+
+## C++ 
+
+[Youtube course](https://www.youtube.com/watch?v=E1K9SZCm0fQ&list=PL79n_WS-sPHKklEvOLiM1K94oJBsGnz71)
+
+## Interview
+
+[Applied Math & ML: A Real Data Science Interview Project](https://medium.com/the-urban-nerd/applied-math-ml-a-real-data-science-interview-project-1f18852d7cc9)
+
+[100+ Basic Deep Learning Interview Questions and Answers](http://theprofessionalspoint.blogspot.com/2019/06/100-basic-deep-learning-interview.html)
 
 ## Example AI-Based Apps
 
@@ -57,6 +91,8 @@
 [Image Prediction](https://rishi93.github.io/tensorflow/keras/2019/07/06/image-prediction.html?fbclid=IwAR1fu26qJZ4nLd7O63hPXxOfbcRaqhzwquU3Ig1BdewtuYJ57caChWH3riY)
 
 [Real-Time Person Tracking on the Edge with a Raspberry Pi](https://heartbeat.fritz.ai/real-time-person-tracking-on-the-edge-with-a-raspberry-pi-93ae636af9fa)
+
+[Using Deep Learning to Classify a Reddit User by their Myers-Briggs Personality Type](https://medium.com/swlh/using-deep-learning-to-classify-a-reddit-user-by-their-myers-briggs-mbti-personality-type-6b1b163194d)
 
 ## Youtube
 
@@ -95,6 +131,8 @@
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 [Implementing K-Means Clustering From Scratch: Simply Explained](https://www.youtube.com/watch?v=8nOIB5LDiWo)
+
+[Installations for Deep Learning: Anaconda, Jupyter Notebook, Tensorflow, Keras ](https://www.youtube.com/watch?v=Ksu5zZIdfH0)
 
 ## From AGH
 

@@ -16,6 +16,8 @@
 
 [Install Anaconda](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
 
+[I Created a “Bot” to Send a Message When the Bus Comes Every Morning](https://itnext.io/i-created-a-bot-to-send-a-message-when-the-bus-comes-every-morning-7469d00a72cf)
+
 ## Windows
 
 [Convert .py to .exe](https://www.youtube.com/watch?v=XHI1J7Wt4EU&t=4s)
