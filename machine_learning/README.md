@@ -28,6 +28,8 @@
 
 [The mission of {PapersWithCode} is to create a free and open resource with Machine Learning papers, code and evaluation tables](https://paperswithcode.com/)
 
+[How I Build Learning Projects — Part I](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
+
 ## Python
 
 [Python ML courses](https://www.reddit.com/r/Python/comments/cew4iw/python_machine_learning/)
@@ -46,11 +48,21 @@
 
 [fast.ai course](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
 
+[15 Best Chatbot Datasets](https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/?fbclid=IwAR2HguJpE095eR7c9sim-rmE51ZvoBOTXOlD5YKqYL1zEC6-j9s0fDb0A80)
+
+[How we trained our chatbot with one billion sentences in 2 days](https://chatbotslife.com/how-we-trained-our-chatbot-with-one-billion-sentences-in-2-days-cffbdd06b505?fbclid=IwAR0FNYazla-5-zIgQ7tjvsK5Z5yKGhBiJSltqBNjlAEXe1m-VLHEBh9fU8M&gi=56b39badab64)
+
+[How to Teach Your Chatbot With Training Data](https://chatbotslife.com/how-to-teach-your-chatbot-with-training-data-46c58b873c31)
+
+[How I Used Deep Learning To Train A Chatbot To Talk Like Me](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me?fbclid=IwAR0TvTU21gbgGzdV2Fuwu-d22ZzhzsVNLCzw1ol2gywZ32iwsK41CObne7c)
+
 ## Github
 
 [Awesome Bots](https://github.com/invocable/awesome-bots)
 
 [Awesome AI](https://github.com/hades217/awesome-ai)
+
+[conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets)
 
 [ML asset management](https://github.com/firmai/machine-learning-asset-management)
 

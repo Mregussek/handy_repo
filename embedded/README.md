@@ -1,3 +1,9 @@
+# Embedded
+
+## General
+
+[HOW I TEACH EMBEDDED SYSTEMS](https://jaycarlson.net/2019/07/26/how-i-teach-embedded-systems/)
+
 ### RPi
 
 [RPi crosscompilation](https://github.com/HesselM/rpicross_notes)

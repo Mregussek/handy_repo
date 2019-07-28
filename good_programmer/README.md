@@ -1,9 +1,5 @@
 ## Good Programmer
 
-[Developer Laws](https://github.com/dwmkerr/hacker-laws)
-
-[Improve youself in Computer Science](https://github.com/anu0012/awesome-computer-science-opportunities)
-
 [Why do arrays start from 0?](https://medium.com/@albertkoz/why-does-array-start-with-index-0-65ffc07cbce8)
 
 [3 tribes of programming](https://josephg.com/blog/3-tribes/)
@@ -21,6 +17,10 @@
 [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 
 [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+[Improve youself in Computer Science](https://github.com/anu0012/awesome-computer-science-opportunities)
+
+[Developer Laws](https://github.com/dwmkerr/hacker-laws)
 
 ## Open Source
 
