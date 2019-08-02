@@ -30,6 +30,12 @@
 
 [How I Build Learning Projects — Part I](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
 
+[Opinions on free resources to learn Deep Reinforcement Learning {Reddit}](https://www.reddit.com/r/learnmachinelearning/comments/chj0vl/opinions_on_free_resources_to_learn_deep/)
+
+## Embedded
+
+[Machine Learning in the embedded world](https://www.reddit.com/r/embedded/comments/cjq8qt/machine_learning_in_the_embedded_world/)
+
 ## Python
 
 [Python ML courses](https://www.reddit.com/r/Python/comments/cew4iw/python_machine_learning/)
@@ -80,6 +86,8 @@
 
 [VoiceBook](https://github.com/jim-schwoebel/voicebook)
 
+[Cool ML slides from Berkeley](https://github.com/csinva/csinva.github.io)
+
 ### Notes from courses
 
 [deeplearning.ai](https://github.com/y-ouali/deeplearning.ai_notes)
@@ -105,6 +113,12 @@
 [Real-Time Person Tracking on the Edge with a Raspberry Pi](https://heartbeat.fritz.ai/real-time-person-tracking-on-the-edge-with-a-raspberry-pi-93ae636af9fa)
 
 [Using Deep Learning to Classify a Reddit User by their Myers-Briggs Personality Type](https://medium.com/swlh/using-deep-learning-to-classify-a-reddit-user-by-their-myers-briggs-mbti-personality-type-6b1b163194d)
+
+[Neural Point-Based Graphics](https://www.reddit.com/r/MachineLearning/comments/chc220/research_neural_pointbased_graphics/)
+
+[DeepSORT: Deep Learning to Track Custom Objects in a Video](https://nanonets.com/blog/object-tracking-deepsort/)
+
+[Millie Fit: Your On-Demand AI Trainer](https://medium.com/twentybn/video-millie-fit-your-on-demand-ai-trainer-37e52a552c78)
 
 ## Youtube
 
