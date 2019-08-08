@@ -12,6 +12,10 @@
 
 [Things All Developers Should Learn In College](https://dev.to/taillogs/what-developers-should-actually-learn-in-college-2nen)
 
+[How I side project](https://dotink.co/posts/how-i-side-project/)
+
+[Top 10 Object-Oriented Design Principles for writing Clean Code](https://dev.to/javinpaul/top-10-object-oriented-design-principles-for-writing-clean-code-4pe1)
+
 ## Github
 
 [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)

@@ -1,4 +1,4 @@
-### Artificial Inteligence / Machine Learning
+# Artificial Inteligence / Machine Learning
 
 [Great Collection at Reddit](https://www.reddit.com/r/MachineLearning/wiki/index)
 
@@ -32,35 +32,13 @@
 
 [Opinions on free resources to learn Deep Reinforcement Learning {Reddit}](https://www.reddit.com/r/learnmachinelearning/comments/chj0vl/opinions_on_free_resources_to_learn_deep/)
 
+[Neural Networks: Feedforward and Backpropagation Explained & Optimization](https://mlfromscratch.com/neural-networks-explained/)
+
+[30 Intermediate AI Terms You Should Know](https://lionbridge.ai/articles/30-intermediate-ai-terms-you-should-know/)
+
 ## Embedded
 
 [Machine Learning in the embedded world](https://www.reddit.com/r/embedded/comments/cjq8qt/machine_learning_in_the_embedded_world/)
-
-## Python
-
-[Python ML courses](https://www.reddit.com/r/Python/comments/cew4iw/python_machine_learning/)
-
-## Statistics
-
-[An Introduction to Statistical Learning {Book}](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-
-[Introduction to Statistical Learning {Slides and Videos}](http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html)
-
-[Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
-
-## NLP
-
-[How do Natural Language Processing systems work?](https://magnimindacademy.com/how-do-natural-language-processing-systems-work/)
-
-[fast.ai course](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
-
-[15 Best Chatbot Datasets](https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/?fbclid=IwAR2HguJpE095eR7c9sim-rmE51ZvoBOTXOlD5YKqYL1zEC6-j9s0fDb0A80)
-
-[How we trained our chatbot with one billion sentences in 2 days](https://chatbotslife.com/how-we-trained-our-chatbot-with-one-billion-sentences-in-2-days-cffbdd06b505?fbclid=IwAR0FNYazla-5-zIgQ7tjvsK5Z5yKGhBiJSltqBNjlAEXe1m-VLHEBh9fU8M&gi=56b39badab64)
-
-[How to Teach Your Chatbot With Training Data](https://chatbotslife.com/how-to-teach-your-chatbot-with-training-data-46c58b873c31)
-
-[How I Used Deep Learning To Train A Chatbot To Talk Like Me](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me?fbclid=IwAR0TvTU21gbgGzdV2Fuwu-d22ZzhzsVNLCzw1ol2gywZ32iwsK41CObne7c)
 
 ## Github
 
@@ -88,16 +66,6 @@
 
 [Cool ML slides from Berkeley](https://github.com/csinva/csinva.github.io)
 
-### Notes from courses
-
-[deeplearning.ai](https://github.com/y-ouali/deeplearning.ai_notes)
-
-[fast.ai](https://github.com/y-ouali/fast.ai_notes)
-
-## C++ 
-
-[Youtube course](https://www.youtube.com/watch?v=E1K9SZCm0fQ&list=PL79n_WS-sPHKklEvOLiM1K94oJBsGnz71)
-
 ## Interview
 
 [Applied Math & ML: A Real Data Science Interview Project](https://medium.com/the-urban-nerd/applied-math-ml-a-real-data-science-interview-project-1f18852d7cc9)
@@ -120,45 +88,7 @@
 
 [Millie Fit: Your On-Demand AI Trainer](https://medium.com/twentybn/video-millie-fit-your-on-demand-ai-trainer-37e52a552c78)
 
-## Youtube
-
-[Machine Learning CMU Fall 2015 10-715](https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ&jct=q4qVgISGxJql7TlE6eSLKa8Wwci8SA)
-
-[^ Slides ^](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/index.html)
-
-[STA 4273H Winter 2015](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
-
-[MIT Course 9.520 - Statistical Learning Theory and Applications, Fall 2015](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
-
-[^ Website ^](http://www.mit.edu/~9.520/fall15/index.html)
-
-[Regularization Methods for Machine Learning 2016](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO)
-
-[^ Website ^](http://lcsl.mit.edu/courses/regml/regml2016/)
-
-[Spring 2016: Statistical Machine Learning (10-702/36-702)](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)
-
-[^ Website ^](http://www.stat.cmu.edu/~larry/=sml/)
-
-[Spring 2015: Convex Optimization (10-725/36-725)](https://www.youtube.com/playlist?list=PLjbUi5mgii6BZBhJ9nW7eydgycyCOYeZ6)
-
-[^ Website ^](http://www.stat.cmu.edu/~ryantibs/convexopt/)
-
-[Probabilistic Graphical Models 10-708, Spring 2014](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
-
-[10-801 Advanced Optimization and Randomized Algorithms](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d)
-
-[Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
-
-[Machine Learning Summer School 2013 Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E)
-
-[Machine Learning for Computer Vision](https://www.youtube.com/watch?v=QZmZFeZxEKI&list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
-
-[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-
-[Implementing K-Means Clustering From Scratch: Simply Explained](https://www.youtube.com/watch?v=8nOIB5LDiWo)
-
-[Installations for Deep Learning: Anaconda, Jupyter Notebook, Tensorflow, Keras ](https://www.youtube.com/watch?v=Ksu5zZIdfH0)
+[Arduino Neural Network Robot](https://github.com/IdleHandsProject/makennbot)
 
 ## From AGH
 

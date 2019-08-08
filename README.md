@@ -48,6 +48,8 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 ### Just fascinating
 
+[Hakuna Cloud](https://hakuna.cloud/)
+
 [Check when sth will be outdated](https://endoflife.date/fedora)
 
 [I charged $18,000 for a Static HTML Page](https://idiallo.com/blog/18000-dollars-static-web-page)

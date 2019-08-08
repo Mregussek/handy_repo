@@ -5,3 +5,5 @@
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 [50+ questions data structures && algorithms](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+
+[The Data Engineering Cookbook](https://github.com/andkret/Cookbook)

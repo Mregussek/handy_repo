@@ -18,6 +18,8 @@
 
 [I Created a “Bot” to Send a Message When the Bus Comes Every Morning](https://itnext.io/i-created-a-bot-to-send-a-message-when-the-bus-comes-every-morning-7469d00a72cf)
 
+[How to set up a perfect Python project](https://sourcery.ai/blog/python-best-practices/)
+
 ## Windows
 
 [Convert .py to .exe](https://www.youtube.com/watch?v=XHI1J7Wt4EU&t=4s)
@@ -25,3 +27,7 @@
 ## Django 
 
 [15 articles you must read If you are building a website in Python Django](https://dev.to/anuragrana/15-articles-you-must-read-if-you-are-building-a-website-in-python-django-pp2)
+
+## Pip
+
+[live-coder](https://pypi.org/project/live-coder/)
