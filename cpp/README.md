@@ -18,6 +18,8 @@
 
 [Wprowadzenie do std::thread, wielowątkowości i innych ciekawych rzeczy. [PL]](https://bulldogjob.pl/news/670-pozwol-ze-poodlaczam-ci-te-watki)
 
+[Czy C++ jest wolniejszy od C? Kilka słów o Zero Cost Abstraction](https://cpp-polska.pl/post/czy-c-jest-wolniejszy-od-cij-kilka-slow-o-zero-cost-abstraction)
+
 ## Compiling Theory
 
 ### CMake
@@ -51,3 +53,7 @@
 ## Good Stuff
 
 [Thoughts on C++](https://thoughts-on-cpp.com/)
+
+## Fascinating
+
+[A basic C++ website - a complete example](https://angelsensoftware.com/blog/2019/1_CppWebsite.html)

@@ -90,6 +90,8 @@
 
 [Arduino Neural Network Robot](https://github.com/IdleHandsProject/makennbot)
 
+[Real Time Face Detection on the RaspberryPi-4](https://www.instructables.com/id/Real-Time-Face-Detection-on-the-RaspberryPi-4/)
+
 ## From AGH
 
 [Hype Cycle](https://www.gartner.com/smarterwithgartner/5-trends-emerge-in-gartner-hype-cycle-for-emerging-technologies-2018/)
@@ -105,3 +107,7 @@
 [Solutions for the site above](http://ndres.me/kaggle-past-solutions/)
 
 [For ML freaks](https://modeldepot.io/)
+
+## Datasets
+
+[List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
