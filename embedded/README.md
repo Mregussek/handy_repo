@@ -4,6 +4,8 @@
 
 [HOW I TEACH EMBEDDED SYSTEMS](https://jaycarlson.net/2019/07/26/how-i-teach-embedded-systems/)
 
+[Exceptions in embedded](https://www.research.ed.ac.uk/portal/en/publications/lowcost-deterministic-c-exceptions-for-embedded-systems(2cfc59d5-fa95-45e0-83b2-46e51098cf1f).html)
+
 ### RPi
 
 [RPi crosscompilation](https://github.com/HesselM/rpicross_notes)
@@ -13,6 +15,10 @@
 ### Books
 
 [Better Embedded System Software](http://www.koopman.us/index.html)
+
+### Machine Learning
+
+[Machine Learning in the embedded world](https://www.reddit.com/r/embedded/comments/cjq8qt/machine_learning_in_the_embedded_world/)
 
 ### Other
 

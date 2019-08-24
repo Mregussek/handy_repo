@@ -2,11 +2,7 @@
 
 [Great Collection at Reddit](https://www.reddit.com/r/MachineLearning/wiki/index)
 
-[Video resources for machine learning](http://dustintran.com/blog/video-resources-for-machine-learning)
-
 [Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
-
-[ML in simple words](https://vas3k.com/blog/machine_learning/)
 
 [Data Engineering](https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b)
 
@@ -18,8 +14,6 @@
 
 [Machine Learning Summer Schools](https://github.com/sshkhr/awesome-mlss)
 
-[Machine Learning Courses](https://www.cybrhome.com/topic/machine-learning-courses?fbclid=IwAR14NN8I8wFQT92KFfugBr6FM9LsyNskuQ790BZ70dj5D8kMoTZlpbe93FY)
-
 [Recommended books](http://www.doradolist.com/machine-learning.html?fbclid=IwAR1OpOK8jb6jW5RBM0wai5I9qVYs6bRz-Xx8reUHvouP__2Zzukcjt-I7ow)
 
 [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://blog.datasciencedojo.com/machine-learning-algorithms/?fbclid=IwAR3YUW3s6kQ8HSl7FQEZESKN0IAZ-XOAcgjtyym74Av454bCZoJCad3LHBQ)
@@ -30,11 +24,17 @@
 
 [How I Build Learning Projects — Part I](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
 
-[Opinions on free resources to learn Deep Reinforcement Learning {Reddit}](https://www.reddit.com/r/learnmachinelearning/comments/chj0vl/opinions_on_free_resources_to_learn_deep/)
+## How to learn ML / AI
+
+[How To Learn Data Science - My path](https://towardsdatascience.com/how-to-learn-data-science-my-path-ba7b9aa94f63)
+
+[ML in simple words](https://vas3k.com/blog/machine_learning/)
+
+[30 Intermediate AI Terms You Should Know](https://lionbridge.ai/articles/30-intermediate-ai-terms-you-should-know/)
 
 [Neural Networks: Feedforward and Backpropagation Explained & Optimization](https://mlfromscratch.com/neural-networks-explained/)
 
-[30 Intermediate AI Terms You Should Know](https://lionbridge.ai/articles/30-intermediate-ai-terms-you-should-know/)
+[Opinions on free resources to learn Deep Reinforcement Learning {Reddit}](https://www.reddit.com/r/learnmachinelearning/comments/chj0vl/opinions_on_free_resources_to_learn_deep/)
 
 ## Embedded
 

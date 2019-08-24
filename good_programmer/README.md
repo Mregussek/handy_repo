@@ -37,7 +37,3 @@
 [How Do Code Reviews Work at one of the Largest Software Companies?](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/)
 
 [Code Reviews at Google are lightweight and fast](https://www.michaelagreiler.com/code-reviews-at-google/)
-
-### Youtube
-
-[How To Build An App: Everything You Didn't Know You Needed To Know](https://www.youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)

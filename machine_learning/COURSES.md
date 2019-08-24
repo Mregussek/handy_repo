@@ -1,18 +1,26 @@
+## Courses
+
+[Python3: from None to Machine Learning](http://python.astrotech.io/index.html)
+
+[Machine Learning Courses](https://www.cybrhome.com/topic/machine-learning-courses?fbclid=IwAR14NN8I8wFQT92KFfugBr6FM9LsyNskuQ790BZ70dj5D8kMoTZlpbe93FY)
+
+[Video resources for machine learning](http://dustintran.com/blog/video-resources-for-machine-learning)
+
 ### Notes from courses
 
 [deeplearning.ai](https://github.com/y-ouali/deeplearning.ai_notes)
 
 [fast.ai](https://github.com/y-ouali/fast.ai_notes)
 
-## Python
+### Python
 
 [Python ML courses](https://www.reddit.com/r/Python/comments/cew4iw/python_machine_learning/)
 
-## C++ 
+### C++ 
 
 [Youtube course](https://www.youtube.com/watch?v=E1K9SZCm0fQ&list=PL79n_WS-sPHKklEvOLiM1K94oJBsGnz71)
 
-## Youtube
+### Youtube
 
 [Machine Learning CMU Fall 2015 10-715](https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ&jct=q4qVgISGxJql7TlE6eSLKa8Wwci8SA)
 
@@ -52,7 +60,7 @@
 
 [Installations for Deep Learning: Anaconda, Jupyter Notebook, Tensorflow, Keras ](https://www.youtube.com/watch?v=Ksu5zZIdfH0)
 
-## Statistics
+### Statistics
 
 [An Introduction to Statistical Learning {Book}](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 

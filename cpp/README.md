@@ -1,16 +1,20 @@
-## C++
+# C++
+
+## Github Links
 
 [Awesome C++](https://github.com/fffaraz/awesome-cpp)
 
 [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp/blob/master/README.md)
 
-[lvalues and rvalues in C++](https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c)
+[Build Own C++ game [oldschool]](https://github.com/ssloy/tinyraycaster/wiki)
 
 [C++ Best Practices](https://github.com/lefticus/cppbestpractices/blob/master/00-Table_of_Contents.md)
 
-[CPP course [PL]](https://github.com/SteelPh0enix/KursCPP/)
+## Learn C++ Stuff
 
-[Build Own C++ game [oldschool]](https://github.com/ssloy/tinyraycaster/wiki)
+[lvalues and rvalues in C++](https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c)
+
+[CPP course [PL]](https://github.com/SteelPh0enix/KursCPP/)
 
 [Exceptions in embedded](https://www.research.ed.ac.uk/portal/en/publications/lowcost-deterministic-c-exceptions-for-embedded-systems(2cfc59d5-fa95-45e0-83b2-46e51098cf1f).html)
 
