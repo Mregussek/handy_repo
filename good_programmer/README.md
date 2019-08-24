@@ -16,6 +16,14 @@
 
 [Top 10 Object-Oriented Design Principles for writing Clean Code](https://dev.to/javinpaul/top-10-object-oriented-design-principles-for-writing-clean-code-4pe1)
 
+## Tools for programmers
+
+[#1](https://nohq.co/tools/)
+
+## Software
+
+[How to Build Good Software](https://www.csc.gov.sg/articles/how-to-build-good-software)
+
 ## Github
 
 [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)

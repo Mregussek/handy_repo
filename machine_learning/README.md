@@ -92,6 +92,8 @@
 
 [Real Time Face Detection on the RaspberryPi-4](https://www.instructables.com/id/Real-Time-Face-Detection-on-the-RaspberryPi-4/)
 
+[https://github.com/nickbild/shaides](https://github.com/nickbild/shaides)
+
 ## From AGH
 
 [Hype Cycle](https://www.gartner.com/smarterwithgartner/5-trends-emerge-in-gartner-hype-cycle-for-emerging-technologies-2018/)

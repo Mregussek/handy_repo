@@ -68,6 +68,8 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 [What is the hexadecimal?](https://medium.com/wait-what/what-the-hex-467566b120af)
 
+[5 Mistakes to Avoid When Buying a MicroSD Card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/)
+
 ### Books
 
 [Jak mądrze zadawać pytania? [PL]](http://rtfm.killfile.pl/)

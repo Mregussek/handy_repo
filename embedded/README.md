@@ -6,6 +6,8 @@
 
 [Exceptions in embedded](https://www.research.ed.ac.uk/portal/en/publications/lowcost-deterministic-c-exceptions-for-embedded-systems(2cfc59d5-fa95-45e0-83b2-46e51098cf1f).html)
 
+[Zero to main(): How to Write a Bootloader from Scratch](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
+
 ### RPi
 
 [RPi crosscompilation](https://github.com/HesselM/rpicross_notes)

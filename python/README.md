@@ -35,3 +35,5 @@
 ## Python projects
 
 [Tracking your eyes using Python](https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6)
+
+[A simple face detection utility from Python to Go](https://blog.owulveryck.info/2019/08/16/a-simple-face-detection-utility-from-python-to-go.html)
