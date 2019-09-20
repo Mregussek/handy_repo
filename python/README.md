@@ -16,6 +16,8 @@
 
 [How to set up a perfect Python project](https://sourcery.ai/blog/python-best-practices/)
 
+[Expert python topics you should know](https://dev.libreneitor.com/expert-python-topics-you-should-know/)
+
 ## Windows
 
 [Convert .py to .exe](https://www.youtube.com/watch?v=XHI1J7Wt4EU&t=4s)

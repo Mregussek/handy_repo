@@ -16,6 +16,12 @@
 
 [Top 10 Object-Oriented Design Principles for writing Clean Code](https://dev.to/javinpaul/top-10-object-oriented-design-principles-for-writing-clean-code-4pe1)
 
+[Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
+
+[How To Manage Your Stress as a Developer: Practical Tips](https://thevaluable.dev/developer-stress-management/)
+
+[Złożoność obliczeniowa](https://typeofweb.com/zlozonosc-obliczeniowa-czasowa-pamieciowa-algorytmow/)
+
 ## Tools for programmers
 
 [#1](https://nohq.co/tools/)
@@ -45,3 +51,5 @@
 [How Do Code Reviews Work at one of the Largest Software Companies?](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/)
 
 [Code Reviews at Google are lightweight and fast](https://www.michaelagreiler.com/code-reviews-at-google/)
+
+[How to do a code review](https://google.github.io/eng-practices/review/reviewer/)

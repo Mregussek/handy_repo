@@ -92,6 +92,8 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 [How to not hire software engineer?](http://tonsky.me/blog/hiring/)
 
+[Questions we could ask recruiter](https://github.com/viraptor/reverse-interview)
+
 ### Podcasts
 
 [FullStackRadio](http://www.fullstackradio.com/)
@@ -123,6 +125,26 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 
 [TheChermoProject](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
+
+[Joseph Delgadillo](https://www.youtube.com/channel/UCqR4a4lUDbDkAFQnhw4pfXQ/videos)
+
+[JavaDevMatt](https://www.youtube.com/user/JavaDevMatt/featured)
+
+[DD ElectroTech](https://www.youtube.com/user/Deba9681895487/videos)
+
+[Derrek Molloy](https://www.youtube.com/user/DerekMolloyDCU/videos)
+
+[sentdex](https://www.youtube.com/user/sentdex/videos)
+
+[AngelSix](https://www.youtube.com/channel/UCJ3AxeCHGPZkMi3kRfCuiHw/videos)
+
+[Vinsloev Academy](https://www.youtube.com/channel/UC-OKxBgjKLBGHbueyIOWptw/videos)
+
+[Dilmer Valecillos](https://www.youtube.com/channel/UCHM37DnT_QGJT5Zyl4EmqcA)
+
+[Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg/videos)
+
+[The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 ### Free
 

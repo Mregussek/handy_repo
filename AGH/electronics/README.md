@@ -1,3 +1,9 @@
+# Electronics
+
+[RS Elektronika](https://www.youtube.com/channel/UC3TAqUdZld-6B76GqrFEV8g)
+
+[ElektroPrzewodnik](https://www.youtube.com/user/ElektroPrzewodnik/videos)
+
 ## Analog Circuits
 
 [Real Analog - Circuits 1](https://learn.digilentinc.com/classroom/realanalog/)
