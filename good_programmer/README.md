@@ -22,6 +22,8 @@
 
 [Złożoność obliczeniowa](https://typeofweb.com/zlozonosc-obliczeniowa-czasowa-pamieciowa-algorytmow/)
 
+[How to write good commit message](https://writingfordevelopers.substack.com/p/how-to-write-a-commit-message)
+
 ## Tools for programmers
 
 [#1](https://nohq.co/tools/)

@@ -6,6 +6,10 @@
 
 [Security Conferences](https://github.com/PaulSec/awesome-sec-talks)
 
+## Security
+
+[Software Security Field Guide for the Bewildered](https://zwischenzugs.com/2019/09/22/software-security-field-guide-for-the-bewildered/)
+
 ## Fascinating
 
 [Cracking PDF password](https://medium.com/@baodad/cracking-my-first-password-8df292fc71c5)

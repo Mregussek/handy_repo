@@ -22,6 +22,10 @@
 
 ### Youtube
 
+[CORNELL CS4780 "Machine Learning for Intelligent Systems"](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+
+[^ Syllabus ^](http://www.cs.cornell.edu/courses/cs4780/2018fa/syllabus/index.html)
+
 [Machine Learning CMU Fall 2015 10-715](https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ&jct=q4qVgISGxJql7TlE6eSLKa8Wwci8SA)
 
 [^ Slides ^](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/index.html)

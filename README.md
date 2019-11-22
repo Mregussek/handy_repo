@@ -42,11 +42,19 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 [Math Courses](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/)
 
+[Mind-blowing Math lectures by Richard Feynman](https://github.com/jaintj95/Math_by_Richard_Feynman)
+
+[Linear Algebra free textbook](http://joshua.smcvt.edu/linearalgebra/)
+
 ### Chrome
 
 [Tips for programming while opening browser](https://30secondsofknowledge.petrovicstefan.rs/)
 
 ### Just fascinating
+
+[How about being independent developer?](http://www.nathalielawhead.com/candybox/the-future-of-my-games-on-apple-post-catalina-and-what-this-means-for-art-games-in-general)
+
+[Meet the Bots that Help Moderate Stack Overflow](https://stackoverflow.blog/2019/09/17/meet-the-bots-that-help-moderate-stack-overflow/)
 
 [Hakuna Cloud](https://hakuna.cloud/)
 
@@ -69,6 +77,10 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 [What is the hexadecimal?](https://medium.com/wait-what/what-the-hex-467566b120af)
 
 [5 Mistakes to Avoid When Buying a MicroSD Card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/)
+
+[DevMovies](https://github.com/aryaminus/dev-movies)
+
+[How to write bootloader from scratch](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
 
 ### Books
 

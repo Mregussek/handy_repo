@@ -36,6 +36,8 @@
 
 [Opinions on free resources to learn Deep Reinforcement Learning {Reddit}](https://www.reddit.com/r/learnmachinelearning/comments/chj0vl/opinions_on_free_resources_to_learn_deep/)
 
+[6 Pillars of a Successful AI-Strategy](https://www.aisoma.de/6-pillars-of-a-successful-ai-strategy/)
+
 ## Embedded
 
 [Machine Learning in the embedded world](https://www.reddit.com/r/embedded/comments/cjq8qt/machine_learning_in_the_embedded_world/)
@@ -71,6 +73,8 @@
 [Applied Math & ML: A Real Data Science Interview Project](https://medium.com/the-urban-nerd/applied-math-ml-a-real-data-science-interview-project-1f18852d7cc9)
 
 [100+ Basic Deep Learning Interview Questions and Answers](http://theprofessionalspoint.blogspot.com/2019/06/100-basic-deep-learning-interview.html)
+
+[Deep Learning Topics to refresh before interview](https://github.com/vlgiitr/DL_Topics)
 
 ## Example AI-Based Apps
 
@@ -113,3 +117,7 @@
 ## Datasets
 
 [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+
+[Machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
+
+[DataSetList](https://www.datasetlist.com)

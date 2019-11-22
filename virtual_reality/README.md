@@ -14,6 +14,8 @@
 
 [Foundational Ideas for Responsive Augmented Reality Content](https://www.torch.app/blog/foundational-ideas-responsive-augmented-reality-content)
 
+[The history of AR](https://www.colocationamerica.com/blog/history-of-augmented-reality)
+
 ## Github
 
 [Game Programmer](https://github.com/miloyip/game-programmer)
