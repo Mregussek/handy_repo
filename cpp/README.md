@@ -32,6 +32,8 @@
 
 [Modern CMake Examples](https://github.com/pr0g/cmake-examples#modern-cmake-examples)
 
+[The Language Agnostic, All-Purpose, Incredible, Makefile](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html)
+
 ### Youtube Playlists
 
 [#1](https://www.youtube.com/playlist?list=PLbMVogVj5nJTmKzaSlCpGgi7qxgcRRs8h)

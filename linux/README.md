@@ -26,6 +26,12 @@
 
 [More productive git](https://increment.com/open-source/more-productive-git/)
 
+[Deconstructing a git commit](https://krishnabiradar.com/blogs/deconstructing-a-git-commit/)
+
+[How to write good commit message](https://writingfordevelopers.substack.com/p/how-to-write-a-commit-message)
+
+[Successfully Merging the Work of 1000+ Developers](https://engineering.shopify.com/blogs/engineering/successfully-merging-work-1000-developers)
+
 ### Docker
 
 [For absolute beginners](https://morioh.com/p/21e3236f275d/docker-for-absolute-beginners)
@@ -33,3 +39,5 @@
 [Docker Security](https://made2591.github.io/posts/docker-security)
 
 [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
+
+[How to use docker multi-stage build to create optimal images for dev and production](https://geshan.com.np/blog/2019/11/how-to-use-docker-multi-stage-build/)

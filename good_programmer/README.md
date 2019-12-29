@@ -1,6 +1,10 @@
 ## Good Programmer
 
+[The epistemology of software quality](https://increment.com/teams/the-epistemology-of-software-quality/)
+
 [Why do arrays start from 0?](https://medium.com/@albertkoz/why-does-array-start-with-index-0-65ffc07cbce8)
+
+[Technical Debt](https://efficientuser.com/2019/11/27/technical-debt/)
 
 [3 tribes of programming](https://josephg.com/blog/3-tribes/)
 
@@ -22,11 +26,13 @@
 
 [Złożoność obliczeniowa](https://typeofweb.com/zlozonosc-obliczeniowa-czasowa-pamieciowa-algorytmow/)
 
-[How to write good commit message](https://writingfordevelopers.substack.com/p/how-to-write-a-commit-message)
+[Recommendations for Engineers](https://pawelcislo.com/recommendations/)
 
 ## Tools for programmers
 
 [#1](https://nohq.co/tools/)
+
+[10 Things To Boost Your Workflow in Visual Studio Code](https://medium.com/better-programming/10-things-to-boost-your-workflow-in-visual-studio-code-1a64d20cc6e4)
 
 ## Software
 
