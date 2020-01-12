@@ -12,6 +12,8 @@
 
 ### Git
 
+[How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
+
 [Git rebase and merge comparison](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
 
 [How to teach Git?](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)

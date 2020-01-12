@@ -1,3 +1,7 @@
+### Github
+
+[Terminal bandwidth utilization tool](https://github.com/imsnif/bandwhich)
+
 ### Web
 
 [Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)

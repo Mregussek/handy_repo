@@ -8,6 +8,10 @@
 
 [Zero to main(): How to Write a Bootloader from Scratch](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
 
+[My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
+
+[Learning embedded programming as a software engineer](https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/)
+
 ### RPi
 
 [RPi crosscompilation](https://github.com/HesselM/rpicross_notes)

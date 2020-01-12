@@ -52,6 +52,8 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 ### Just fascinating
 
+[Cutting Google out of your life (2019)](https://github.com/tycrek/degoogle)
+
 [How about being independent developer?](http://www.nathalielawhead.com/candybox/the-future-of-my-games-on-apple-post-catalina-and-what-this-means-for-art-games-in-general)
 
 [Meet the Bots that Help Moderate Stack Overflow](https://stackoverflow.blog/2019/09/17/meet-the-bots-that-help-moderate-stack-overflow/)
@@ -157,6 +159,8 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg/videos)
 
 [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+
+[Overnment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg/featured)
 
 ### Free
 

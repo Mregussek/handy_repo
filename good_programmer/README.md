@@ -1,5 +1,7 @@
 ## Good Programmer
 
+[SOLID Principles and How I Was Breaking Them as Junior Developer](https://codersbible.com/solid-principles-and-how-i-was-breaking-them-as-junior-developer/)
+
 [The epistemology of software quality](https://increment.com/teams/the-epistemology-of-software-quality/)
 
 [Why do arrays start from 0?](https://medium.com/@albertkoz/why-does-array-start-with-index-0-65ffc07cbce8)
