@@ -30,6 +30,10 @@
 
 [Recommendations for Engineers](https://pawelcislo.com/recommendations/)
 
+[How is computer programming different today than 20 years ago?](https://medium.com/@ssg/how-is-computer-programming-different-today-than-20-years-ago-9d0154d1b6ce)
+
+[Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
+
 ## Tools for programmers
 
 [#1](https://nohq.co/tools/)
@@ -63,3 +67,9 @@
 [Code Reviews at Google are lightweight and fast](https://www.michaelagreiler.com/code-reviews-at-google/)
 
 [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+
+### Interview
+
+[How to not hire software engineer?](http://tonsky.me/blog/hiring/)
+
+[Questions we could ask recruiter](https://github.com/viraptor/reverse-interview)

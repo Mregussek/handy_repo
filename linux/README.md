@@ -4,6 +4,8 @@
 
 [Awesome Shell](https://github.com/alebcay/awesome-shell)
 
+[Bash $* and $@](https://eklitzke.org/bash-$*-and-$@)
+
 ### Linux
 
 [Reverse Engineering for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/)
@@ -33,6 +35,8 @@
 [How to write good commit message](https://writingfordevelopers.substack.com/p/how-to-write-a-commit-message)
 
 [Successfully Merging the Work of 1000+ Developers](https://engineering.shopify.com/blogs/engineering/successfully-merging-work-1000-developers)
+
+[GIT - 7 okropnych błędów 💩💩(i jak je możesz poprawić...)](https://www.youtube.com/watch?v=aiDy82kQUJQ)
 
 ### Docker
 

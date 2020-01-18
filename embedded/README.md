@@ -18,6 +18,8 @@
 
 [RPi Pinout](https://pinout.xyz/)
 
+[How to Make a Raspberry Pi VPN Server](https://www.electromaker.io/tutorial/blog/raspberry-pi-vpn-server)
+
 ### Books
 
 [Better Embedded System Software](http://www.koopman.us/index.html)

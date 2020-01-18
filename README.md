@@ -74,10 +74,6 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 [Make own USB keyboard from scratch](http://blakesmith.me/2019/01/16/making-my-own-usb-keyboard-from-scratch.html)
 
-[How to understand RGB?](https://ciechanow.ski/color-spaces/)
-
-[What is the hexadecimal?](https://medium.com/wait-what/what-the-hex-467566b120af)
-
 [5 Mistakes to Avoid When Buying a MicroSD Card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/)
 
 [DevMovies](https://github.com/aryaminus/dev-movies)
@@ -101,12 +97,6 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 [IT Books [insecure site] #1](http://index-of.es/Varios/)
 
 [IT Books [insecure site] #2](http://index-of.es/Varios-2/)
-
-### Interview
-
-[How to not hire software engineer?](http://tonsky.me/blog/hiring/)
-
-[Questions we could ask recruiter](https://github.com/viraptor/reverse-interview)
 
 ### Podcasts
 
