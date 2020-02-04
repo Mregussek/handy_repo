@@ -6,6 +6,8 @@
 
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
+[OpenDSA Data Structures and Algorithms Modules Collection](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html)
+
 ## Interview
 
 [50+ questions data structures && algorithms](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)

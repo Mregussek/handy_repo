@@ -64,6 +64,8 @@
 
 [Installations for Deep Learning: Anaconda, Jupyter Notebook, Tensorflow, Keras ](https://www.youtube.com/watch?v=Ksu5zZIdfH0)
 
+[Understanding Convolutional Neural Networks: Making a Handwritten Digit Calculator | Keras #5](https://www.youtube.com/watch?v=eyKwPyOqMg4&feature=emb_title)
+
 ### Statistics
 
 [An Introduction to Statistical Learning {Book}](http://faculty.marshall.usc.edu/gareth-james/ISL/)

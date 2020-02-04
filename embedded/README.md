@@ -12,6 +12,12 @@
 
 [Learning embedded programming as a software engineer](https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/)
 
+[Mastering Embedded Linux, Part 3: Buildroot](https://www.thirtythreeforty.net/posts/2020/01/mastering-embedded-linux-part-3-buildroot/)
+
+### Github
+
+[Awesome Embedded](https://github.com/nhivp/Awesome-Embedded)
+
 ### RPi
 
 [RPi crosscompilation](https://github.com/HesselM/rpicross_notes)
