@@ -52,6 +52,8 @@ Also I want to learn merging, fetching and pulling in git. This repo is not so i
 
 ### Just fascinating
 
+[Against unnecessary databases](https://beepb00p.xyz/unnecessary-db.html)
+
 [Cutting Google out of your life (2019)](https://github.com/tycrek/degoogle)
 
 [How about being independent developer?](http://www.nathalielawhead.com/candybox/the-future-of-my-games-on-apple-post-catalina-and-what-this-means-for-art-games-in-general)

@@ -38,6 +38,8 @@
 
 [GIT - 7 okropnych błędów 💩💩(i jak je możesz poprawić...)](https://www.youtube.com/watch?v=aiDy82kQUJQ)
 
+[GIT BRANCHING STRATEGIES](https://pradeeploganathan.com/git/git-branching-strategies/)
+
 ### Docker
 
 [For absolute beginners](https://morioh.com/p/21e3236f275d/docker-for-absolute-beginners)

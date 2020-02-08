@@ -4,6 +4,10 @@
 
 [How to Make a Raspberry Pi VPN Server](https://www.electromaker.io/tutorial/blog/raspberry-pi-vpn-server)
 
+[Using a Raspberry Pi as Your Development Server](https://dev.to/pluralsight/using-a-raspberry-pi-as-your-development-server-28c)
+
+[UserOnboard](https://www.useronboard.com/user-onboarding-teardowns/)
+
 ## How to work
 
 [Working for someone vs. doing your own thing](https://tik.dev/dilemma)
@@ -13,6 +17,8 @@
 [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
 
 [How To Manage Your Stress as a Developer: Practical Tips](https://thevaluable.dev/developer-stress-management/)
+
+[My Second Year as a Solo Developer](https://mtlynch.io/solo-developer-year-2/)
 
 ## College
 

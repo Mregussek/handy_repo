@@ -17,3 +17,5 @@
 [Hidden VPN owners unveiled: 97 VPN products run by just 23 companies](https://vpnpro.com/blog/hidden-vpn-owners-unveiled-97-vpns-23-companies/)
 
 [How I encrypt my data in the cloud](https://www.robertclarke.com/cloud-encryption/)
+
+[Reverse engineering my router's firmware with binwalk](https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk/)

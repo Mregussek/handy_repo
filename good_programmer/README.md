@@ -44,6 +44,8 @@
 
 [How to Build Good Software](https://www.csc.gov.sg/articles/how-to-build-good-software)
 
+[What is an API Gateway?](https://dev.to/bearer/what-is-an-api-gateway-42i6)
+
 ## Github
 
 [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
