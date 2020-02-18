@@ -24,6 +24,8 @@
 
 [How I Build Learning Projects — Part I](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
 
+[A set of beginner-focused Machine Learning articles](https://victorzhou.com/tag/machine-learning/)
+
 ## How to learn ML / AI
 
 [How To Learn Data Science - My path](https://towardsdatascience.com/how-to-learn-data-science-my-path-ba7b9aa94f63)
@@ -37,6 +39,8 @@
 [Opinions on free resources to learn Deep Reinforcement Learning {Reddit}](https://www.reddit.com/r/learnmachinelearning/comments/chj0vl/opinions_on_free_resources_to_learn_deep/)
 
 [6 Pillars of a Successful AI-Strategy](https://www.aisoma.de/6-pillars-of-a-successful-ai-strategy/)
+
+[Introduction To Machine Learning Deployment Using Docker and Kubernetes](https://mlfromscratch.com/deployment-introduction/)
 
 ## Embedded
 
@@ -97,6 +101,8 @@
 [Real Time Face Detection on the RaspberryPi-4](https://www.instructables.com/id/Real-Time-Face-Detection-on-the-RaspberryPi-4/)
 
 [https://github.com/nickbild/shaides](https://github.com/nickbild/shaides)
+
+[How to Build Object Detection APIs Using TensorFlow and Flask](https://www.youtube.com/watch?v=_UqmgHKdntU)
 
 ## From AGH
 

@@ -34,6 +34,8 @@
 
 [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
 
+[What do software engineers who work at a large scale understand that other developers don't?](https://www.quora.com/What-do-software-engineers-who-work-at-a-large-scale-understand-that-other-developers-dont)
+
 ## Tools for programmers
 
 [#1](https://nohq.co/tools/)
@@ -47,6 +49,8 @@
 [What is an API Gateway?](https://dev.to/bearer/what-is-an-api-gateway-42i6)
 
 ## Github
+
+[Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 
 [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 

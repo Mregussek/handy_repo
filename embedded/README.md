@@ -14,6 +14,10 @@
 
 [Mastering Embedded Linux, Part 3: Buildroot](https://www.thirtythreeforty.net/posts/2020/01/mastering-embedded-linux-part-3-buildroot/)
 
+[So You Want To Be An Embedded Systems Developer](https://www.embeddedrelated.com/showarticle/1324.php)
+
+[Debugging Embedded Linux Ethernet](https://vmb-tech.com/blog/debugging-embedded-ethernet.html)
+
 ### Github
 
 [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded)

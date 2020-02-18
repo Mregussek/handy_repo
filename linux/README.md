@@ -49,3 +49,5 @@
 [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 
 [How to use docker multi-stage build to create optimal images for dev and production](https://geshan.com.np/blog/2019/11/how-to-use-docker-multi-stage-build/)
+
+[Introduction To Machine Learning Deployment Using Docker and Kubernetes](https://mlfromscratch.com/deployment-introduction/)

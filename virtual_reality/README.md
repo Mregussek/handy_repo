@@ -10,11 +10,21 @@
 
 [Best AR, VR & MR-Related Online Courses to Enroll Into](https://medium.com/@devar.anastasia/best-ar-vr-mr-related-online-courses-to-enroll-into-5503ee9f51d2)
 
+[What is Spatial Computing? How it Differs From AR and VR](https://www.youtube.com/watch?v=Xe1WbZINhkk)
+
 ## Augmented Reality
 
 [Foundational Ideas for Responsive Augmented Reality Content](https://www.torch.app/blog/foundational-ideas-responsive-augmented-reality-content)
 
 [The history of AR](https://www.colocationamerica.com/blog/history-of-augmented-reality)
+
+[Fundamentals of display technologies for Augmented and Virtual Reality](https://medium.com/hackernoon/fundamentals-of-display-technologies-for-augmented-and-virtual-reality-c88e4b9b0895)
+
+[A computer’s understanding of space for Augmented Reality](https://medium.com/hackernoon/a-computers-understanding-of-space-for-augmented-reality-c0fd40a52900)
+
+[A designer’s guide to hardware and software for mobile AR](https://uxdesign.cc/designers-guide-to-hardware-and-software-for-mobile-ar-5c800503676d)
+
+[The human eye’s understanding of space for Augmented Reality](https://uxdesign.cc/human-eyes-understanding-of-space-for-augmented-reality-d5ce4d9fa37b)
 
 ## Github
 
