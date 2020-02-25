@@ -6,6 +6,8 @@
 
 [Video resources for machine learning](http://dustintran.com/blog/video-resources-for-machine-learning)
 
+[Python for Data Science](https://www.edx.org/course/python-for-data-science-2)
+
 ### Notes from courses
 
 [deeplearning.ai](https://github.com/y-ouali/deeplearning.ai_notes)

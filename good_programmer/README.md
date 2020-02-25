@@ -36,6 +36,10 @@
 
 [What do software engineers who work at a large scale understand that other developers don't?](https://www.quora.com/What-do-software-engineers-who-work-at-a-large-scale-understand-that-other-developers-dont)
 
+[The 25 most recommended programming books of all-time](https://dev.to/daolf/the-25-most-recommended-programming-books-of-all-time-5fel)
+
+[My productive habits in 2020 (as a software engineer)](https://www.ksharifbd.com/blog/my-productivity-habits-in-2020/)
+
 ## Tools for programmers
 
 [#1](https://nohq.co/tools/)
@@ -79,3 +83,5 @@
 [How to not hire software engineer?](http://tonsky.me/blog/hiring/)
 
 [Questions we could ask recruiter](https://github.com/viraptor/reverse-interview)
+
+[Coding Interview University](https://github.com/jwasham/coding-interview-university)

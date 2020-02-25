@@ -12,6 +12,8 @@
 
 [TTY](https://www.linusakesson.net/programming/tty/)
 
+[The Ultimate Guide To Use VS Code With Windows Subsystem for Linux (WSL)](https://dev.to/ajeet/the-ultimate-guide-to-use-vs-code-with-windows-subsystem-for-linux-wsl-51hc)
+
 ### Git
 
 [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)

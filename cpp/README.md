@@ -63,3 +63,5 @@
 ## Fascinating
 
 [A basic C++ website - a complete example](https://angelsensoftware.com/blog/2019/1_CppWebsite.html)
+
+[Fast Accurate Memory Test Code in C](https://barrgroup.com/embedded-systems/how-to/memory-test-suite-c)

@@ -8,6 +8,10 @@
 
 [UserOnboard](https://www.useronboard.com/user-onboarding-teardowns/)
 
+[How to run a startup for $6 a year](https://news.ycombinator.com/item?id=22354060)
+
+[The 25 most recommended startup books of all time](https://dev.to/daolf/the-25-most-recommended-startup-books-of-all-time-2o2h)
+
 ## How to work
 
 [Working for someone vs. doing your own thing](https://tik.dev/dilemma)
