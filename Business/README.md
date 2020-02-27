@@ -34,6 +34,8 @@
 
 [Top 10 Startup Failures of 2019](https://medium.com/swlh/top-10-startup-failures-of-2019-375b4605ee73)
 
+[5 arguments to make managers care about technical debt](https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt/)
+
 ## Interview
 
 [Questions we could ask recruiter](https://github.com/viraptor/reverse-interview)

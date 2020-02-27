@@ -12,6 +12,8 @@
 
 [What is Spatial Computing? How it Differs From AR and VR](https://www.youtube.com/watch?v=Xe1WbZINhkk)
 
+[How To Design Mobile Apps For One-Hand Usage](https://www.smashingmagazine.com/2020/02/design-mobile-apps-one-hand-usage/)
+
 ## Augmented Reality
 
 [Foundational Ideas for Responsive Augmented Reality Content](https://www.torch.app/blog/foundational-ideas-responsive-augmented-reality-content)
