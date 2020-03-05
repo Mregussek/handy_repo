@@ -2,27 +2,29 @@
 
 ## General
 
-[HOW I TEACH EMBEDDED SYSTEMS](https://jaycarlson.net/2019/07/26/how-i-teach-embedded-systems/)
+[Awesome Embedded](https://github.com/nhivp/Awesome-Embedded)
 
-[Exceptions in embedded](https://www.research.ed.ac.uk/portal/en/publications/lowcost-deterministic-c-exceptions-for-embedded-systems(2cfc59d5-fa95-45e0-83b2-46e51098cf1f).html)
-
-[Zero to main(): How to Write a Bootloader from Scratch](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
-
-[My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
-
-[Learning embedded programming as a software engineer](https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/)
-
-[Mastering Embedded Linux, Part 3: Buildroot](https://www.thirtythreeforty.net/posts/2020/01/mastering-embedded-linux-part-3-buildroot/)
+## Learn embedded
 
 [So You Want To Be An Embedded Systems Developer](https://www.embeddedrelated.com/showarticle/1324.php)
 
+[How I teach embedded systems](https://jaycarlson.net/2019/07/26/how-i-teach-embedded-systems/)
+
+[Mastering Embedded Linux, Part 3: Buildroot](https://www.thirtythreeforty.net/posts/2020/01/mastering-embedded-linux-part-3-buildroot/)
+
+[Learning embedded programming as a software engineer](https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/)
+
+[Exceptions in embedded](https://www.research.ed.ac.uk/portal/en/publications/lowcost-deterministic-c-exceptions-for-embedded-systems(2cfc59d5-fa95-45e0-83b2-46e51098cf1f).html)
+
+## Career
+
+[My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
+
+## Debugging
+
 [Debugging Embedded Linux Ethernet](https://vmb-tech.com/blog/debugging-embedded-ethernet.html)
 
-### Github
-
-[Awesome Embedded](https://github.com/nhivp/Awesome-Embedded)
-
-### RPi
+## RPi
 
 [RPi crosscompilation](https://github.com/HesselM/rpicross_notes)
 
@@ -30,14 +32,28 @@
 
 [How to Make a Raspberry Pi VPN Server](https://www.electromaker.io/tutorial/blog/raspberry-pi-vpn-server)
 
-### Books
+[Using a Raspberry Pi as Your Development Server](https://dev.to/pluralsight/using-a-raspberry-pi-as-your-development-server-28c)
+
+## Books
 
 [Better Embedded System Software](http://www.koopman.us/index.html)
 
-### Machine Learning
+## Machine Learning
 
 [Machine Learning in the embedded world](https://www.reddit.com/r/embedded/comments/cjq8qt/machine_learning_in_the_embedded_world/)
 
-### Other
+## Other
+
+[5 Mistakes to Avoid When Buying a MicroSD Card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/)
 
 [Which programming language use the least electricity?](https://thenewstack.io/which-programming-languages-use-the-least-electricity)
+
+[Make own USB keyboard from scratch](http://blakesmith.me/2019/01/16/making-my-own-usb-keyboard-from-scratch.html)
+
+[How to write bootloader from scratch](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
+
+[Zero to main(): How to Write a Bootloader from Scratch](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
+
+[Build your own ...](https://github.com/danistefanovic/build-your-own-x)
+
+[OS from scratch](https://github.com/cfenollosa/os-tutorial)

@@ -1,1 +1,0 @@
-[Audio Processing for Dummies](http://adventures.michaelfbryan.com/posts/audio-processing-for-dummies/)

@@ -1,58 +1,12 @@
 # Artificial Inteligence / Machine Learning
 
-[Great Collection at Reddit](https://www.reddit.com/r/MachineLearning/wiki/index)
+Please notice, that there are also *NLP.md* and *COURSES.md* files, where you can find some useful links too.
 
-[Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
-
-[Data Engineering](https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b)
-
-[Data Science](https://medium.com/@SeattleDataGuy/learning-data-science-our-favorite-resources-to-learn-data-science-from-free-to-not-47beb6424de1)
-
-[Co to jest uczenie maszynowe? [PL]](https://uczymymaszyny.pl/puk-puk-kto-tam-uczenie-maszynowe/)
-
-[How to plan and execute your ML and DL projects](https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/)
-
-[Machine Learning Summer Schools](https://github.com/sshkhr/awesome-mlss)
-
-[Recommended books](http://www.doradolist.com/machine-learning.html?fbclid=IwAR1OpOK8jb6jW5RBM0wai5I9qVYs6bRz-Xx8reUHvouP__2Zzukcjt-I7ow)
-
-[101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://blog.datasciencedojo.com/machine-learning-algorithms/?fbclid=IwAR3YUW3s6kQ8HSl7FQEZESKN0IAZ-XOAcgjtyym74Av454bCZoJCad3LHBQ)
-
-[Dive into Deep Learning {Book}](https://d2l.ai/index.html)
-
-[The mission of {PapersWithCode} is to create a free and open resource with Machine Learning papers, code and evaluation tables](https://paperswithcode.com/)
-
-[How I Build Learning Projects — Part I](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
-
-[A set of beginner-focused Machine Learning articles](https://victorzhou.com/tag/machine-learning/)
-
-## How to learn ML / AI
-
-[How To Learn Data Science - My path](https://towardsdatascience.com/how-to-learn-data-science-my-path-ba7b9aa94f63)
-
-[ML in simple words](https://vas3k.com/blog/machine_learning/)
-
-[30 Intermediate AI Terms You Should Know](https://lionbridge.ai/articles/30-intermediate-ai-terms-you-should-know/)
-
-[Neural Networks: Feedforward and Backpropagation Explained & Optimization](https://mlfromscratch.com/neural-networks-explained/)
-
-[Opinions on free resources to learn Deep Reinforcement Learning {Reddit}](https://www.reddit.com/r/learnmachinelearning/comments/chj0vl/opinions_on_free_resources_to_learn_deep/)
-
-[6 Pillars of a Successful AI-Strategy](https://www.aisoma.de/6-pillars-of-a-successful-ai-strategy/)
-
-[Introduction To Machine Learning Deployment Using Docker and Kubernetes](https://mlfromscratch.com/deployment-introduction/)
-
-## Embedded
-
-[Machine Learning in the embedded world](https://www.reddit.com/r/embedded/comments/cjq8qt/machine_learning_in_the_embedded_world/)
-
-## Github
+## General
 
 [Awesome Bots](https://github.com/invocable/awesome-bots)
 
 [Awesome AI](https://github.com/hades217/awesome-ai)
-
-[conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets)
 
 [ML asset management](https://github.com/firmai/machine-learning-asset-management)
 
@@ -71,6 +25,60 @@
 [VoiceBook](https://github.com/jim-schwoebel/voicebook)
 
 [Cool ML slides from Berkeley](https://github.com/csinva/csinva.github.io)
+
+## Books
+
+[Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
+
+[Recommended books](http://www.doradolist.com/machine-learning.html?fbclid=IwAR1OpOK8jb6jW5RBM0wai5I9qVYs6bRz-Xx8reUHvouP__2Zzukcjt-I7ow)
+
+[Dive into Deep Learning {Book}](https://d2l.ai/index.html)
+
+## Learning Machine Learning
+
+[Co to jest uczenie maszynowe? [PL]](https://uczymymaszyny.pl/puk-puk-kto-tam-uczenie-maszynowe/)
+
+[How To Learn Data Science - My path](https://towardsdatascience.com/how-to-learn-data-science-my-path-ba7b9aa94f63)
+
+[ML in simple words](https://vas3k.com/blog/machine_learning/)
+
+[30 Intermediate AI Terms You Should Know](https://lionbridge.ai/articles/30-intermediate-ai-terms-you-should-know/)
+
+[6 Pillars of a Successful AI-Strategy](https://www.aisoma.de/6-pillars-of-a-successful-ai-strategy/)
+
+[Introduction To Machine Learning Deployment Using Docker and Kubernetes](https://mlfromscratch.com/deployment-introduction/)
+
+[Machine Learning Summer Schools](https://github.com/sshkhr/awesome-mlss)
+
+[101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://blog.datasciencedojo.com/machine-learning-algorithms/?fbclid=IwAR3YUW3s6kQ8HSl7FQEZESKN0IAZ-XOAcgjtyym74Av454bCZoJCad3LHBQ)
+
+## Learning Deep Learning
+
+[Neural Networks: Feedforward and Backpropagation Explained & Optimization](https://mlfromscratch.com/neural-networks-explained/)
+
+## Learning Others
+
+[Opinions on free resources to learn Deep Reinforcement Learning {Reddit}](https://www.reddit.com/r/learnmachinelearning/comments/chj0vl/opinions_on_free_resources_to_learn_deep/)
+
+[Data Engineering](https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b)
+
+[Data Science](https://medium.com/@SeattleDataGuy/learning-data-science-our-favorite-resources-to-learn-data-science-from-free-to-not-47beb6424de1)
+
+## Articles
+
+[Great Collection at Reddit](https://www.reddit.com/r/MachineLearning/wiki/index)
+
+[A set of beginner-focused Machine Learning articles](https://victorzhou.com/tag/machine-learning/)
+
+[The mission of {PapersWithCode} is to create a free and open resource with Machine Learning papers, code and evaluation tables](https://paperswithcode.com/)
+
+## Projects
+
+[How to plan and execute your ML and DL projects](https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/)
+
+[How I Build Learning Projects — Part I](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
+
+[Meet the Bots that Help Moderate Stack Overflow](https://stackoverflow.blog/2019/09/17/meet-the-bots-that-help-moderate-stack-overflow/)
 
 ## Interview
 
@@ -104,22 +112,6 @@
 
 [How to Build Object Detection APIs Using TensorFlow and Flask](https://www.youtube.com/watch?v=_UqmgHKdntU)
 
-## From AGH
-
-[Hype Cycle](https://www.gartner.com/smarterwithgartner/5-trends-emerge-in-gartner-hype-cycle-for-emerging-technologies-2018/)
-
-[Stanford ML course](https://www.coursera.org/learn/machine-learning)
-
-[Deep Learning book](https://www.deeplearningbook.org/)
-
-[Another ML book](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
-
-[Solving ML problems](https://www.kaggle.com/)
-
-[Solutions for the site above](http://ndres.me/kaggle-past-solutions/)
-
-[For ML freaks](https://modeldepot.io/)
-
 ## Datasets
 
 [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
@@ -127,3 +119,5 @@
 [Machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
 
 [DataSetList](https://www.datasetlist.com)
+
+[conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets)

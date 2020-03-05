@@ -1,22 +1,28 @@
-## Python
+# Python
 
-[Usage of search algorithms](https://stackabuse.com/search-algorithms-in-python/)
-
-[Make Python script executable](https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263)
-
-[Python consumes a lot of memory or how to reduce the size of objects?](https://m.habr.com/en/post/458518/?fbclid=IwAR1gg0sBfXLYhrVDQoIIixAs2DSda5rNC0AyBBUYGaVXu7tD7bpTPrCg-Sg)
-
-[Every algorithm in Python](https://github.com/TheAlgorithms/Python)
+## General
 
 [Why Python is slower than C?](https://www.quora.com/Why-does-C-code-run-faster-than-Pythons)
 
+[Make Python script executable](https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263)
+
+## Algorithms
+
+[Usage of search algorithms](https://stackabuse.com/search-algorithms-in-python/)
+
+[Every algorithm in Python](https://github.com/TheAlgorithms/Python)
+
+## Learn Python
+
 [Getting started with Lambda on AWS using Python](https://medium.com/@emlynoregan/getting-started-with-lambda-on-aws-in-2018-using-python-3ed34c48671c)
 
-[I Created a “Bot” to Send a Message When the Bus Comes Every Morning](https://itnext.io/i-created-a-bot-to-send-a-message-when-the-bus-comes-every-morning-7469d00a72cf)
+[Expert python topics you should know](https://dev.libreneitor.com/expert-python-topics-you-should-know/)
+
+## Good practices
 
 [How to set up a perfect Python project](https://sourcery.ai/blog/python-best-practices/)
 
-[Expert python topics you should know](https://dev.libreneitor.com/expert-python-topics-you-should-know/)
+[Python consumes a lot of memory or how to reduce the size of objects?](https://m.habr.com/en/post/458518/?fbclid=IwAR1gg0sBfXLYhrVDQoIIixAs2DSda5rNC0AyBBUYGaVXu7tD7bpTPrCg-Sg)
 
 ## Windows
 
@@ -39,3 +45,5 @@
 [Tracking your eyes using Python](https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6)
 
 [A simple face detection utility from Python to Go](https://blog.owulveryck.info/2019/08/16/a-simple-face-detection-utility-from-python-to-go.html)
+
+[I Created a “Bot” to Send a Message When the Bus Comes Every Morning](https://itnext.io/i-created-a-bot-to-send-a-message-when-the-bus-comes-every-morning-7469d00a72cf)

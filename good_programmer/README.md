@@ -1,74 +1,72 @@
-## Good Programmer
+# How to be a better programmer?
+
+## Clean Code / Good Software
 
 [SOLID Principles and How I Was Breaking Them as Junior Developer](https://codersbible.com/solid-principles-and-how-i-was-breaking-them-as-junior-developer/)
 
 [The epistemology of software quality](https://increment.com/teams/the-epistemology-of-software-quality/)
 
-[Why do arrays start from 0?](https://medium.com/@albertkoz/why-does-array-start-with-index-0-65ffc07cbce8)
-
-[Technical Debt](https://efficientuser.com/2019/11/27/technical-debt/)
-
-[3 tribes of programming](https://josephg.com/blog/3-tribes/)
-
-[Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
-
-[Asynchronous programming](https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking)
-
-[Concurrency and parallelism are two different things](https://luminousmen.com/post/concurrency-and-parallelism-are-different)
-
-[Things All Developers Should Learn In College](https://dev.to/taillogs/what-developers-should-actually-learn-in-college-2nen)
-
-[How I side project](https://dotink.co/posts/how-i-side-project/)
-
 [Top 10 Object-Oriented Design Principles for writing Clean Code](https://dev.to/javinpaul/top-10-object-oriented-design-principles-for-writing-clean-code-4pe1)
-
-[Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
-
-[How To Manage Your Stress as a Developer: Practical Tips](https://thevaluable.dev/developer-stress-management/)
-
-[Złożoność obliczeniowa](https://typeofweb.com/zlozonosc-obliczeniowa-czasowa-pamieciowa-algorytmow/)
-
-[Recommendations for Engineers](https://pawelcislo.com/recommendations/)
-
-[How is computer programming different today than 20 years ago?](https://medium.com/@ssg/how-is-computer-programming-different-today-than-20-years-ago-9d0154d1b6ce)
 
 [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
 
-[What do software engineers who work at a large scale understand that other developers don't?](https://www.quora.com/What-do-software-engineers-who-work-at-a-large-scale-understand-that-other-developers-dont)
-
-[The 25 most recommended programming books of all-time](https://dev.to/daolf/the-25-most-recommended-programming-books-of-all-time-5fel)
-
-[My productive habits in 2020 (as a software engineer)](https://www.ksharifbd.com/blog/my-productivity-habits-in-2020/)
-
-## Tools for programmers
-
-[#1](https://nohq.co/tools/)
-
-[10 Things To Boost Your Workflow in Visual Studio Code](https://medium.com/better-programming/10-things-to-boost-your-workflow-in-visual-studio-code-1a64d20cc6e4)
-
-## Software
+[How is computer programming different today than 20 years ago?](https://medium.com/@ssg/how-is-computer-programming-different-today-than-20-years-ago-9d0154d1b6ce)
 
 [How to Build Good Software](https://www.csc.gov.sg/articles/how-to-build-good-software)
 
-[What is an API Gateway?](https://dev.to/bearer/what-is-an-api-gateway-42i6)
+[Technical Debt](https://efficientuser.com/2019/11/27/technical-debt/)
 
-## Github
+## Being better as a Developer
+
+[My productive habits in 2020 (as a software engineer)](https://www.ksharifbd.com/blog/my-productivity-habits-in-2020/)
+
+[What do software engineers who work at a large scale understand that other developers don't?](https://www.quora.com/What-do-software-engineers-who-work-at-a-large-scale-understand-that-other-developers-dont)
+
+[How To Manage Your Stress as a Developer: Practical Tips](https://thevaluable.dev/developer-stress-management/)
+
+[Things All Developers Should Learn In College](https://dev.to/taillogs/what-developers-should-actually-learn-in-college-2nen)
+
+[Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
+
+[How I side project](https://dotink.co/posts/how-i-side-project/)
+
+[Recommendations for Engineers](https://pawelcislo.com/recommendations/)
+
+[3 tribes of programming](https://josephg.com/blog/3-tribes/)
+
+[Against unnecessary databases](https://beepb00p.xyz/unnecessary-db.html)
+
+## Developer Laws
 
 [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
+
+[Developer Laws](https://github.com/dwmkerr/hacker-laws)
+
+[Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+
+## Experience of others developers
+
+[Decade of remote work](https://blog.viktorpetersson.com/2019/05/18/a-decade-of-remote.html)
+
+[How about being independent developer?](http://www.nathalielawhead.com/candybox/the-future-of-my-games-on-apple-post-catalina-and-what-this-means-for-art-games-in-general)
+
+## Career
 
 [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 
 [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
-[Improve youself in Computer Science](https://github.com/anu0012/awesome-computer-science-opportunities)
+[Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
-[Developer Laws](https://github.com/dwmkerr/hacker-laws)
+[Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin)
 
-## Open Source
+### Interview
 
-[Friendly Open Source projects should reserve specific issues for newbies](https://www.firsttimersonly.com/)
+[Questions we could ask recruiter](https://github.com/viraptor/reverse-interview)
 
-### Code Review
+[Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
+## Code Review
 
 [How to review code?](https://maxbittker.github.io/code-review)
 
@@ -78,10 +76,8 @@
 
 [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 
-### Interview
+## Tools for programmers
 
-[How to not hire software engineer?](http://tonsky.me/blog/hiring/)
+[Just tools](https://nohq.co/tools/)
 
-[Questions we could ask recruiter](https://github.com/viraptor/reverse-interview)
-
-[Coding Interview University](https://github.com/jwasham/coding-interview-university)
+[10 Things To Boost Your Workflow in Visual Studio Code](https://medium.com/better-programming/10-things-to-boost-your-workflow-in-visual-studio-code-1a64d20cc6e4)
