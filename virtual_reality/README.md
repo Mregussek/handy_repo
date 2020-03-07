@@ -1,3 +1,5 @@
+# VR
+
 ## Learning
 
 [How to start making VR games for beginners: what to learn, and what you'll need](https://www.reddit.com/r/learnVRdev/comments/65cvxo/how_to_start_making_vr_games_for_beginners_what/)
@@ -31,3 +33,7 @@
 ## Github
 
 [Game Programmer](https://github.com/miloyip/game-programmer)
+
+## Game Dev
+
+[100 Tips For A Game Developer ! (Part 1/2)](https://www.youtube.com/watch?v=a1a1_HIEyI8)

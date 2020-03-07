@@ -18,6 +18,10 @@
 
 [I charged $18,000 for a Static HTML Page](https://idiallo.com/blog/18000-dollars-static-web-page)
 
+## Website
+
+[How many users block google analytics?](https://blog.wesleyac.com/posts/google-analytics)
+
 ## Failures
 
 [Top 10 Startup Failures of 2019](https://medium.com/swlh/top-10-startup-failures-of-2019-375b4605ee73)

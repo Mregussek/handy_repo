@@ -38,8 +38,6 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 
 [Co to jest uczenie maszynowe? [PL]](https://uczymymaszyny.pl/puk-puk-kto-tam-uczenie-maszynowe/)
 
-[How To Learn Data Science - My path](https://towardsdatascience.com/how-to-learn-data-science-my-path-ba7b9aa94f63)
-
 [ML in simple words](https://vas3k.com/blog/machine_learning/)
 
 [30 Intermediate AI Terms You Should Know](https://lionbridge.ai/articles/30-intermediate-ai-terms-you-should-know/)
@@ -51,6 +49,10 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 [Machine Learning Summer Schools](https://github.com/sshkhr/awesome-mlss)
 
 [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://blog.datasciencedojo.com/machine-learning-algorithms/?fbclid=IwAR3YUW3s6kQ8HSl7FQEZESKN0IAZ-XOAcgjtyym74Av454bCZoJCad3LHBQ)
+
+[List of Machine Learning Resources for a Beginner](https://www.reddit.com/r/learnmachinelearning/comments/fevvo6/list_of_machine_learning_resources_for_a_beginner/)
+
+[[D] Advanced courses update](https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update/)
 
 ## Learning Deep Learning
 
@@ -64,6 +66,12 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 
 [Data Science](https://medium.com/@SeattleDataGuy/learning-data-science-our-favorite-resources-to-learn-data-science-from-free-to-not-47beb6424de1)
 
+[How To Learn Data Science - My path](https://towardsdatascience.com/how-to-learn-data-science-my-path-ba7b9aa94f63)
+
+[Collection of materials for Newbie in Deep Learning and Machine Learning and Data Science](https://itnext.io/collection-of-materials-for-newbie-in-deep-learning-and-machine-learning-and-data-science-56ccaa73c18)
+
+[Becoming 1% better at data science everyday](https://github.com/amitness/learning)
+
 ## Articles
 
 [Great Collection at Reddit](https://www.reddit.com/r/MachineLearning/wiki/index)
@@ -71,6 +79,8 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 [A set of beginner-focused Machine Learning articles](https://victorzhou.com/tag/machine-learning/)
 
 [The mission of {PapersWithCode} is to create a free and open resource with Machine Learning papers, code and evaluation tables](https://paperswithcode.com/)
+
+[5 Machine Learning Papers on Face Recognition](https://lionbridge.ai/articles/5-machine-learning-papers-on-face-recognition/)
 
 ## Projects
 
@@ -108,7 +118,7 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 
 [Real Time Face Detection on the RaspberryPi-4](https://www.instructables.com/id/Real-Time-Face-Detection-on-the-RaspberryPi-4/)
 
-[https://github.com/nickbild/shaides](https://github.com/nickbild/shaides)
+[ShAIdes](https://github.com/nickbild/shaides)
 
 [How to Build Object Detection APIs Using TensorFlow and Flask](https://www.youtube.com/watch?v=_UqmgHKdntU)
 
@@ -119,5 +129,3 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 [Machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
 
 [DataSetList](https://www.datasetlist.com)
-
-[conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets)

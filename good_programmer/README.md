@@ -18,6 +18,8 @@
 
 ## Being better as a Developer
 
+[Becoming 1% better at data science everyday](https://github.com/amitness/learning)
+
 [My productive habits in 2020 (as a software engineer)](https://www.ksharifbd.com/blog/my-productivity-habits-in-2020/)
 
 [What do software engineers who work at a large scale understand that other developers don't?](https://www.quora.com/What-do-software-engineers-who-work-at-a-large-scale-understand-that-other-developers-dont)
@@ -35,6 +37,8 @@
 [3 tribes of programming](https://josephg.com/blog/3-tribes/)
 
 [Against unnecessary databases](https://beepb00p.xyz/unnecessary-db.html)
+
+[How to Write and Design User-Friendly Error Messages](https://medium.com/thinking-design/how-to-write-design-user-friendly-error-messages-87d0207bb902)
 
 ## Developer Laws
 

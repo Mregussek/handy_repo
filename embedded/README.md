@@ -16,6 +16,10 @@
 
 [Exceptions in embedded](https://www.research.ed.ac.uk/portal/en/publications/lowcost-deterministic-c-exceptions-for-embedded-systems(2cfc59d5-fa95-45e0-83b2-46e51098cf1f).html)
 
+[What is the standard open-source library for real-time embedded computer vision/audio DSP?](https://www.reddit.com/r/embedded/comments/feoftd/what_is_the_standard_opensource_library_for/)
+
+[Optimize Your Workflow By Moving Embedded Projects to CMake](https://dornerworks.com/blog/moving-embedded-projects-to-cmake)
+
 ## Career
 
 [My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
@@ -33,6 +37,10 @@
 [How to Make a Raspberry Pi VPN Server](https://www.electromaker.io/tutorial/blog/raspberry-pi-vpn-server)
 
 [Using a Raspberry Pi as Your Development Server](https://dev.to/pluralsight/using-a-raspberry-pi-as-your-development-server-28c)
+
+[Build your own multi-room audio system with Bluetooth, Airplay, and Spotify using Raspberry Pis](https://www.balena.io/blog/diy-raspberry-pi-multi-room-audio-system/)
+
+[#Raspberry Pi 4B: Real-Time System using Preempt-RT (kernel 4.19.y)](https://lemariva.com/blog/2019/08/raspberry-pi-4b-preempt-rt-kernel-419y-performance-test)
 
 ## Books
 
@@ -57,3 +65,5 @@
 [Build your own ...](https://github.com/danistefanovic/build-your-own-x)
 
 [OS from scratch](https://github.com/cfenollosa/os-tutorial)
+
+[Accessing raw memory in Embedded Linux](https://vmb-tech.com/blog/access-raw-mem-embedded-linux.html)

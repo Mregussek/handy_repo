@@ -35,3 +35,7 @@
 ## Open Source
 
 [Friendly Open Source projects should reserve specific issues for newbies](https://www.firsttimersonly.com/)
+
+[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+
+[🚀✨ Help beginners to contribute to open source projects](https://github.com/firstcontributions/first-contributions)
