@@ -1,3 +1,9 @@
+# Algorithms and Data Structures
+
+## General
+
+[8 Common Data Structures every Programmer must know](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
+
 ## Learning Resources
 
 [142 resources to master coding skills](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
