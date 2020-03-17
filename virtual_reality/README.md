@@ -38,6 +38,8 @@
 
 [100 Tips For A Game Developer ! (Part 1/2)](https://www.youtube.com/watch?v=a1a1_HIEyI8)
 
+[https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer)
+
 ## Unity
 
 [How To: Create a Video Chat App in Unity](https://medium.com/agora-io/how-to-create-a-video-chat-app-in-unity-26780b479a78)

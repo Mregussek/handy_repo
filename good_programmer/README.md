@@ -60,9 +60,15 @@
 
 [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
+[Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin)
+
+### Remote Work
+
 [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
-[Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin)
+[Tools for remote work](https://nohq.co/tools/)
+
+[Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
 
 ### Interview
 
