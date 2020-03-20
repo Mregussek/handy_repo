@@ -16,6 +16,8 @@
 
 [Technical Debt](https://efficientuser.com/2019/11/27/technical-debt/)
 
+[Software Engineering Principles](https://stephen-young.me.uk/2020/03/03/software-engineering-principles.html)
+
 ## Being better as a Developer
 
 [Becoming 1% better at data science everyday](https://github.com/amitness/learning)
@@ -53,6 +55,10 @@
 [Decade of remote work](https://blog.viktorpetersson.com/2019/05/18/a-decade-of-remote.html)
 
 [How about being independent developer?](http://www.nathalielawhead.com/candybox/the-future-of-my-games-on-apple-post-catalina-and-what-this-means-for-art-games-in-general)
+
+## Fascinating
+
+[Energy efficiency across programming languages: how do energy, time, and memory relate?](https://www.researchgate.net/publication/320436353_Energy_efficiency_across_programming_languages_how_do_energy_time_and_memory_relate)
 
 ## Career
 

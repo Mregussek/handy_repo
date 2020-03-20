@@ -26,6 +26,8 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 
 [Cool ML slides from Berkeley](https://github.com/csinva/csinva.github.io)
 
+[Document Classification: 7 pragmatic approaches for small datasets](https://neptune.ai/blog/document-classification-small-datasets?utm_source=reddit&utm_medium=post&utm_campaign=blog-document-classification-small-datasets)
+
 ## Books
 
 [Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
@@ -57,6 +59,8 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 ## Learning Deep Learning
 
 [Neural Networks: Feedforward and Backpropagation Explained & Optimization](https://mlfromscratch.com/neural-networks-explained/)
+
+[Understand the algebra behind Deep Learning](https://www.ismailmebsout.com/deep-learning/)
 
 ## Learning Others
 
@@ -97,6 +101,8 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 [100+ Basic Deep Learning Interview Questions and Answers](http://theprofessionalspoint.blogspot.com/2019/06/100-basic-deep-learning-interview.html)
 
 [Deep Learning Topics to refresh before interview](https://github.com/vlgiitr/DL_Topics)
+
+[Interview Case Study](https://spencerschien.info/categories/interview-case-study/)
 
 ## Example AI-Based Apps
 
