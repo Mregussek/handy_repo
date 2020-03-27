@@ -19,3 +19,5 @@
 [How I encrypt my data in the cloud](https://www.robertclarke.com/cloud-encryption/)
 
 [Reverse engineering my router's firmware with binwalk](https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk/)
+
+[Reverse Engineering a Digital Answering Machine (part 1)](https://ivanwick.github.io/2020/03/15/answering-machine-pt1.html)

@@ -32,6 +32,8 @@
 
 [The Language Agnostic, All-Purpose, Incredible, Makefile](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html)
 
+[CMake basics](https://www.siliceum.com/en/blog/post/cmake_01_cmake-basics)
+
 ### Books
 
 [MIT Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
@@ -59,3 +61,5 @@
 [A basic C++ website - a complete example](https://angelsensoftware.com/blog/2019/1_CppWebsite.html)
 
 [Fast Accurate Memory Test Code in C](https://barrgroup.com/embedded-systems/how-to/memory-test-suite-c)
+
+[Vector of Objects vs Vector of Pointers And Memory Access Patterns](https://www.bfilipek.com/2014/05/vector-of-objects-vs-vector-of-pointers.html)
