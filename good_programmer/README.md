@@ -60,6 +60,8 @@
 
 [Energy efficiency across programming languages: how do energy, time, and memory relate?](https://www.researchgate.net/publication/320436353_Energy_efficiency_across_programming_languages_how_do_energy_time_and_memory_relate)
 
+[Sorting 1 million 8-decimal-digit numbers with 1 MB of RAM](https://stackoverflow.com/questions/12748246/sorting-1-million-8-decimal-digit-numbers-with-1-mb-of-ram/13000176#13000176)
+
 ## Career
 
 [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
@@ -97,3 +99,7 @@
 [Just tools](https://nohq.co/tools/)
 
 [10 Things To Boost Your Workflow in Visual Studio Code](https://medium.com/better-programming/10-things-to-boost-your-workflow-in-visual-studio-code-1a64d20cc6e4)
+
+[Free online tool to create diagrams](https://app.diagrams.net)
+
+[API List](https://apilist.fun)

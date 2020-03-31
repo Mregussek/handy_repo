@@ -63,3 +63,5 @@
 [Fast Accurate Memory Test Code in C](https://barrgroup.com/embedded-systems/how-to/memory-test-suite-c)
 
 [Vector of Objects vs Vector of Pointers And Memory Access Patterns](https://www.bfilipek.com/2014/05/vector-of-objects-vs-vector-of-pointers.html)
+
+[Create easy adventure app](http://home.hccnet.nl/r.helderman/adventures/htpataic01.html)

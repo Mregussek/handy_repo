@@ -23,3 +23,7 @@
 ## Machine Learning
 
 [Introduction To Machine Learning Deployment Using Docker and Kubernetes](https://mlfromscratch.com/deployment-introduction/)
+
+## Fascinating
+
+[How Container Networking Affects Database Performance](https://www.percona.com/blog/2020/03/18/how-container-networking-affects-database-performance/)
