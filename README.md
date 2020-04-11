@@ -108,6 +108,10 @@ My plan is to store here some of helpful websites or ideas, which I can forget w
 
 [Overnment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg/featured)
 
+[javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
+
+[Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+
 ## Free
 
 [Free APIs to use](https://public-apis.xyz/)

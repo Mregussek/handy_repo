@@ -39,3 +39,9 @@
 [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 [🚀✨ Help beginners to contribute to open source projects](https://github.com/firstcontributions/first-contributions)
+
+[Open Source Guides](https://opensource.guide)
+
+[First Contributions](https://github.com/firstcontributions/first-contributions)
+
+[EXPLORE OPEN SOURCE PROJECTS AND JUMP IN!](https://up-for-grabs.net/#/)

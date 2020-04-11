@@ -20,7 +20,15 @@
 
 [Czy C++ jest wolniejszy od C? Kilka słów o Zero Cost Abstraction](https://cpp-polska.pl/post/czy-c-jest-wolniejszy-od-cij-kilka-slow-o-zero-cost-abstraction)
 
+[shared_ptr - basics and internals with examples](https://www.nextptr.com/tutorial/ta1358374985/shared_ptr-basics-and-internals-with-examples)
+
+## Writing efficient code
+
+[How to get better at C++ infrastructure design?](https://www.reddit.com/r/cpp/comments/ftm8n3/how_to_get_better_at_c_infrastructure_design/)
+
 [C++ Best Practices](https://github.com/lefticus/cppbestpractices/blob/master/00-Table_of_Contents.md)
+
+[Learning to write efficient C++](https://www.reddit.com/r/cpp_questions/comments/fxrkb6/learning_to_write_efficient_c/)
 
 ## Compiling Theory
 

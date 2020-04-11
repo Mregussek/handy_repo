@@ -10,6 +10,8 @@
 
 [NLP from Scratch: Annotated Attention](https://teddykoker.com/2020/02/nlp-from-scratch-annotated-attention/)
 
+[NLP for beginners using NLTK](https://theclickreader.com/nlp-for-beginners-using-nltk/)
+
 ## Courses
 
 [fast.ai course](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)

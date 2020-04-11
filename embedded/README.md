@@ -20,6 +20,16 @@
 
 [Optimize Your Workflow By Moving Embedded Projects to CMake](https://dornerworks.com/blog/moving-embedded-projects-to-cmake)
 
+## Courses
+
+[Embedded Systems - Shape The World: Microcontroller Input/Output](https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-i)
+
+[Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware)
+
+[Introduction to FPGA Design for Embedded Systems](https://www.coursera.org/learn/intro-fpga-design-embedded-systems)
+
+[Sensors and Sensor Circuit Design](https://www.coursera.org/learn/sensors-circuit-interface)
+
 ## Career
 
 [My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)

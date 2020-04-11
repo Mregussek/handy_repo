@@ -86,6 +86,8 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 
 [5 Machine Learning Papers on Face Recognition](https://lionbridge.ai/articles/5-machine-learning-papers-on-face-recognition/)
 
+[How to keep up with the latest research and trends in ML](https://towardsdatascience.com/how-to-keep-up-with-the-latest-research-and-trends-in-ml-a45a356b1001)
+
 ## Projects
 
 [How to plan and execute your ML and DL projects](https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/)

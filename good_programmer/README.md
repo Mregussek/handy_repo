@@ -20,6 +20,8 @@
 
 ## Being better as a Developer
 
+[10 algorithms every computer science student must implement at least once in life](https://www.reddit.com/r/compsci/comments/fuaudc/10_algorithms_every_computer_science_student_must/)
+
 [Becoming 1% better at data science everyday](https://github.com/amitness/learning)
 
 [My productive habits in 2020 (as a software engineer)](https://www.ksharifbd.com/blog/my-productivity-habits-in-2020/)

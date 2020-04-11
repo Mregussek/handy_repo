@@ -4,6 +4,10 @@
 
 [What is the hexadecimal?](https://medium.com/wait-what/what-the-hex-467566b120af)
 
+## Courses
+
+[Fundamentals of Digital Image and Video Processing](https://www.coursera.org/learn/digital)
+
 ## Youtube Playlists
 
 [#1](https://www.youtube.com/playlist?list=PLyED3W677ALNv8Htn0f9Xh-AHe1aZPftv)

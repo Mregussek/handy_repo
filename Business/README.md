@@ -33,3 +33,7 @@
 ## Interview
 
 [How to not hire software engineer?](http://tonsky.me/blog/hiring/)
+
+## Fascinating
+
+[How we reduced our Google Maps API cost by 94%](https://blog.cityflo.com/how-we-reduced-our-google-maps-api-cost/)
