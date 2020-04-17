@@ -12,6 +12,8 @@
 
 [NLP for beginners using NLTK](https://theclickreader.com/nlp-for-beginners-using-nltk/)
 
+[How to leverage Natural Language Processing (NLP) for business processes optimization](https://www.datasciencecentral.com/profiles/blogs/how-to-leverage-natural-language-processing-nlp-for-business)
+
 ## Courses
 
 [fast.ai course](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)

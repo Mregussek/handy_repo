@@ -16,7 +16,11 @@
 
 [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 
+[Harvard free courses](https://online-learning.harvard.edu/catalog?keywords=&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=)
+
 ## Just fascinating
+
+[Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
 
 [Why do arrays start from 0?](https://medium.com/@albertkoz/why-does-array-start-with-index-0-65ffc07cbce8)
 
@@ -45,3 +49,5 @@
 [First Contributions](https://github.com/firstcontributions/first-contributions)
 
 [EXPLORE OPEN SOURCE PROJECTS AND JUMP IN!](https://up-for-grabs.net/#/)
+
+[5 Sources for Free and Open-Source Applications](https://nashosted.com/5-sources-for-free-and-open-source-applications/)

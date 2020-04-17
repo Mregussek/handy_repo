@@ -1,32 +1,32 @@
-	
-    #include <iostream>
-
-    /* Funkcja przyjmuje wartosc obiektu (kopie) 
-    oryginalne zmienne NIE ulegaja zmianie */
-    void copy(int copied) {
-        std::cout << ++copied << std::endl;
-        std::cout << "Memory address copied: " << &copied << std::endl;
-    }
-
-    /* Funkcja otrzymuje adres do przeslanego obiektu 
-    oryginalne zmienne ulegaja zmianie */
-    void ref(int& reference) {
-        std::cout << --reference << std::endl;    
-        std::cout << "Memory address reference: " << &reference << std::endl;
-    }
-
-    int main()
-    {
-        int c = 5;
-        int r = 10;
-        
-        copy(c); // wyswietli 6
-        std::cout << c << std::endl; // wyswietli 5
-        std::cout << "Memory address copied: " << &c << std::endl;
     
-        ref(r); // wyswietli 9
-        std::cout << r << std::endl; // wyswietli 9
-        std::cout << "Memory address reference: " << &r << std::endl;
+    #include <iostream>
+    #include <vector>
+
+    int random_num() { return rand() % 10; }
+    constexpr int sum(int x, int y) { return x + y; }
+    void print(std::vector<int>&& v) { for(auto const& elem : v) std::cout << elem << " "; }
+
+    int main() {
+        int a = 3;
+        const int b = 5;
+        constexpr int c = 7;
+        
+        const int d = random_num(); // OK
+        // constexpr int error_1 = random_num(); // ERROR!!!
+        // constexpr akceptuje wartości obliczone w czasie kompilacji
+        
+        const int e = sum(10, 20); // OK
+        constexpr int f = sum(10, 20); // OK
+        
+        const int g = sum(a, b); // OK
+        //constexpr int error_2 = sum(a, b); // ERROR!!!
+        // a nie jest liczba stala
+        
+        const int h = sum(b, c); // OK
+        constexpr int i = sum(b, c); // OK
+        
+        // drukuje 3 5 7 3 30 30 8 12 12 
+        print({a, b, c, d, e, f, g, h, i});
     }
 
 

@@ -16,6 +16,8 @@ My plan is to store here some of helpful websites or ideas, which I can forget w
 
 ## Just fascinating
 
+[Drawing diagram using ASCII](http://asciiflow.com)
+
 [Tips for programming while opening browser](https://30secondsofknowledge.petrovicstefan.rs/)
 
 [Cutting Google out of your life (2019)](https://github.com/tycrek/degoogle)

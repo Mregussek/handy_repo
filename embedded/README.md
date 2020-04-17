@@ -60,13 +60,17 @@
 
 [Machine Learning in the embedded world](https://www.reddit.com/r/embedded/comments/cjq8qt/machine_learning_in_the_embedded_world/)
 
+## Projects
+
+[Własny radar lotniczy (cz. 1): pierwsze złapane samoloty](https://pyrfekt.com/wlasny-radar-lotniczy-cz-1-pierwsze-zlapane-samoloty/)
+
+[Make own USB keyboard from scratch](http://blakesmith.me/2019/01/16/making-my-own-usb-keyboard-from-scratch.html)
+
 ## Other
 
 [5 Mistakes to Avoid When Buying a MicroSD Card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/)
 
 [Which programming language use the least electricity?](https://thenewstack.io/which-programming-languages-use-the-least-electricity)
-
-[Make own USB keyboard from scratch](http://blakesmith.me/2019/01/16/making-my-own-usb-keyboard-from-scratch.html)
 
 [How to write bootloader from scratch](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
 

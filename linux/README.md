@@ -13,3 +13,5 @@
 [TTY](https://www.linusakesson.net/programming/tty/)
 
 [The Ultimate Guide To Use VS Code With Windows Subsystem for Linux (WSL)](https://dev.to/ajeet/the-ultimate-guide-to-use-vs-code-with-windows-subsystem-for-linux-wsl-51hc)
+
+[Share a webcam over network/wifi almost latency free using v4l2loopback and ffmpeg](https://gitlab.com/snippets/1967306)
