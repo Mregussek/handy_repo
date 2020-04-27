@@ -1,32 +1,60 @@
-    
-    #include <iostream>
-    #include <vector>
+// g++ ../source/ser.cpp -o ser -std=c++17 -lboost_system
 
-    int random_num() { return rand() % 10; }
-    constexpr int sum(int x, int y) { return x + y; }
-    void print(std::vector<int>&& v) { for(auto const& elem : v) std::cout << elem << " "; }
+#include <boost/asio.hpp>
+#include <iostream>
+#include <atomic>
+#include <memory>
+#include <thread>
+#include <vector>
 
-    int main() {
-        int a = 3;
-        const int b = 5;
-        constexpr int c = 7;
-        
-        const int d = random_num(); // OK
-        // constexpr int error_1 = random_num(); // ERROR!!!
-        // constexpr akceptuje wartości obliczone w czasie kompilacji
-        
-        const int e = sum(10, 20); // OK
-        constexpr int f = sum(10, 20); // OK
-        
-        const int g = sum(a, b); // OK
-        //constexpr int error_2 = sum(a, b); // ERROR!!!
-        // a nie jest liczba stala
-        
-        const int h = sum(b, c); // OK
-        constexpr int i = sum(b, c); // OK
-        
-        // drukuje 3 5 7 3 30 30 8 12 12 
-        print({a, b, c, d, e, f, g, h, i});
+class Service : public std::enable_shared_from_this<Service> {
+    std::shared_ptr<boost::asio::io_service> _service;
+    std::shared_ptr<boost::asio::io_service::work> _work;
+    std::vector<std::thread> _threads;
+    std::atomic<bool> _started{false};
+
+public:
+    Service() 
+    : _service(std::make_shared<boost::asio::io_service>()),
+    _work(std::make_shared<boost::asio::io_service::work>(*_service))
+    {}
+
+    void start() { 
+        auto self(this->shared_from_this());
+        auto startHandler = [this, self]() {
+            std::cout << "StartHandler\n";
+            while(!_started) _service->run();
+        };
+
+        _threads.emplace_back(std::thread(startHandler));
     }
 
+    std::shared_ptr<boost::asio::io_service>& get() { return _service; }
+};
 
+class Worker : public std::enable_shared_from_this<Worker> {
+    std::shared_ptr<Service> _service;
+    std::shared_ptr<boost::asio::io_service> _io_service;
+
+public:
+    Worker(const std::shared_ptr<Service>& service)
+    : _service(service),
+    _io_service(_service->get())
+    {}
+
+    void work() {
+        auto self(this->shared_from_this());
+        auto workHandler = [this, self]() {
+            std::cout << "WorkHandler\n";
+        };
+
+        _io_service->post(workHandler);
+    }
+};
+
+int main() {
+    auto ser = std::make_shared<Service>();
+    ser->start();
+    auto worker = std::make_shared<Worker>(ser);
+    worker->work();
+}

@@ -52,6 +52,12 @@
 
 [#Raspberry Pi 4B: Real-Time System using Preempt-RT (kernel 4.19.y)](https://lemariva.com/blog/2019/08/raspberry-pi-4b-preempt-rt-kernel-419y-performance-test)
 
+[Does anyone have experience with installing opencv on a raspberry pi?](https://www.reddit.com/r/opencv/comments/g89k7r/question_does_anyone_have_experience_with/)
+
+## nRF52
+
+[Nordic nRF52840 communication with Thread protocol](https://www.reddit.com/r/embedded/comments/g60c42/nordic_nrf52840_communication_with_thread_protocol/)
+
 ## Books
 
 [Better Embedded System Software](http://www.koopman.us/index.html)
@@ -60,11 +66,15 @@
 
 [Machine Learning in the embedded world](https://www.reddit.com/r/embedded/comments/cjq8qt/machine_learning_in_the_embedded_world/)
 
+[Deep learning for Embedded Linux Series: Part 1 — Model Optimization](https://medium.com/yonohub/deep-learning-for-embedded-linux-series-part-1-model-optimization-daa553a5979)
+
 ## Projects
 
 [Własny radar lotniczy (cz. 1): pierwsze złapane samoloty](https://pyrfekt.com/wlasny-radar-lotniczy-cz-1-pierwsze-zlapane-samoloty/)
 
 [Make own USB keyboard from scratch](http://blakesmith.me/2019/01/16/making-my-own-usb-keyboard-from-scratch.html)
+
+[Controlling the SSD1306 OLED through I2C](https://mrdrprofbolt.wordpress.com/2020/04/23/controlling-the-ssd1306-oled-through-i2c/)
 
 ## Other
 
@@ -81,3 +91,5 @@
 [OS from scratch](https://github.com/cfenollosa/os-tutorial)
 
 [Accessing raw memory in Embedded Linux](https://vmb-tech.com/blog/access-raw-mem-embedded-linux.html)
+
+[Recommended microcontrollers for image/face recognition](https://www.reddit.com/r/embedded/comments/g77exq/recommended_microcontrollers_for_imageface/)

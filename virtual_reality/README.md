@@ -18,6 +18,8 @@
 
 ## Augmented Reality
 
+[Microsoft | MRTK's new 'ObjectManipulator'](https://www.reddit.com/r/augmentedreality/comments/g7ew6m/microsoft_mrtks_new_objectmanipulator_makes_the/)
+
 [Foundational Ideas for Responsive Augmented Reality Content](https://www.torch.app/blog/foundational-ideas-responsive-augmented-reality-content)
 
 [The history of AR](https://www.colocationamerica.com/blog/history-of-augmented-reality)

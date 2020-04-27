@@ -56,6 +56,10 @@ My plan is to store here some of helpful websites or ideas, which I can forget w
 
 [The 25 most recommended programming books of all-time](https://dev.to/daolf/the-25-most-recommended-programming-books-of-all-time-5fel)
 
+[Free CS eBooks - Springer](https://gofile.io/?c=skK8Ag)
+
+[^^^ and downloader for them](https://github.com/alexgand/springer_free_books)
+
 ## Podcasts
 
 [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)

@@ -8,6 +8,8 @@
 
 [Python for Data Science](https://www.edx.org/course/python-for-data-science-2)
 
+[Andrew Ng's Stanford machine learning course (CS 229) now online with newer 2018 version](https://www.reddit.com/r/learnmachinelearning/comments/g63j7j/andrew_ngs_stanford_machine_learning_course_cs/)
+
 ### Notes from courses
 
 [deeplearning.ai](https://github.com/y-ouali/deeplearning.ai_notes)

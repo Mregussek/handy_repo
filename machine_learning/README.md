@@ -28,6 +28,8 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 
 [Document Classification: 7 pragmatic approaches for small datasets](https://neptune.ai/blog/document-classification-small-datasets?utm_source=reddit&utm_medium=post&utm_campaign=blog-document-classification-small-datasets)
 
+[Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
+
 ## Books
 
 [Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
@@ -129,6 +131,8 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 [ShAIdes](https://github.com/nickbild/shaides)
 
 [How to Build Object Detection APIs Using TensorFlow and Flask](https://www.youtube.com/watch?v=_UqmgHKdntU)
+
+[[CVPR 2020] Learning to See Through Obstructions](https://github.com/alex04072000/ObstructionRemoval)
 
 ## Datasets
 
