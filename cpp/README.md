@@ -30,6 +30,18 @@
 
 [Learning to write efficient C++](https://www.reddit.com/r/cpp_questions/comments/fxrkb6/learning_to_write_efficient_c/)
 
+[Smarter C/C++ inlining with __attribute__((flatten))](https://awesomekling.github.io/Smarter-C++-inlining-with-attribute-flatten/)
+
+## Boost::asio
+
+[Boost.Asio (Network and low-level I/O programming)](https://sciencesoftcode.wordpress.com/2018/12/11/boost-asio-network-and-low-level-i-o-programming/)
+
+[Boost::Asio server](https://codereview.stackexchange.com/questions/140947/boostasio-server)
+
+[Asynchronous I/O With boost.asio](https://corecppil.github.io/Meetups/2018-05-28_Practical-C++Asio-Variant/Asynchronous_IO_with_boost.asio.pdf)
+
+[A guide to getting started with boost::asio](https://www.gamedev.net/blogs/entry/2249317-a-guide-to-getting-started-with-boostasio/)
+
 ## Compiling Theory
 
 ### CMake
@@ -65,6 +77,8 @@
 [Slides](https://meetingcpp.com/mcpp/slides/)
 
 ## Fascinating
+
+[Making a STL-compatible hash map from scratch - Part 1 - Beating std::unordered_map](https://jguegant.github.io/blogs/tech/dense-hash-map.html)
 
 [A basic C++ website - a complete example](https://angelsensoftware.com/blog/2019/1_CppWebsite.html)
 

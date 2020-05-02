@@ -134,6 +134,8 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 
 [[CVPR 2020] Learning to See Through Obstructions](https://github.com/alex04072000/ObstructionRemoval)
 
+[Visionlib (helpful library)](https://github.com/ashwinvin/Visionlib)
+
 ## Datasets
 
 [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)

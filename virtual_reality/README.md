@@ -16,6 +16,8 @@
 
 [How To Design Mobile Apps For One-Hand Usage](https://www.smashingmagazine.com/2020/02/design-mobile-apps-one-hand-usage/)
 
+[The best way to understand VR and AR technology](https://www.realizemed.com/understanding-vr-ar-tech/)
+
 ## Augmented Reality
 
 [Microsoft | MRTK's new 'ObjectManipulator'](https://www.reddit.com/r/augmentedreality/comments/g7ew6m/microsoft_mrtks_new_objectmanipulator_makes_the/)
@@ -31,6 +33,8 @@
 [A designer’s guide to hardware and software for mobile AR](https://uxdesign.cc/designers-guide-to-hardware-and-software-for-mobile-ar-5c800503676d)
 
 [The human eye’s understanding of space for Augmented Reality](https://uxdesign.cc/human-eyes-understanding-of-space-for-augmented-reality-d5ce4d9fa37b)
+
+[Control your home lights with Augmented Reality](https://toernblom.com/control-your-home-lights-with-augmented-reality/)
 
 ## Github
 

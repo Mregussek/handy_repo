@@ -18,6 +18,8 @@
 
 [fast.ai course](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
 
+[Oxford Course On Deep Learning For Natural Language Processing](https://www.newworldai.com/oxford-course-on-deep-learning-for-natural-language-processing/)
+
 ## Datasets
 
 [15 Best Chatbot Datasets](https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning/?fbclid=IwAR2HguJpE095eR7c9sim-rmE51ZvoBOTXOlD5YKqYL1zEC6-j9s0fDb0A80)

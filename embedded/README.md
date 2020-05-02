@@ -30,6 +30,18 @@
 
 [Sensors and Sensor Circuit Design](https://www.coursera.org/learn/sensors-circuit-interface)
 
+## Resource for learning build process for ARM
+
+[Bare metal embedded lecture-1: Build process](https://youtu.be/qWqlkCLmZoE)
+
+[Bare metal embedded lecture-2: Makefile and analyzing relocatable obj file](https://youtu.be/Bsq6P1B8JqI)
+
+[Bare metal embedded lecture-3: Writing MCU startup file from scratch](https://youtu.be/2Hm8eEHsgls)
+
+[Bare metal embedded lecture-4: Writing linker scripts and section placement](https://youtu.be/B7oKdUvRhQQ)
+
+[Bare metal embedded lecture-5: Linking and analyzing memory map file](https://youtu.be/5aafG5mjZ_Y)
+
 ## Career
 
 [My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)

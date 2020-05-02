@@ -6,6 +6,12 @@
 
 [Learn OpenGl](https://learnopengl.com)
 
+[Własny silnik graficzny. Część I: podstawy śledzenia promieni.](http://informatyka.wroc.pl/node/415?page=0%2C3)
+
+[How 3D Game Rendering Works: Texturing](https://www.techspot.com/article/1916-how-to-3d-rendering-texturing/)
+
+[From one novice to the other: Grasping OpenGL for the first time](https://www.reddit.com/r/opengl/comments/g98fb3/from_one_novice_to_the_other_grasping_opengl_for/)
+
 ## Fascinating
 
 [Fast Flood Fill Lighting in a Blocky Voxel Game: Pt 1](https://www.seedofandromeda.com/blogs/29-fast-flood-fill-lighting-in-a-blocky-voxel-game-pt-1)

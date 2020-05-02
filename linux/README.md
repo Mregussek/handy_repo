@@ -15,3 +15,7 @@
 [The Ultimate Guide To Use VS Code With Windows Subsystem for Linux (WSL)](https://dev.to/ajeet/the-ultimate-guide-to-use-vs-code-with-windows-subsystem-for-linux-wsl-51hc)
 
 [Share a webcam over network/wifi almost latency free using v4l2loopback and ffmpeg](https://gitlab.com/snippets/1967306)
+
+## Fascinating
+
+[Finally, how to flash AMD VBIOS in Linux](https://andrealmeid.com/post/2020-05-01-vbios2/)
