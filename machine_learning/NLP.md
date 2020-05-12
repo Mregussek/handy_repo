@@ -26,6 +26,8 @@
 
 [conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets)
 
+[400 NLP Datasets Found Here!](https://datasets.quantumstat.com)
+
 ## Projects
 
 [How we trained our chatbot with one billion sentences in 2 days](https://chatbotslife.com/how-we-trained-our-chatbot-with-one-billion-sentences-in-2-days-cffbdd06b505?fbclid=IwAR0FNYazla-5-zIgQ7tjvsK5Z5yKGhBiJSltqBNjlAEXe1m-VLHEBh9fU8M&gi=56b39badab64)

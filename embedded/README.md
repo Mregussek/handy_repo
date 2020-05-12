@@ -66,6 +66,8 @@
 
 [Does anyone have experience with installing opencv on a raspberry pi?](https://www.reddit.com/r/opencv/comments/g89k7r/question_does_anyone_have_experience_with/)
 
+[Turning a Raspberry Pi 3B+ into a powerful object recognition edge server with Intel Movidius NCS2](https://towardsdatascience.com/turning-a-raspberry-pi-3b-into-an-object-recognition-server-with-intel-movidius-ncs2-8dcfebebb2d6)
+
 ## nRF52
 
 [Nordic nRF52840 communication with Thread protocol](https://www.reddit.com/r/embedded/comments/g60c42/nordic_nrf52840_communication_with_thread_protocol/)
@@ -87,6 +89,12 @@
 [Make own USB keyboard from scratch](http://blakesmith.me/2019/01/16/making-my-own-usb-keyboard-from-scratch.html)
 
 [Controlling the SSD1306 OLED through I2C](https://mrdrprofbolt.wordpress.com/2020/04/23/controlling-the-ssd1306-oled-through-i2c/)
+
+[Reliable User Input with Unreliable Physical Switches: A Simple Guide to Debouncing](https://mrdrprofbolt.wordpress.com/2020/05/07/reliable-user-input-with-unreliable-physical-switches-a-simple-guide-to-debouncing/)
+
+## Graphics
+
+[TouchGFX Documentation](https://support.touchgfx.com/docs/introduction/welcome/)
 
 ## Other
 

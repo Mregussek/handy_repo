@@ -32,6 +32,8 @@
 
 [Smarter C/C++ inlining with __attribute__((flatten))](https://awesomekling.github.io/Smarter-C++-inlining-with-attribute-flatten/)
 
+[Statically checking C/C++ for unused return values](https://pmeerw.net/blog/programming/unused-return.html)
+
 ## Boost::asio
 
 [Boost.Asio (Network and low-level I/O programming)](https://sciencesoftcode.wordpress.com/2018/12/11/boost-asio-network-and-low-level-i-o-programming/)
@@ -53,6 +55,8 @@
 [The Language Agnostic, All-Purpose, Incredible, Makefile](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html)
 
 [CMake basics](https://www.siliceum.com/en/blog/post/cmake_01_cmake-basics)
+
+[13 valuable things I learned using CMake](https://gist.github.com/GuillaumeDua/a2e9cdeaf1a26906e2a92ad07137366f#file-13_valuable_things_i_learned_using_cmake-pdf)
 
 ### Books
 
@@ -87,3 +91,5 @@
 [Vector of Objects vs Vector of Pointers And Memory Access Patterns](https://www.bfilipek.com/2014/05/vector-of-objects-vs-vector-of-pointers.html)
 
 [Create easy adventure app](http://home.hccnet.nl/r.helderman/adventures/htpataic01.html)
+
+[Should I use C++ with STL to make a game engine?](https://www.reddit.com/r/cpp_questions/comments/gdtk5n/should_i_use_c_with_stl_to_make_a_game_engine/)

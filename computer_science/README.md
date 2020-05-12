@@ -20,6 +20,10 @@
 
 ## Just fascinating
 
+[Modern SAT solvers: fast, neat and underused](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
+
+[Understanding key concepts before writing a Kernel](https://seds.nl/posts/writting-a-kernel-part-1/)
+
 [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
 
 [Why do arrays start from 0?](https://medium.com/@albertkoz/why-does-array-start-with-index-0-65ffc07cbce8)

@@ -6,6 +6,10 @@
 
 [Bash $* and $@](https://eklitzke.org/bash-$*-and-$@)
 
+## Embedded Linux
+
+[Mastering Embedded Linux, Part 5: Platform Daemons](https://www.thirtythreeforty.net/posts/2020/05/mastering-embedded-linux-part-5-platform-daemons/)
+
 ## GNU Linux
 
 [Reverse Engineering for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/)
