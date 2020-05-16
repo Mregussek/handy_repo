@@ -30,6 +30,8 @@
 
 ## Fascinating
 
+[Creating Your Own Git Server](https://gpanders.com/blog/creating-your-own-git-server/)
+
 [Autogit](https://github.com/fabiospampinato/autogit)
 
 [Git history](https://githistory.xyz/)

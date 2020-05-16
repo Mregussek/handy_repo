@@ -1,30 +1,27 @@
     
     #include <iostream>
-    #include <limits>
+
+    struct A_empty { };
+    struct A_onevar { char c; };
+
+    struct A {    
+        char m_c = 'a';
+        int m_i = 10;
+        
+        void print() 
+        { std::cout << m_c << " - " << m_i << std::endl; }
+    };
 
     int main() {
-        int integer = 5;
-        unsigned int unsigned_integer = 5;
-        signed int signed_integer = 5;
+        int a = 5;
         
-        std::cout << "integer: " << integer // 5
-            << " unsigned integer: " << unsigned_integer // 10
-            << " signed integer: " << signed_integer // 5
-            << std::endl;
-            
-        std::cout << "integer: " << integer - 20 // -15
-            << " unsigned integer: " << unsigned_integer - 20 // 4294967281
-            << " signed integer: " << signed_integer - 20 // -15
-            << std::endl;
-            
-        std::cout << "min int: " << std::numeric_limits<int>::min() // -2147483648 
-            << " max int: " << std::numeric_limits<int>::max() // 2147483647 
-            << " min unsigned int: " << std::numeric_limits<unsigned int>::min() // 0
-            << " max unsigned int: " << std::numeric_limits<unsigned int>::max() // 4294967295
-            << std::endl;
+        std::cout << sizeof(char) << std::endl; // 1
+        std::cout << sizeof(int) << std::endl; // 4
+        std::cout << sizeof(a) << std::endl; // 4
         
-        std::cout << "Difference : "
-            << std::numeric_limits<unsigned int>::max() - (unsigned_integer - 20) // 14
-            << std::endl;
-    } 
+        std::cout << sizeof(A_empty) << std::endl; // 1
+        std::cout << sizeof(A_onevar) << std::endl; // 1
+        std::cout << sizeof(A) << std::endl; // 8
+} 
+
 

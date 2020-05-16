@@ -32,6 +32,8 @@
 
 ## Fascinating
 
+[CUSTOM GAME ENGINES: A Small Study](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74)
+
 [Fast Flood Fill Lighting in a Blocky Voxel Game: Pt 1](https://www.seedofandromeda.com/blogs/29-fast-flood-fill-lighting-in-a-blocky-voxel-game-pt-1)
 
 ## Projects

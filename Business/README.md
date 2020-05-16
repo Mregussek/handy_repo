@@ -24,6 +24,8 @@
 
 [Mobile App or Website in Early Stages of a Startup?](https://www.enozom.com/blog/mobile-app-or-website-early-stages-startup)
 
+[26 Best Free Chrome Extensions for SEOs (Tried & Tested)](https://ahrefs.com/blog/seo-chrome-extensions/)
+
 ## Failures
 
 [Top 10 Startup Failures of 2019](https://medium.com/swlh/top-10-startup-failures-of-2019-375b4605ee73)
