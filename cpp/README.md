@@ -22,6 +22,8 @@
 
 [shared_ptr - basics and internals with examples](https://www.nextptr.com/tutorial/ta1358374985/shared_ptr-basics-and-internals-with-examples)
 
+[C++ Coroutines: Understanding Symmetric Transfer](https://lewissbaker.github.io/2020/05/11/understanding_symmetric_transfer)
+
 ## Writing efficient code
 
 [How to get better at C++ infrastructure design?](https://www.reddit.com/r/cpp/comments/ftm8n3/how_to_get_better_at_c_infrastructure_design/)
@@ -44,6 +46,14 @@
 
 [A guide to getting started with boost::asio](https://www.gamedev.net/blogs/entry/2249317-a-guide-to-getting-started-with-boostasio/)
 
+## Gamedev
+
+[modern c++ gamedev - thoughts & misconceptions (blog)](https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html)
+
+[modern c++ gamedev - thoughts & misconceptions (reddit)](https://www.reddit.com/r/cpp/comments/gkrquo/modern_c_gamedev_thoughts_misconceptions/)
+
+[modern c++ gamedev - thoughts & misconceptions (news)](https://news.ycombinator.com/item?id=23202120)
+
 ## Compiling Theory
 
 ### CMake
@@ -57,6 +67,12 @@
 [CMake basics](https://www.siliceum.com/en/blog/post/cmake_01_cmake-basics)
 
 [13 valuable things I learned using CMake](https://gist.github.com/GuillaumeDua/a2e9cdeaf1a26906e2a92ad07137366f#file-13_valuable_things_i_learned_using_cmake-pdf)
+
+[Is CMake difficult?](https://www.reddit.com/r/cpp_questions/comments/gijw5s/is_cmake_difficult/)
+
+[It's Time To Do CMake Right](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/)
+
+[An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 
 ### Books
 
@@ -93,3 +109,5 @@
 [Create easy adventure app](http://home.hccnet.nl/r.helderman/adventures/htpataic01.html)
 
 [Should I use C++ with STL to make a game engine?](https://www.reddit.com/r/cpp_questions/comments/gdtk5n/should_i_use_c_with_stl_to_make_a_game_engine/)
+
+[network-gamepads - Pass input devices over a network connection](https://github.com/kitinfo/network-gamepads)

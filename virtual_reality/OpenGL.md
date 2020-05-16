@@ -16,6 +16,8 @@
 
 [OpenGL UNIFORMS](https://youtu.be/Pa_SXd0ltzA?list=PLTMkHZdpUNxIdoFXVoE8rKwf9I_0wkv01)
 
+[Tried implementing PBR in OpenGL](https://www.reddit.com/r/opengl/comments/gksfcx/tried_implementing_pbr_in_opengl/)
+
 ## Quaternions
 
 [Visualizing quaternions](https://youtu.be/d4EgbgTm0Bg)

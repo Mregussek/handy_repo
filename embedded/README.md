@@ -82,6 +82,11 @@
 
 [Deep learning for Embedded Linux Series: Part 1 — Model Optimization](https://medium.com/yonohub/deep-learning-for-embedded-linux-series-part-1-model-optimization-daa553a5979)
 
+## Gamedev
+
+Check other articles from this:
+[GAME PROGRAMMING ON AN EMBEDDED DEVICE PART 2: INPUT](https://austinmorlan.com/posts/embedded_game_programming_2/)
+
 ## Projects
 
 [Własny radar lotniczy (cz. 1): pierwsze złapane samoloty](https://pyrfekt.com/wlasny-radar-lotniczy-cz-1-pierwsze-zlapane-samoloty/)
@@ -91,6 +96,8 @@
 [Controlling the SSD1306 OLED through I2C](https://mrdrprofbolt.wordpress.com/2020/04/23/controlling-the-ssd1306-oled-through-i2c/)
 
 [Reliable User Input with Unreliable Physical Switches: A Simple Guide to Debouncing](https://mrdrprofbolt.wordpress.com/2020/05/07/reliable-user-input-with-unreliable-physical-switches-a-simple-guide-to-debouncing/)
+
+[What’s Inside a Video Game? A Simple Game Loop and Player Controller in C on an SSD1306 OLED](https://mrdrprofbolt.wordpress.com/2020/05/14/whats-inside-a-video-game-a-simple-game-loop-and-player-controller-in-c-on-an-ssd1306-oled/)
 
 ## Graphics
 
