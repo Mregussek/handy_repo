@@ -20,6 +20,8 @@
 
 ## GNU Linux
 
+[How PulseAudio works](https://rudd-o.com/linux-and-free-software/how-pulseaudio-works)
+
 [Reverse Engineering for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/)
 
 [TTY](https://www.linusakesson.net/programming/tty/)

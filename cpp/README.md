@@ -74,6 +74,10 @@
 
 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 
+### Linking 
+
+[Can somebody explain the linking process in C++?](https://www.reddit.com/r/cpp/comments/gtk5lz/can_somebody_explain_the_linking_process_in_c/)
+
 ### Books
 
 [MIT Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
@@ -97,6 +101,12 @@
 [Slides](https://meetingcpp.com/mcpp/slides/)
 
 ## Fascinating
+
+[Analyzing-The-Simplest-C++-Program](https://oneraynyday.github.io/dev/2020/05/03/Analyzing-The-Simplest-C++-Program/)
+
+[Adventures in returning value-dependent type](https://dev.krzaq.cc/post/adventures-in-returning-value-dependent-type/)
+
+[Optimizing UTC → Unix Time Conversion For Size And Speed](https://blog.reverberate.org/2020/05/12/optimizing-date-algorithms.html)
 
 [Making a STL-compatible hash map from scratch - Part 1 - Beating std::unordered_map](https://jguegant.github.io/blogs/tech/dense-hash-map.html)
 

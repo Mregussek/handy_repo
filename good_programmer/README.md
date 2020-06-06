@@ -2,6 +2,8 @@
 
 ## Clean Code / Good Software
 
+[The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+
 [SOLID Principles and How I Was Breaking Them as Junior Developer](https://codersbible.com/solid-principles-and-how-i-was-breaking-them-as-junior-developer/)
 
 [The epistemology of software quality](https://increment.com/teams/the-epistemology-of-software-quality/)
@@ -89,6 +91,8 @@
 [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ## Code Review
+
+[The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium/)
 
 [How to review code?](https://maxbittker.github.io/code-review)
 

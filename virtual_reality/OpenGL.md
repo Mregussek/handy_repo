@@ -40,4 +40,10 @@
 
 ## Projects
 
+[MyvarEdit: Writing a Text Editor / IDE from scratch - OpenGL Rendering [Ep 2]](https://www.reddit.com/r/opengl/comments/gsuu0l/myvaredit_writing_a_text_editor_ide_from_scratch/)
+
+[Building The Triton Project Pt. 3 (A 3D printed AR Headset)](https://medium.com/@gatlee/building-the-triton-project-pt-3-a-3d-printed-ar-headset-24333c9c772d)
+
 [Minecraft clone in C and OpenGL in 2 days](https://www.youtube.com/watch?v=4O0_-1NaWnY)
+
+[Project Idea](https://www.reddit.com/r/virtualreality/comments/gkzijy/i_was_inspired_by_the_new_amazon_show_upload_and/)

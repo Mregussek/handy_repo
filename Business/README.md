@@ -38,6 +38,8 @@
 
 ## Fascinating
 
+[The largest collection of startup pitch decks.](https://starthouse.xyz)
+
 [How we reduced our Google Maps API cost by 94%](https://blog.cityflo.com/how-we-reduced-our-google-maps-api-cost/)
 
 [The Zero-Dollar Infrastructure Stack](https://medium.com/better-programming/the-zero-dollar-infrastructure-stack-7c840a8b555b)

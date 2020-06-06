@@ -1,27 +1,34 @@
     
     #include <iostream>
+    #define FOO(var) foo(#var, var)
 
-    struct A_empty { };
-    struct A_onevar { char c; };
-
-    struct A {    
-        char m_c = 'a';
-        int m_i = 10;
-        
-        void print() 
-        { std::cout << m_c << " - " << m_i << std::endl; }
+    enum PassedExam { // definiujemy typ wyliczeniowy
+        No,         /* = 0 */
+        Yes,        /* = 1 */
+        Undefined   /* = 2 */
     };
 
+    void foo(const char* name, const PassedExam val) {
+        switch(val) {
+        case PassedExam::Yes:
+            std::cout << name << " - Passed! = " << val << std::endl;
+            break;
+        case PassedExam::No:
+            std::cout << name << " - Try again! = " << val << std::endl;
+            break;
+        default:
+            std::cout << "Undefined exam value = " << val << std::endl;
+            break;
+        }
+    }
+
     int main() {
-        int a = 5;
+        PassedExam LinearAlgebra = PassedExam::Yes;
+        PassedExam Physics = PassedExam::No;
         
-        std::cout << sizeof(char) << std::endl; // 1
-        std::cout << sizeof(int) << std::endl; // 4
-        std::cout << sizeof(a) << std::endl; // 4
-        
-        std::cout << sizeof(A_empty) << std::endl; // 1
-        std::cout << sizeof(A_onevar) << std::endl; // 1
-        std::cout << sizeof(A) << std::endl; // 8
-} 
+        FOO(LinearAlgebra);
+        FOO(Physics);
+        FOO(PassedExam::Undefined);
+    }
 
 

@@ -20,6 +20,8 @@
 
 ## Just fascinating
 
+[(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
+
 [Modern SAT solvers: fast, neat and underused](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 
 [Understanding key concepts before writing a Kernel](https://seds.nl/posts/writting-a-kernel-part-1/)

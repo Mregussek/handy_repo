@@ -30,6 +30,8 @@
 
 ## Projects
 
+[Building an NLP Sentiment Analysis Startup in Quarantine](https://www.youtube.com/watch?v=liTgn4xCMMw&feature=youtu.be)
+
 [How we trained our chatbot with one billion sentences in 2 days](https://chatbotslife.com/how-we-trained-our-chatbot-with-one-billion-sentences-in-2-days-cffbdd06b505?fbclid=IwAR0FNYazla-5-zIgQ7tjvsK5Z5yKGhBiJSltqBNjlAEXe1m-VLHEBh9fU8M&gi=56b39badab64)
 
 [How I Used Deep Learning To Train A Chatbot To Talk Like Me](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me?fbclid=IwAR0TvTU21gbgGzdV2Fuwu-d22ZzhzsVNLCzw1ol2gywZ32iwsK41CObne7c)
