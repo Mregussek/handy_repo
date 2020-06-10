@@ -34,6 +34,8 @@
 
 ## Fascinating
 
+[Raytracing in OpenGL?](https://www.reddit.com/r/opengl/comments/gyskfp/raytracing_in_opengl/)
+
 [CUSTOM GAME ENGINES: A Small Study](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74)
 
 [Fast Flood Fill Lighting in a Blocky Voxel Game: Pt 1](https://www.seedofandromeda.com/blogs/29-fast-flood-fill-lighting-in-a-blocky-voxel-game-pt-1)
@@ -47,3 +49,23 @@
 [Minecraft clone in C and OpenGL in 2 days](https://www.youtube.com/watch?v=4O0_-1NaWnY)
 
 [Project Idea](https://www.reddit.com/r/virtualreality/comments/gkzijy/i_was_inspired_by_the_new_amazon_show_upload_and/)
+
+## OpenXR
+
+[AREA Interoperability & Standards Webinar Introduction to Khronos Group OpenXR](https://youtu.be/y5IlhJv-nrM)
+
+## AR Notes
+
+[AR By Hand – Part 1 – Introduction](https://enterprisemath.com/ar-by-hand-part-1-introduction/)
+
+[Augmented reality with Python and OpenCV (part 1)](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/)
+
+[The Perspective Camera - An Interactive Tour](http://ksimek.github.io/2012/08/13/introduction/)
+
+[ArUco: a minimal library for Augmented Reality applications based on OpenCV](http://www.uco.es/investiga/grupos/ava/node/26)
+
+[Lecture 16: Planar Homographies](http://www.cse.psu.edu/~rtc12/CSE486/lecture16.pdf)
+
+[Camera resectioning](https://en.wikipedia.org/wiki/Camera_resectioning)
+
+[Camera Calibration](https://docs.opencv.org/3.4.3/dc/dbb/tutorial_py_calibration.html)

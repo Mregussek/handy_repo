@@ -56,6 +56,10 @@
 
 ## Compiling Theory
 
+### General
+
+[Comparing compilation times: Plain compilation vs Modules vs Precompiled headers](http://www.icce.rug.nl/documents/cplusplus/cplusplus07.html#l165)
+
 ### CMake
 
 [Directory Structure (good courses in comments)](https://www.reddit.com/r/cpp_questions/comments/boo7ff/c_directory_structure_with_cmake_and_3rd_party/)
