@@ -34,6 +34,8 @@
 
 ## Fascinating
 
+[Tiny renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
+
 [Raytracing in OpenGL?](https://www.reddit.com/r/opengl/comments/gyskfp/raytracing_in_opengl/)
 
 [CUSTOM GAME ENGINES: A Small Study](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74)
