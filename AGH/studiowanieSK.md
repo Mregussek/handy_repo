@@ -170,6 +170,14 @@ switch(config-if)# sw trunk allowed vlan except 100-200         // powoduje doda
 
 ## Notatki Lab 7.05
 
+### VLANs 2, 3, 4, 5 globally operated, S21 and S22 are used to operate on them
+
+Ustawić hostname w każdym miejscu, stworzyć trunki (int gx/0/x → sw tr en d → sw m t → sw tr nat vlan 99. S21 oraz S22 jako VTP serwer (VTP Mode Server, nadać VTP domain name oraz VTP pass), pozostałe jako VTP Client, S32 jako VTP Transparent
+
+### VLANs 10 and 20 are locally operated on s32
+
+VTP Transparent, zweryfikować poprzez do show vtp status
+
 ### Secure the network by restricting propagation of globally operated VLANs to new and not configured roots
 
 Rozumiem to jako utworzenie VTP w każdym urządzeniu i podłączeniu się do jednej tej samej domeny.
@@ -182,6 +190,8 @@ switch(config)# show vtp status     // sprawdźmy wszędzie stan VTP
 ```
 
 ### In each switch four ports should be assigned to each VLAN available in the switch. These ports will be used to connect computers to the network
+
+Int r g1/0/x-x+3 → sw m acc → sw acc vlan X
 
 ### Secure unused ports against unauthorized usage
 
@@ -196,6 +206,8 @@ switch(config-if-range)# sh     // wyłączmy range portów
 Po prostu do interfejsu dołączamu wybrany VLAN.
 
 Patrz przypisywanie VLAN do portu!
+
+Sw m access – działa jak blokada wymuszenia trunku
 
 ### To ports used to connect PCs maximum two computers may be connected. If a third device is attached to the port the port should be switched off. The port may be switched on manually
 
@@ -234,7 +246,7 @@ S21(config)# spanning-tree vlan 2 priority 0
 ### S22 should be set a secondary root for all VLANs
 
 ```packettracer
-S21(config)# spanning-tree vlan 2 priority 4096
+S22(config)# spanning-tree vlan 2 priority 4096
 ```
 
 ### All frames sourced from or destinated to VLAN 99 should be conveyed between switches without any tag
@@ -245,7 +257,7 @@ S21(config-if)# sw tru nat vlan 99
 
 ### Failure of a single connection between bridges should not interrup transport of data even for a short moment
 
-Należy zrobić Etherchannel. 
+Należy zrobić Etherchannel.
 Robimy drugie połączeniu pomiędzy switchami.
 Pomiędzy portami, którymi podłączyliśmy switche wykonujemy:
 
@@ -267,16 +279,21 @@ S32(config-if)# sw tru nat vlan 99
 S32(config-if)# channel-group 2 mode on
 ```
 
-### If it is possible, frames assigned to various VLANs should be sent through distinct alternative paths
+Ustawienie etherchannel, na obu stronach linku ustawiamy int range gx/0/x-y, sw trunk enc dot1q,
+sw m t, sw tr nat vlan 99, channel-group 2 mode on
 
-I chyba transparent???
+### If it is possible, frames assigned to various VLANs should be sent through distinct alternative paths
 
 ```packettracer
 S32(config)# spanning-tree vlan 2 priority 0
 S32(config)# spanning-tree vlan 3 priority 0
 ```
 
+Trzeba pobawić się korzeniami.
+
 ### Transport of VLAN 2 and 3 data to S32 and S33 should not allowed
+
+Switchport trunk i no nie wiem, coś z allowed, to można pytajnikami się dostać.
 
 ### All frames with 1234.1234.1234 MAC address must be removed in S23
 
