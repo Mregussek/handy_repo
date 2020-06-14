@@ -144,9 +144,9 @@ switch(config-if)# sw m acc         // aby interfejs nie uzgadniał swojego dzia
 Należy wykonać (z obu stron!) polecenia:
 
 ```packettracer
-switch(config-if)#      // załóżmy, że jesteśmy w porcie, który chcemy konfigurować (po jednej i drugiej stronie!)
-switch(config-if)# sw m trunk          // tworzymy magistralę VLAN obsługującą wszystkie sieci VLAN dostępne dla obu switchów
+switch(config-if)#                     // załóżmy, że jesteśmy w porcie, który chcemy konfigurować (po jednej i drugiej stronie!)
 switch(config-if)# sw tr enc dot1q
+switch(config-if)# sw m trunk          // tworzymy magistralę VLAN obsługującą wszystkie sieci VLAN dostępne dla obu switchów
 ```
 
 ### Zarządzanie VLANami obsługiwanymi przez trunka
@@ -417,6 +417,8 @@ Router(config-router)# version 2            // na lab włączyliśmy wersję 2 (
 Router(config-router)# network 192.168.0.0  // chcemy dać dostęp do tej sieci
 ```
 
+PAMIĘTAJ, ŻEBY WPISAĆ W KAŻDYM ROUTERZE TEN ZESTAW KOMEND!
+
 Teraz mamy dostęp do innych routerów, które również są w sieci 192.168.0.0.
 
 W połączeniu szeregowym nie możemy korzystać z protokołu RIP, należy to zrobić statycznie!
@@ -483,6 +485,8 @@ R0(config)# no ip dhcp pool <nazwa puli>    // usuńmy, jeśli mamy jakąś niep
 ```
 
 Teraz przechodzimy do routera, w którym chcemy skonfigurować DHCP:
+
+NIE DZIAŁA DOPÓKI NIE WYWALISZ DEFAULT-ROUTER!
 
 ```packettracer
 Router(config)# ip dhcp pool vlan_2                         // definiujemy nazwę puli vlan_2
