@@ -300,3 +300,213 @@ Switchport trunk i no nie wiem, coś z allowed, to można pytajnikami się dosta
 ```packettracer
 S23(config)# mac address-table static 1234.1234.1234 vlan 2 int gig0/10 // jest błąd jakiś z interfejsem!
 ```
+
+## Notatki Lab 14.05
+
+**Dlaczego wpisaliśmy adresy 172.31.1.9 dla PC0 oraz 172.31.1.10 gateway?**
+
+Adresujemy w sposób efektywny:
+
+- dobieramy maskę taką, że wypełniamy ją możliwie największą ilością jedynek, a zwalniamy tyle zer ile potrzebujemy urządzeń!
+- adresujemy od największej sieci do najmniejszej!
+- adresujemy tak, żeby nie było dziur adresowych (czyli jeśli zakończyliśmy na 7 w większej sieci, to zaczynamy od 8 w mniejszej)!
+
+Adres IP Gateway to adres Routera! Stosujemy to po to, żeby wydostać się z naszej sieci.
+
+W routerze wszystkie porty są domyślne wyłączone!
+
+```packettracer
+Router(config)# int gig0/0/0    // załóżmy, że ten chcemy uruchomić
+Router(config-if)# no sh
+```
+
+**Jak zaadresować Router?**
+
+```packettracer
+Router(config)# int gig0/0/0                            // adresujemy w interfejsie!
+Router(config-if)# ip add 172.31.1.10 255.255.255.252   // podajemy adres i maskę
+Router(config-if)# no sh                                // upewniamy się, że port jest włączony
+```
+
+**Dlaczego dioda w przełączniku świeciła na bursztynowo?**
+
+Z powodu spanning-tree. Najpierw stan listening, potem learning.
+
+**O czym należy zawsze pamiętać?**
+
+Jesteśmy proszeni, żeby uzywać hostname, wtedy to ładniej wygląda :D
+
+```packettracer
+Router(config)# hostname R1
+R1(config)#
+```
+
+**Śmieszne połączenie ethernetowe (szeregowe?), jak zaadresować?**
+
+Ponoć jest znącząca różnica pomiędzy gigabithem, a ethernetem (w packet tracer ofc). Dobraliśmy adres 128.1.0.1 255.255.255.252 (dlaczego? bo Pani Anna wybrała :D)
+
+```packettracer
+R1(config)# int s0/1/0
+R1(config-if)# ip add 128.1.0.1 255.255.255.252
+R1(config-if)# no sh    // nie zapominaj o włączeniu portu
+```
+
+Ethernet z zasady jest łącze / medium współdzielone, natomiast gigabit to łącze punkt-punkt, więc działają znacząco inaczej! Taki zygzak, to łącze szeregowe, czyli powinno nie być adresów (ale u nas są!). Należy wpisać w google Smart Serial.
+
+Zwróc uwagę, że na końcu łącza mamy symbol zegarka i trzeba wpisać clockrate w tym routerze. Czyli jak mamy narysowany router, obok niego napisany numer portu powiedzmy Se0/1/0 i obok niego zegarek, to tam trzeba wpisać komendę clock rate.
+
+```packettracer
+R2(config)# int s0/1/0
+R2(config-if)# clock rate <jaka szybkosc>       // na labie wybraliśmy 128000
+R2(config-if)# ip add 128.1.0.2 255.255.255.252 // trzeba jeszcze adres ustawić (dlaczego 2 wpisaliśmy?)
+```
+
+**Dlaczego nie działał ping z lewej strony (R1) do prawej strony (R2)?**
+
+Sprawdźmy tablicę routingu:
+
+```packettracer
+R1# show ip route
+```
+
+Więc powiemy ręcznie jak dostać się do innej podsieci.
+
+```packettracer
+R1(config)# ip route <podsiec docelowa> <maska docelowa> <przez co mamy dostać się do tej podsieci?>
+R1(config)# ip route 172.31.1.0 255.255.255.248 128.1.0.2
+```
+
+W naszym przypadku musimy jakoś połączyć się jakoś z podsiecią 172.31.1.0 znajdującej się w R2. Z R2 możemy połączyć się poprzez trasę z połączenia serial portu. Dzięki temu docieramy z R1 do R2. Podajemy 128.1.0.2, ponieważ taki adres przydzieliliśmy portowi na R2, który służy do połączęnia R1 <-> R2.
+
+*Nie zapomnij w tym przypadku o trasie z R2 do R1 (czyli odwrotnej, dlatego ping może nie wracać!).*
+
+Musimy skonfigurować ponownie ip route ze strony R2 do R1, czyli
+
+```packettracer
+R2(config)# ip route <podsiec docelowa> <maska docelowa> <przez co mamy dostać się do tej podsieci?>
+R2(config)# ip route 172.31.1.8 255.255.255.252 128.1.0.1
+```
+
+Tutaj użyliśmy 128.1.0.1, ponieważ na porcie (który łączy R1 z R2) w R1 jest przypisany adres 128.1.0.1. I ping działa!
+
+**Jak podłączyć bezpośrednio podsieć? Ma działać lepiej ale w przypadku braku podłaczenia interfejsów poważne bugi!**
+
+```packettracer
+R1(config)# ip route <podsiec docelowa> <maska docelowa> <przez co mamy dostać się do tej podsieci?>
+R1(config)# ip route 172.31.1.8 255.255.255.252 s0/1/0
+```
+
+```packettracer
+R2(config)# ip route <podsiec docelowa> <maska docelowa> <przez co mamy dostać się do tej podsieci?>
+R2(config)# ip route 172.31.1.8 255.255.255.252 s0/1/0
+```
+
+Przez port s0/1/0 w R1 jest połączeni z R2, oraz przez R2 w s0/1/0 jest połączeni z R1!
+
+## Notatki Lab 28.05
+
+Generalnie nowością był protokół routingu RIP. Zapiszę co z nim było omówione.
+
+Przeszliśmy z konfiguracji interfejsu do konfiguracji routingu ale podejrzewam, że nic się nie stanie jak przejdziemy po prostu z konfiguracji do konfiguracji routingu.
+
+Mamy kilka routerów i chcemy otrzymać do nich dostęp. Nie będziemy tego robić statycznie poprzez *ip route* tylko skorzystamy z protokołu RIP.
+
+```packettracer
+Router(config-if)# router rip  
+Router(config-router)# version 2            // na lab włączyliśmy wersję 2 (dlaczego?)
+Router(config-router)# network 192.168.0.0  // chcemy dać dostęp do tej sieci
+```
+
+Teraz mamy dostęp do innych routerów, które również są w sieci 192.168.0.0.
+
+W połączeniu szeregowym nie możemy korzystać z protokołu RIP, należy to zrobić statycznie!
+
+Na końcu zrobiliśmy też tak, że wszystkie trasy statyczne wrzuciliśmy do protokołu RIP. Oczywiście wykonaliśmy te komendy po stronie routera, który podłączony do innych routerów crossem, a do innego serialem. Przypominam - połączenie szeregowe nie możemy skorzystać z RIP! Dlatego po prostu dodamy te ścieżki statyczne do RIPa.
+
+```packettracer
+Router(config)# router rip
+Router(config-router)# redistribute static      // ponoć działa zawsze!
+```
+
+## Notatki Lab 4.06
+
+### Konfiguracja linii terminala oraz komunikacja switch <-> router
+
+Nowością z pewnością jest podanie switchowi adresu bramy (gateway'a), ale po co?
+
+Ogarnąłem, że chcemy pingować switch z routerem, więc na interfejsie switcha, do którego podpięty jest router wykonujemy:
+
+```packettracer
+S0(config)# int gig1/0/1
+S0(config-if)# ip addr 192.168.0.25 255.255.255.252   // switch ma swój adres
+S0(config-if)# exit
+S0(config)# ip default-gateway 192.168.0.26           // taki adres będzie miał router
+```
+
+Żeby poprawnie skonfigurować połączenie trzeba jeszcze dodać linię wirtualnego terminala:
+
+```packettracer
+S0(config)# line vty 0 5        // konfigurujemy 6 linii vty, czyli 6 osób może jednocześnie konfigurować switch
+S0(config-line)# password sk    // nadajemy hasło
+S0(config-line)# login          // mówimy, żeby korzystał z lokalnej pamięci cache
+S0(config-line)# exit
+```
+
+Teraz, wchodzimy do switcha i konfigurujemy port, do którego jest podłączony switch.
+
+```packettracer
+R0(config)# int g0/0/0
+R0(config-if)# ip addr 192.168.0.26 255.255.255.252     // zauważ, że 0.26 był wykorzystany jako default-gateway u góry, dlatego musimy wykorzystać ten adres w routerze.
+R0(config-if)# do ping 192.168.0.25                     // ma ping działać!
+```
+
+W PC jak wpiszemy komendę telnet możemy połączyć do się do switcha i konfigurować urządzenie z poziomu PC.
+
+```PC
+PC> telnet 192.168.0.25         // na chwilę obecną nie działa, bo brakuje jednej komendy w switchu
+    password: <tu mamy wpisać nadane hasło>
+```
+
+Wchodzimy do switcha i poprawiamy konfigurację (po to żeby umożliwić PCtowi przejście do trybu enable oraz trybu conf t):
+
+```packettracer
+S0(config)# enable secret sk        // nadajemy hasło sk
+```
+
+### Konfiguracja DHCP
+
+Możemy na początek sprawdzić jakie są konfiguracje:
+
+```packettracer
+R0(config)# do show run                     // sprawdźmy, czy jakieś pule DHCP już mamy
+R0(config)# no ip dhcp pool <nazwa puli>    // usuńmy, jeśli mamy jakąś niepotrzebną
+```
+
+Teraz przechodzimy do routera, w którym chcemy skonfigurować DHCP:
+
+```packettracer
+Router(config)# ip dhcp pool vlan_2                         // definiujemy nazwę puli vlan_2
+Router(dhcp-config)# network 192.168.0.0 255.255.255.248
+Router(dhcp-config)# default-router 192.168.0.3
+Router(dhcp-config)# dns-server 8.8.8.8         // serwer google, domyślny serwer dns, który pracuje w sieci
+Router(dhcp-config)# exit
+Router(config)# ip dhcp pool vlan_3
+Router(dhcp-config)# network 192.168.0.0 255.255.255.248
+Router(dhcp-config)# default-router 192.168.0.10
+Router(dhcp-config)# dns-server 8.8.8.8
+Router(dhcp-config)# exit
+Router(config)# hostname R3_DHCP                // nadajmy mu nazwę
+R3_DHCP(config)#
+```
+
+Na zajęciach wyskoczył error DHCP failed. APIPA is being used. O co chodzi? :D
+
+Skonfigurowaliśmy R0, subinterfejs, dodaliśmy dodatkowy adres i nagle zadziało. Zdecydowanie trzeba doczytać temat.
+
+```packettracer
+R0(config)# int g0/0/0.1
+R0(config-subif)# ip helper-address 192.168.0.21
+R0(config-subif)# int g0/0/0.2
+R0(config-subif)# int helper-address 192.168.0.21
+```
+
