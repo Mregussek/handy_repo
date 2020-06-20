@@ -106,6 +106,8 @@
 
 ## Fascinating
 
+[Converting a hundred million integers to strings per second](http://www.zverovich.net/2020/06/13/fast-int-to-string-revisited.html)
+
 [Analyzing-The-Simplest-C++-Program](https://oneraynyday.github.io/dev/2020/05/03/Analyzing-The-Simplest-C++-Program/)
 
 [Adventures in returning value-dependent type](https://dev.krzaq.cc/post/adventures-in-returning-value-dependent-type/)

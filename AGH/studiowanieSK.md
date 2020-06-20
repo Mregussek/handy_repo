@@ -135,7 +135,6 @@ switch(config)#
 ```packettracer
 switch(config)#                     // jesteśmy w trybie konfiguracji
 switch(config)# int gig 1/0/2       // dobieramy jeden interfejs, do którego przydzielimy VLAN
-switch(config-if)# sw acc vlan <ID> // ustalamy ID vlanu
 switch(config-if)# sw m acc         // aby interfejs nie uzgadniał swojego działania jako magistrali, wyłączamy ją
 ```
 
@@ -514,3 +513,29 @@ R0(config-subif)# int g0/0/0.2
 R0(config-subif)# int helper-address 192.168.0.21
 ```
 
+## Utworzenie wirtualnego terminala
+
+```packettracer
+Switch(config)#vlan 50                                      // musimy specjalnie utworzyć vlan 50
+Switch(config-vlan)#exit
+Switch(config)#int vlan 50
+Switch(config-if)#
+%LINK-5-CHANGED: Interface Vlan50, changed state to up
+
+Switch(config-if)#ip addr 10.0.0.13 255.255.255.240         // dobieramy adres z dostępnej puli adresów
+Switch(config-if)#exit
+Switch(config)#ip default-gateway 10.0.0.1                  // adres gateway'a / routera
+Switch(config)#line vty 0 5
+Switch(config-line)#pass dupa
+Switch(config-line)#login
+Switch(config-line)#exit
+Switch(config)#enable secret dupa123
+Switch(config)#int g1/0/3
+Switch(config-if)#sw m a
+Switch(config-if)#sw a vlan 50
+Switch(config-if)#
+%LINEPROTO-5-UPDOWN: Line protocol on Interface Vlan50, changed state to up
+
+Switch(config-if)#
+Switch(config-if)#
+```

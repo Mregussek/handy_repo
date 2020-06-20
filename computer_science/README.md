@@ -44,6 +44,8 @@
 
 [What is an API Gateway?](https://dev.to/bearer/what-is-an-api-gateway-42i6)
 
+[Best practices for managing and storing secrets including API keys and other credentials](https://blog.gitguardian.com/secrets-api-management/)
+
 ## Open Source
 
 [Friendly Open Source projects should reserve specific issues for newbies](https://www.firsttimersonly.com/)

@@ -2,6 +2,10 @@
 
 ## Learning
 
+[Ray-tracing in a Weekend with SYCL Part 2: Pixel sampling and Material tracing](https://codeplay.com/portal/06-19-20-ray-tracing-in-a-weekend-with-sycl-part-2-pixel-sampling-and-material-tracing)
+
+[I made a tutorial series on Youtube to teach you how to make your own VR game. It covers VR setup, Teleportation, Continuous Movement, Grab and Ray interaction](https://www.reddit.com/r/virtualreality/comments/hbedy8/im_a_vr_developer_and_i_made_a_tutorial_series_on/)
+
 [Tutorials for OpenGL 3.3](http://www.opengl-tutorial.org)
 
 [Learn OpenGl](https://learnopengl.com)
@@ -34,6 +38,10 @@
 
 ## Fascinating
 
+[VCTRenderer](https://github.com/jose-villegas/VCTRenderer/)
+
+[My thesis really long ago. "Deferred Voxel Shading for Real Time Global Illumination"](https://www.reddit.com/r/opengl/comments/hbtaij/my_thesis_really_long_ago_deferred_voxel_shading/)
+
 [Tiny renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
 
 [Raytracing in OpenGL?](https://www.reddit.com/r/opengl/comments/gyskfp/raytracing_in_opengl/)
@@ -57,6 +65,8 @@
 [AREA Interoperability & Standards Webinar Introduction to Khronos Group OpenXR](https://youtu.be/y5IlhJv-nrM)
 
 ## AR Notes
+
+[ARKit vs ARCore: Image Detection and Tracking](https://arpost.co/2020/06/12/arkit-vs-arcore-image-detection-and-tracking/)
 
 [AR By Hand – Part 1 – Introduction](https://enterprisemath.com/ar-by-hand-part-1-introduction/)
 

@@ -68,6 +68,8 @@
 
 [Turning a Raspberry Pi 3B+ into a powerful object recognition edge server with Intel Movidius NCS2](https://towardsdatascience.com/turning-a-raspberry-pi-3b-into-an-object-recognition-server-with-intel-movidius-ncs2-8dcfebebb2d6)
 
+[e-ink display which shows your last played track and listening stats from last.fm](https://www.reddit.com/r/raspberry_pi/comments/h7tkqi/eink_display_which_shows_your_last_played_track/)
+
 ## nRF52
 
 [Nordic nRF52840 communication with Thread protocol](https://www.reddit.com/r/embedded/comments/g60c42/nordic_nrf52840_communication_with_thread_protocol/)

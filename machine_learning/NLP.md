@@ -16,6 +16,8 @@
 
 ## Courses
 
+[A list of NLP(Natural Language Processing) tutorials](https://www.reddit.com/r/MachineLearning/comments/h7kr40/p_a_list_of_nlpnatural_language_processing/)
+
 [fast.ai course](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
 
 [Oxford Course On Deep Learning For Natural Language Processing](https://www.newworldai.com/oxford-course-on-deep-learning-for-natural-language-processing/)
@@ -29,6 +31,8 @@
 [400 NLP Datasets Found Here!](https://datasets.quantumstat.com)
 
 ## Projects
+
+[Implement a Chat Both With PyTorch From Scratch - Beginner NLP Tutorial](https://www.reddit.com/r/learnmachinelearning/comments/h0x93c/implement_a_chat_both_with_pytorch_from_scratch/)
 
 [Building an NLP Sentiment Analysis Startup in Quarantine](https://www.youtube.com/watch?v=liTgn4xCMMw&feature=youtu.be)
 
