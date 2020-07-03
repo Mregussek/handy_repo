@@ -61,3 +61,5 @@
 [EXPLORE OPEN SOURCE PROJECTS AND JUMP IN!](https://up-for-grabs.net/#/)
 
 [5 Sources for Free and Open-Source Applications](https://nashosted.com/5-sources-for-free-and-open-source-applications/)
+
+[How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)

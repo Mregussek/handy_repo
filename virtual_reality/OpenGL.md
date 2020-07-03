@@ -22,6 +22,16 @@
 
 [Tried implementing PBR in OpenGL](https://www.reddit.com/r/opengl/comments/gksfcx/tried_implementing_pbr_in_opengl/)
 
+[Multi-threading with OpenGL in cpp](https://www.reddit.com/r/opengl/comments/hfmt2l/multithreading_with_opengl_in_cpp/)
+
+[How to load 3D modells when they are necessary ?](https://www.reddit.com/r/opengl/comments/hjddrr/how_to_load_3d_modells_when_they_are_necessary/)
+
+[Libraries for rendering text or achieving this solely in OpenGL](https://www.reddit.com/r/opengl/comments/hjwaps/libraries_for_rendering_text_or_achieving_this/)
+
+## CMake
+
+[CMake for OpenGL](https://www.reddit.com/r/opengl/comments/hj3w4k/cmake_for_opengl/)
+
 ## Quaternions
 
 [Visualizing quaternions](https://youtu.be/d4EgbgTm0Bg)
@@ -38,6 +48,10 @@
 
 ## Fascinating
 
+[How to get started with Physics/Verlet Integration/energy/movement/Eluer's method in OpenGL?](https://www.reddit.com/r/opengl/comments/hiq5wz/how_to_get_started_with_physicsverlet/)
+
+[Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/)
+
 [VCTRenderer](https://github.com/jose-villegas/VCTRenderer/)
 
 [My thesis really long ago. "Deferred Voxel Shading for Real Time Global Illumination"](https://www.reddit.com/r/opengl/comments/hbtaij/my_thesis_really_long_ago_deferred_voxel_shading/)
@@ -51,6 +65,8 @@
 [Fast Flood Fill Lighting in a Blocky Voxel Game: Pt 1](https://www.seedofandromeda.com/blogs/29-fast-flood-fill-lighting-in-a-blocky-voxel-game-pt-1)
 
 ## Projects
+
+[Predator effect in real time](https://www.reddit.com/r/augmentedreality/comments/hf18ea/predator_effect_in_real_time/)
 
 [MyvarEdit: Writing a Text Editor / IDE from scratch - OpenGL Rendering [Ep 2]](https://www.reddit.com/r/opengl/comments/gsuu0l/myvaredit_writing_a_text_editor_ide_from_scratch/)
 
@@ -81,3 +97,15 @@
 [Camera resectioning](https://en.wikipedia.org/wiki/Camera_resectioning)
 
 [Camera Calibration](https://docs.opencv.org/3.4.3/dc/dbb/tutorial_py_calibration.html)
+
+## Labs
+
+[Light Field Displays | Hong Hua](https://youtu.be/z67mlu3e7cg)
+
+## Must Read!
+
+[My 10 year game development journey](https://www.reddit.com/r/gamedev/comments/hezzwv/my_10_year_game_development_journey/)
+
+[Development Journey](http://nicotuason.com/10years.html)
+
+[I’m David Aldridge, the Director of Engineering for Destiny at Bungie. AMA!](https://www.reddit.com/r/gamedev/comments/hiw8qt/im_david_aldridge_the_director_of_engineering_for/)

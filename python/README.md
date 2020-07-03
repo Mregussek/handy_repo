@@ -42,6 +42,8 @@
 
 ## Python projects
 
+[Make Screen Recorder App using Python || AI Tutorials || CID](https://youtu.be/Pbv0QES7Is8)
+
 [Lecture2Gether - Watch online lectures together!](https://github.com/TheNerdful8/Lecture2Gether)
 
 [Tracking your eyes using Python](https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6)

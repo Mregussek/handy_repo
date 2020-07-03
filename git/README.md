@@ -30,6 +30,8 @@
 
 ## Fascinating
 
+[Removing Sensitive Data From Git History](https://dev.to/edmondso006/removing-sensitive-data-from-git-history-5g63)
+
 [Creating Your Own Git Server](https://gpanders.com/blog/creating-your-own-git-server/)
 
 [Autogit](https://github.com/fabiospampinato/autogit)

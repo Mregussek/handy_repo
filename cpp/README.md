@@ -10,6 +10,8 @@
 
 ## Learn C++
 
+[C++ Template: A Quick UpToDate Look(C++11/14/17/20)](http://www.vishalchovatiya.com/c-template-a-quick-uptodate-look/)
+
 [lvalues and rvalues in C++](https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c)
 
 [CPP course [PL]](https://github.com/SteelPh0enix/KursCPP/)
@@ -23,6 +25,8 @@
 [shared_ptr - basics and internals with examples](https://www.nextptr.com/tutorial/ta1358374985/shared_ptr-basics-and-internals-with-examples)
 
 [C++ Coroutines: Understanding Symmetric Transfer](https://lewissbaker.github.io/2020/05/11/understanding_symmetric_transfer)
+
+[How to write SOLID C++](https://youtu.be/PakbXnLht1I)
 
 ## Writing efficient code
 
@@ -59,6 +63,8 @@
 ### General
 
 [Comparing compilation times: Plain compilation vs Modules vs Precompiled headers](http://www.icce.rug.nl/documents/cplusplus/cplusplus07.html#l165)
+
+[C++ is too slow to compile, can you share all your tips to lower compilation time ?](https://www.reddit.com/r/cpp/comments/hj66pd/c_is_too_slow_to_compile_can_you_share_all_your/)
 
 ### CMake
 

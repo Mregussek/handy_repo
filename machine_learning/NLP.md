@@ -32,6 +32,8 @@
 
 ## Projects
 
+[keras-seq2seq-chatbot-with-attention](https://github.com/Pawandeep-prog/keras-seq2seq-chatbot-with-attention)
+
 [Implement a Chat Both With PyTorch From Scratch - Beginner NLP Tutorial](https://www.reddit.com/r/learnmachinelearning/comments/h0x93c/implement_a_chat_both_with_pytorch_from_scratch/)
 
 [Building an NLP Sentiment Analysis Startup in Quarantine](https://www.youtube.com/watch?v=liTgn4xCMMw&feature=youtu.be)

@@ -4,6 +4,8 @@
 
 [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded)
 
+[Hi, Is there a library supporting threading, semaphores, I2C, GPIO and SPI abstraction got embedded devices (mainly Arduino, ESP32, and nRF52840)?](https://www.reddit.com/r/embedded/comments/hjg3px/esp32_arduino_nrf52840/)
+
 ## Learn embedded
 
 [So You Want To Be An Embedded Systems Developer](https://www.embeddedrelated.com/showarticle/1324.php)
@@ -49,6 +51,8 @@
 ## Debugging
 
 [Debugging Embedded Linux Ethernet](https://vmb-tech.com/blog/debugging-embedded-ethernet.html)
+
+[For those daring vets, how do you set up your GNU Arm embedded toolchain environment?](https://www.reddit.com/r/embedded/comments/hk3eo1/for_those_daring_vets_how_do_you_set_up_your_gnu/)
 
 ## RPi
 
