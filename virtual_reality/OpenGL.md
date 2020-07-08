@@ -94,6 +94,10 @@
 
 [Lecture 16: Planar Homographies](http://www.cse.psu.edu/~rtc12/CSE486/lecture16.pdf)
 
+[Augmented Reality with OpenCV and OpenGL: the tricky projection matrix](https://fruty.io/2019/08/29/augmented-reality-with-opencv-and-opengl-the-tricky-projection-matrix/)
+
+[augmented reality - computing the OpenGL projection matrix from intrinsic camera parameters](https://strawlab.org/2011/11/05/augmented-reality-with-OpenGL/)
+
 [Camera resectioning](https://en.wikipedia.org/wiki/Camera_resectioning)
 
 [Camera Calibration](https://docs.opencv.org/3.4.3/dc/dbb/tutorial_py_calibration.html)
