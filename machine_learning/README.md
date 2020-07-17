@@ -136,6 +136,8 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 
 [Visionlib (helpful library)](https://github.com/ashwinvin/Visionlib)
 
+[EyeLoop is a Python 3-based eye-tracker](https://github.com/simonarvin/eyeloop)
+
 ## Datasets
 
 [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)

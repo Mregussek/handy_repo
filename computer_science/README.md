@@ -62,4 +62,6 @@
 
 [5 Sources for Free and Open-Source Applications](https://nashosted.com/5-sources-for-free-and-open-source-applications/)
 
+[On Open Source, licenses and changes](https://blog.frankel.ch/on-opensource-licenses-changes/)
+
 [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)

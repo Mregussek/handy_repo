@@ -50,6 +50,10 @@
 
 [A guide to getting started with boost::asio](https://www.gamedev.net/blogs/entry/2249317-a-guide-to-getting-started-with-boostasio/)
 
+## Embedding another language
+
+[What is the best way to embed python on a Qt/C++ applicattion [closed]](https://www.reddit.com/r/cpp/comments/hlabb3/what_is_the_best_way_to_embed_python_on_a_qtc/)
+
 ## Gamedev
 
 [modern c++ gamedev - thoughts & misconceptions (blog)](https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html)
@@ -57,6 +61,10 @@
 [modern c++ gamedev - thoughts & misconceptions (reddit)](https://www.reddit.com/r/cpp/comments/gkrquo/modern_c_gamedev_thoughts_misconceptions/)
 
 [modern c++ gamedev - thoughts & misconceptions (news)](https://news.ycombinator.com/item?id=23202120)
+
+## Networking
+
+[Is C++ a good language for server side code?](https://www.reddit.com/r/cpp/comments/hp06wx/is_c_a_good_language_for_server_side_code/)
 
 ## Compiling Theory
 

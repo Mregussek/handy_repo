@@ -104,6 +104,8 @@
 
 ## Labs
 
+[Stupid question for better or worse, but how does one go about BUILDING an AR headset?](https://www.reddit.com/r/augmentedreality/comments/hp21ks/stupid_question_for_better_or_worse_but_how_does/)
+
 [Light Field Displays | Hong Hua](https://youtu.be/z67mlu3e7cg)
 
 ## Must Read!
@@ -113,3 +115,5 @@
 [Development Journey](http://nicotuason.com/10years.html)
 
 [I’m David Aldridge, the Director of Engineering for Destiny at Bungie. AMA!](https://www.reddit.com/r/gamedev/comments/hiw8qt/im_david_aldridge_the_director_of_engineering_for/)
+
+[WOW! Face screaming in fear Whenever I think about the not-so-far future I imagine the integration of AR (Augmented Reality) and how it'll allow for a completely different world! New ways to work, enjoy entertainment, and more.](https://www.reddit.com/r/augmentedreality/comments/hm83h8/wow_face_screaming_in_fear_whenever_i_think_about/)

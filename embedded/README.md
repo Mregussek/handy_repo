@@ -105,6 +105,12 @@ Check other articles from this:
 
 [What’s Inside a Video Game? A Simple Game Loop and Player Controller in C on an SSD1306 OLED](https://mrdrprofbolt.wordpress.com/2020/05/14/whats-inside-a-video-game-a-simple-game-loop-and-player-controller-in-c-on-an-ssd1306-oled/)
 
+[Build an 8-bit computer from scratch](https://eater.net/8bit)
+
+[^^^ logisim-discrete-CPU](https://github.com/eddiewastaken/logisim-discrete-CPU)
+
+[Text to Speech Click on an ARMbasic Powered UChip, and Other ARMbasic Powered SBCs](https://www.instructables.com/id/Text-to-Speech-Click-on-an-ARMbasic-Powered-UChip-/)
+
 ## Graphics
 
 [TouchGFX Documentation](https://support.touchgfx.com/docs/introduction/welcome/)

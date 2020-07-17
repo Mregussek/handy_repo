@@ -30,6 +30,8 @@
 
 [Share a webcam over network/wifi almost latency free using v4l2loopback and ffmpeg](https://gitlab.com/snippets/1967306)
 
+[C++ Linux development with Visual Studio: incremental build improvements and expanded shell support](https://devblogs.microsoft.com/cppblog/c-linux-development-with-visual-studio-incremental-build-improvements-and-expanded-shell-support/)
+
 ## Fascinating
 
 [Finally, how to flash AMD VBIOS in Linux](https://andrealmeid.com/post/2020-05-01-vbios2/)
