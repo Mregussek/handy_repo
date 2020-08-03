@@ -40,6 +40,10 @@
 
 [Statically checking C/C++ for unused return values](https://pmeerw.net/blog/programming/unused-return.html)
 
+## Multithreading
+
+[PhysFS performance, a story of threading and locking](https://mropert.github.io/2020/07/26/threading_with_physfs/)
+
 ## Boost::asio
 
 [Boost.Asio (Network and low-level I/O programming)](https://sciencesoftcode.wordpress.com/2018/12/11/boost-asio-network-and-low-level-i-o-programming/)

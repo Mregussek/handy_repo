@@ -76,6 +76,16 @@
 
 [Project Idea](https://www.reddit.com/r/virtualreality/comments/gkzijy/i_was_inspired_by_the_new_amazon_show_upload_and/)
 
+[I made a tutorial series on on building multiplayer (.io) web games](https://www.reddit.com/r/gamedev/comments/i23pen/i_made_a_tutorial_series_on_on_building/)
+
+[How To Make A 3D Character For Your Game](https://youtu.be/ogz-3r0EHKM)
+
+### Other Game Engines
+
+[My progess in creating a 3D game engine](https://www.reddit.com/r/gamedev/comments/i2z6ir/my_progess_in_creating_a_3d_game_engine/)
+
+[^^^ MxEngine ^^^ Github](https://github.com/asc-community/MxEngine)
+
 ## OpenXR
 
 [AREA Interoperability & Standards Webinar Introduction to Khronos Group OpenXR](https://youtu.be/y5IlhJv-nrM)
