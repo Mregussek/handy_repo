@@ -53,3 +53,5 @@
 [I Created a “Bot” to Send a Message When the Bus Comes Every Morning](https://itnext.io/i-created-a-bot-to-send-a-message-when-the-bus-comes-every-morning-7469d00a72cf)
 
 [Blur and anonymize faces with OpenCV and Python](https://www.pyimagesearch.com/2020/04/06/blur-and-anonymize-faces-with-opencv-and-python/)
+
+[I finished my Python Ray Tracer capable of rendering refraction and thin film interference!](https://www.reddit.com/r/Python/comments/i9q4dx/i_finished_my_python_ray_tracer_capable_of/)

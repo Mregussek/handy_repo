@@ -1,4 +1,4 @@
-## Courses
+# Courses
 
 [Python3: from None to Machine Learning](http://python.astrotech.io/index.html)
 
@@ -10,21 +10,23 @@
 
 [Andrew Ng's Stanford machine learning course (CS 229) now online with newer 2018 version](https://www.reddit.com/r/learnmachinelearning/comments/g63j7j/andrew_ngs_stanford_machine_learning_course_cs/)
 
-### Notes from courses
+[Amazon's Machine Learning University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
+
+## Notes from courses
 
 [deeplearning.ai](https://github.com/y-ouali/deeplearning.ai_notes)
 
 [fast.ai](https://github.com/y-ouali/fast.ai_notes)
 
-### Python
+## Python
 
 [Python ML courses](https://www.reddit.com/r/Python/comments/cew4iw/python_machine_learning/)
 
-### C++ 
+## C++
 
 [Youtube course](https://www.youtube.com/watch?v=E1K9SZCm0fQ&list=PL79n_WS-sPHKklEvOLiM1K94oJBsGnz71)
 
-### Youtube
+## Youtube
 
 [CORNELL CS4780 "Machine Learning for Intelligent Systems"](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 
@@ -66,11 +68,11 @@
 
 [Implementing K-Means Clustering From Scratch: Simply Explained](https://www.youtube.com/watch?v=8nOIB5LDiWo)
 
-[Installations for Deep Learning: Anaconda, Jupyter Notebook, Tensorflow, Keras ](https://www.youtube.com/watch?v=Ksu5zZIdfH0)
+[Installations for Deep Learning: Anaconda, Jupyter Notebook, Tensorflow, Keras](https://www.youtube.com/watch?v=Ksu5zZIdfH0)
 
 [Understanding Convolutional Neural Networks: Making a Handwritten Digit Calculator | Keras #5](https://www.youtube.com/watch?v=eyKwPyOqMg4&feature=emb_title)
 
-### Statistics
+## Statistics
 
 [An Introduction to Statistical Learning {Book}](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 

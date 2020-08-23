@@ -74,6 +74,8 @@
 
 [e-ink display which shows your last played track and listening stats from last.fm](https://www.reddit.com/r/raspberry_pi/comments/h7tkqi/eink_display_which_shows_your_last_played_track/)
 
+[Building a Raspberry Pi Thermal Imaging Camera - MLX90640 Guide](https://www.reddit.com/r/raspberry_pi/comments/i75260/building_a_raspberry_pi_thermal_imaging_camera/)
+
 ## nRF52
 
 [Nordic nRF52840 communication with Thread protocol](https://www.reddit.com/r/embedded/comments/g60c42/nordic_nrf52840_communication_with_thread_protocol/)

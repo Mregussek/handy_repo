@@ -68,6 +68,8 @@
 
 [Sorting 1 million 8-decimal-digit numbers with 1 MB of RAM](https://stackoverflow.com/questions/12748246/sorting-1-million-8-decimal-digit-numbers-with-1-mb-of-ram/13000176#13000176)
 
+[Software Engineering for Self-Driving Cars Guide](https://github.com/tabaddor/av-swe-guide)
+
 ## Career
 
 [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)

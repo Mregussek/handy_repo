@@ -8,6 +8,8 @@
 
 [Build Own C++ game [oldschool]](https://github.com/ssloy/tinyraycaster/wiki)
 
+[A curated list of awesome header-only C++ libraries](https://github.com/p-ranav/awesome-hpp)
+
 ## Learn C++
 
 [C++ Template: A Quick UpToDate Look(C++11/14/17/20)](http://www.vishalchovatiya.com/c-template-a-quick-uptodate-look/)
@@ -28,6 +30,8 @@
 
 [How to write SOLID C++](https://youtu.be/PakbXnLht1I)
 
+[But I was helping the compiler!](https://pankajraghav.com/2020/08/16/RVO.html)
+
 ## Writing efficient code
 
 [How to get better at C++ infrastructure design?](https://www.reddit.com/r/cpp/comments/ftm8n3/how_to_get_better_at_c_infrastructure_design/)
@@ -39,6 +43,8 @@
 [Smarter C/C++ inlining with __attribute__((flatten))](https://awesomekling.github.io/Smarter-C++-inlining-with-attribute-flatten/)
 
 [Statically checking C/C++ for unused return values](https://pmeerw.net/blog/programming/unused-return.html)
+
+[What are some important skills that every C++ developer should have?](https://www.reddit.com/r/cpp_questions/comments/i8613p/what_are_some_important_skills_that_every_c/)
 
 ## Multithreading
 

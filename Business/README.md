@@ -36,7 +36,11 @@
 
 [How to not hire software engineer?](http://tonsky.me/blog/hiring/)
 
+[Embedded Software Internship Interview at Tesla next week, what to expect?](https://www.reddit.com/r/ECE/comments/ia9ex5/embedded_software_internship_interview_at_tesla/)
+
 ## Fascinating
+
+[My first game just became the #1 top selling, recently released discounted Action game on Nintendo Switch. Solo developer. AMA!](https://www.reddit.com/r/gamedev/comments/i59po5/my_first_game_just_became_the_1_top_selling/)
 
 [The largest collection of startup pitch decks.](https://starthouse.xyz)
 
@@ -45,3 +49,5 @@
 [The Zero-Dollar Infrastructure Stack](https://medium.com/better-programming/the-zero-dollar-infrastructure-stack-7c840a8b555b)
 
 [mdBook - app for creating books](https://github.com/rust-lang/mdBook)
+
+[How to support my gamedev boyfriend better?](https://www.reddit.com/r/gamedev/comments/iays19/how_to_support_my_gamedev_boyfriend_better/)

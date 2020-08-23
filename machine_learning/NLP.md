@@ -14,6 +14,8 @@
 
 [How to leverage Natural Language Processing (NLP) for business processes optimization](https://www.datasciencecentral.com/profiles/blogs/how-to-leverage-natural-language-processing-nlp-for-business)
 
+[10 Good Open Source Speech Recognition Systems [2020]](https://fosspost.org/open-source-speech-recognition-2020/)
+
 ## Courses
 
 [A list of NLP(Natural Language Processing) tutorials](https://www.reddit.com/r/MachineLearning/comments/h7kr40/p_a_list_of_nlpnatural_language_processing/)

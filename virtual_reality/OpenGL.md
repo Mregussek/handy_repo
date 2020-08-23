@@ -28,6 +28,12 @@
 
 [Libraries for rendering text or achieving this solely in OpenGL](https://www.reddit.com/r/opengl/comments/hjwaps/libraries_for_rendering_text_or_achieving_this/)
 
+[How can I optimize my key handling and make it more smooth (in GLFW)](https://www.reddit.com/r/opengl/comments/i8lv8u/how_can_i_optimize_my_key_handling_and_make_it/)
+
+## Github
+
+[awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system)
+
 ## CMake
 
 [CMake for OpenGL](https://www.reddit.com/r/opengl/comments/hj3w4k/cmake_for_opengl/)
@@ -112,13 +118,15 @@
 
 [Camera Calibration](https://docs.opencv.org/3.4.3/dc/dbb/tutorial_py_calibration.html)
 
+[How to bring a 3D human hologram in your next immersive project?](https://medium.com/volograms/how-to-bring-a-3d-human-hologram-in-your-next-immersive-project-47ae6e8e5a66)
+
 ## Labs
 
 [Stupid question for better or worse, but how does one go about BUILDING an AR headset?](https://www.reddit.com/r/augmentedreality/comments/hp21ks/stupid_question_for_better_or_worse_but_how_does/)
 
 [Light Field Displays | Hong Hua](https://youtu.be/z67mlu3e7cg)
 
-## Must Read!
+## Must Read
 
 [My 10 year game development journey](https://www.reddit.com/r/gamedev/comments/hezzwv/my_10_year_game_development_journey/)
 
@@ -127,3 +135,7 @@
 [I’m David Aldridge, the Director of Engineering for Destiny at Bungie. AMA!](https://www.reddit.com/r/gamedev/comments/hiw8qt/im_david_aldridge_the_director_of_engineering_for/)
 
 [WOW! Face screaming in fear Whenever I think about the not-so-far future I imagine the integration of AR (Augmented Reality) and how it'll allow for a completely different world! New ways to work, enjoy entertainment, and more.](https://www.reddit.com/r/augmentedreality/comments/hm83h8/wow_face_screaming_in_fear_whenever_i_think_about/)
+
+## Math
+
+[Math and professional game programming as a career: You only need to know certain specific things?](https://www.reddit.com/r/gamedev/comments/i69vww/math_and_professional_game_programming_as_a/)
