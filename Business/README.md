@@ -6,6 +6,8 @@
 
 [How to run a startup for $6 a year](https://news.ycombinator.com/item?id=22354060)
 
+[OpenStartup.dev The most complete list of open startups](https://openstartup.dev/?ref=producthunt)
+
 ## How to work
 
 [Working for someone vs. doing your own thing](https://tik.dev/dilemma)
@@ -25,6 +27,8 @@
 [Mobile App or Website in Early Stages of a Startup?](https://www.enozom.com/blog/mobile-app-or-website-early-stages-startup)
 
 [26 Best Free Chrome Extensions for SEOs (Tried & Tested)](https://ahrefs.com/blog/seo-chrome-extensions/)
+
+[fontsinuse.com/](https://fontsinuse.com/)
 
 ## Failures
 

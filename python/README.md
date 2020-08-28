@@ -55,3 +55,5 @@
 [Blur and anonymize faces with OpenCV and Python](https://www.pyimagesearch.com/2020/04/06/blur-and-anonymize-faces-with-opencv-and-python/)
 
 [I finished my Python Ray Tracer capable of rendering refraction and thin film interference!](https://www.reddit.com/r/Python/comments/i9q4dx/i_finished_my_python_ray_tracer_capable_of/)
+
+[Discord.py: The QuickStart Guide](https://codeburst.io/discord-py-the-quickstart-guide-2587abc136ab)
