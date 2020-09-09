@@ -134,3 +134,5 @@ Check other articles from this:
 [Accessing raw memory in Embedded Linux](https://vmb-tech.com/blog/access-raw-mem-embedded-linux.html)
 
 [Recommended microcontrollers for image/face recognition](https://www.reddit.com/r/embedded/comments/g77exq/recommended_microcontrollers_for_imageface/)
+
+[What Are Memory Addressing Modes? (MSP430) | Embedded Systems Explained](https://youtu.be/Gk4yFmTVZec?list=PLeAb9_hv082weQ10WcvFfLBlNcCYXlQ4q)

@@ -46,6 +46,8 @@
 
 [What are some important skills that every C++ developer should have?](https://www.reddit.com/r/cpp_questions/comments/i8613p/what_are_some_important_skills_that_every_c/)
 
+[6 Efficient Things You Can Do to Refactor a C++ Project](https://www.bfilipek.com/2020/08/6things-refactor.html)
+
 ## Multithreading
 
 [PhysFS performance, a story of threading and locking](https://mropert.github.io/2020/07/26/threading_with_physfs/)
@@ -102,7 +104,11 @@
 
 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 
-### Linking 
+[CMake line by line - using a non-CMake library](https://dominikberner.ch/cmake-find-library/)
+
+[Setup Cross-Platfrom C++ Project](https://www.reddit.com/r/cpp_questions/comments/io4oro/setup_crossplatfrom_c_project/)
+
+### Linking
 
 [Can somebody explain the linking process in C++?](https://www.reddit.com/r/cpp/comments/gtk5lz/can_somebody_explain_the_linking_process_in_c/)
 

@@ -30,6 +30,12 @@
 
 [How can I optimize my key handling and make it more smooth (in GLFW)](https://www.reddit.com/r/opengl/comments/i8lv8u/how_can_i_optimize_my_key_handling_and_make_it/)
 
+[Help for fluid volume(signed distance field) rendering.](https://www.reddit.com/r/opengl/comments/ihij63/help_for_fluid_volumesigned_distance_field/)
+
+[https://www.reddit.com/r/opengl/comments/ihtjws/can_opengl_be_used_for_rendering_with_methods/](https://www.reddit.com/r/opengl/comments/ihtjws/can_opengl_be_used_for_rendering_with_methods/)
+
+[Real-time rendering of water caustics](https://medium.com/@martinRenou/real-time-rendering-of-water-caustics-59cda1d74aa)
+
 ## Github
 
 [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system)
@@ -70,6 +76,8 @@
 
 [Fast Flood Fill Lighting in a Blocky Voxel Game: Pt 1](https://www.seedofandromeda.com/blogs/29-fast-flood-fill-lighting-in-a-blocky-voxel-game-pt-1)
 
+[I created a video explaining the Möller Trumbore fast ray-triangle intersection after a request on my last ray-triangle video. Open to feedback and suggestions.](https://youtu.be/fK1RPmF_zjQ)
+
 ## Projects
 
 [Predator effect in real time](https://www.reddit.com/r/augmentedreality/comments/hf18ea/predator_effect_in_real_time/)
@@ -85,6 +93,14 @@
 [I made a tutorial series on on building multiplayer (.io) web games](https://www.reddit.com/r/gamedev/comments/i23pen/i_made_a_tutorial_series_on_on_building/)
 
 [How To Make A 3D Character For Your Game](https://youtu.be/ogz-3r0EHKM)
+
+[Nova - High performance GPU accelerated ray tracer using OpenCL/CUDA](https://github.com/wchang22/Nova)
+
+[Building a Ray Tracer in Python - Part 1 (Points in 3D Space)](https://youtu.be/KaCe63v4D_Q?list=PL8ENypDVcs3H-TxOXOzwDyCm5f2fGXlIS)
+
+[Thought I'd write my own 3D software rendering engine too since it's so fun. Runs entirely on CPU. Code still in early stages(in other words, it's not that great) . Github link in video description.](https://www.reddit.com/r/GraphicsProgramming/comments/ilz8ca/thought_id_write_my_own_3d_software_rendering/)
+
+[I made a little path tracer that runs on my STM32L432KC. It took about 20 minutes to render this scene](https://www.reddit.com/r/embedded/comments/in5g4q/i_made_a_little_path_tracer_that_runs_on_my/)
 
 ### Other Game Engines
 
@@ -136,6 +152,18 @@
 
 [WOW! Face screaming in fear Whenever I think about the not-so-far future I imagine the integration of AR (Augmented Reality) and how it'll allow for a completely different world! New ways to work, enjoy entertainment, and more.](https://www.reddit.com/r/augmentedreality/comments/hm83h8/wow_face_screaming_in_fear_whenever_i_think_about/)
 
+[Ubisoft Designer Explains Realities of a Game Production Cycle](https://youtu.be/b4QdkiVn_cI)
+
 ## Math
 
 [Math and professional game programming as a career: You only need to know certain specific things?](https://www.reddit.com/r/gamedev/comments/i69vww/math_and_professional_game_programming_as_a/)
+
+[More math intensive opengl tutorial](https://www.reddit.com/r/opengl/comments/imfo2j/more_math_intensive_opengl_tutorial/)
+
+## Helpful Free packages
+
+[Package of over 150 low-poly space themed 3D models, public domain!](https://www.reddit.com/r/gamedev/comments/ihpssx/package_of_over_150_lowpoly_space_themed_3d/)
+
+[Free Low Poly City Vehicles Pack Update. Added 16 new vehicles!](https://www.reddit.com/r/gamedev/comments/ida3rv/free_low_poly_city_vehicles_pack_update_added_16/)
+
+[Free Asset: 40 animations collection (walk, run, attack w/ different weapons, etc)](https://www.reddit.com/r/gamedev/comments/imfq1h/free_asset_40_animations_collection_walk_run/)

@@ -28,6 +28,8 @@
 
 [Search across a half million git repos](https://grep.app)
 
+[awesome-github-profile-readme-templates](https://github.com/themlphdstudent/awesome-github-profile-readme-templates)
+
 ## Fascinating
 
 [Removing Sensitive Data From Git History](https://dev.to/edmondso006/removing-sensitive-data-from-git-history-5g63)

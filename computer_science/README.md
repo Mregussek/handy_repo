@@ -45,23 +45,3 @@
 [What is an API Gateway?](https://dev.to/bearer/what-is-an-api-gateway-42i6)
 
 [Best practices for managing and storing secrets including API keys and other credentials](https://blog.gitguardian.com/secrets-api-management/)
-
-## Open Source
-
-[Friendly Open Source projects should reserve specific issues for newbies](https://www.firsttimersonly.com/)
-
-[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-
-[🚀✨ Help beginners to contribute to open source projects](https://github.com/firstcontributions/first-contributions)
-
-[Open Source Guides](https://opensource.guide)
-
-[First Contributions](https://github.com/firstcontributions/first-contributions)
-
-[EXPLORE OPEN SOURCE PROJECTS AND JUMP IN!](https://up-for-grabs.net/#/)
-
-[5 Sources for Free and Open-Source Applications](https://nashosted.com/5-sources-for-free-and-open-source-applications/)
-
-[On Open Source, licenses and changes](https://blog.frankel.ch/on-opensource-licenses-changes/)
-
-[How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)

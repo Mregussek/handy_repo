@@ -46,6 +46,8 @@
 
 [How to Write and Design User-Friendly Error Messages](https://medium.com/thinking-design/how-to-write-design-user-friendly-error-messages-87d0207bb902)
 
+[Feel like I am terrible dev how do I get better? Resources, Videos, Courses](https://www.reddit.com/r/cscareerquestions/comments/ii6tr9/feel_like_i_am_terrible_dev_how_do_i_get_better/)
+
 ## Developer Laws
 
 [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
@@ -59,6 +61,8 @@
 [Decade of remote work](https://blog.viktorpetersson.com/2019/05/18/a-decade-of-remote.html)
 
 [How about being independent developer?](http://www.nathalielawhead.com/candybox/the-future-of-my-games-on-apple-post-catalina-and-what-this-means-for-art-games-in-general)
+
+[What's it like as a Senior Engineer at Google?](https://www.zainrizvi.io/blog/whats-it-like-as-a-senior-engineer/)
 
 ## Fascinating
 

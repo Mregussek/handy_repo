@@ -98,6 +98,8 @@ Please notice, that there are also *NLP.md* and *COURSES.md* files, where you ca
 
 [Meet the Bots that Help Moderate Stack Overflow](https://stackoverflow.blog/2019/09/17/meet-the-bots-that-help-moderate-stack-overflow/)
 
+[Interpretable machine learning models (imodels)](https://github.com/csinva/interpretability-implementations-demos)
+
 ## Interview
 
 [Applied Math & ML: A Real Data Science Interview Project](https://medium.com/the-urban-nerd/applied-math-ml-a-real-data-science-interview-project-1f18852d7cc9)
