@@ -1,3 +1,5 @@
+# Hacking
+
 ## Github
 
 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking))
@@ -10,6 +12,8 @@
 
 [Software Security Field Guide for the Bewildered](https://zwischenzugs.com/2019/09/22/software-security-field-guide-for-the-bewildered/)
 
+[Be safe on the internet](https://securitycheckli.st/)
+
 ## Fascinating
 
 [Cracking PDF password](https://medium.com/@baodad/cracking-my-first-password-8df292fc71c5)
@@ -21,5 +25,7 @@
 [Reverse engineering my router's firmware with binwalk](https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk/)
 
 [Reverse Engineering a Digital Answering Machine (part 1)](https://ivanwick.github.io/2020/03/15/answering-machine-pt1.html)
+
+[Reverse Engineering for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/)
 
 [AKTYWNE STRONY TOR](http://itcontent.eu/aktywne-strony-tor/)

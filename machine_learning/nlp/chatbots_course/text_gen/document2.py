@@ -1,3 +1,0 @@
-training_doc2 = """
-This probably all sounds strange. Where Isocrates and Shakespeare wished us to be self-contained, self-motivated, and ruled by principle, most of us have trained to do the opposite. Our cultural values almost try to make us dependent on validation, entitled, and ruled by our emotions. For a generation parents and teachers have focused on building up everyone’s self-esteem. From there, the themes of our gurus and public figures have been almost exclusively aimed at inspiring, encouraging, and assuring us that we can do whatever we set our minds to.
-"""
