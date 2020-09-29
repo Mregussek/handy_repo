@@ -8,6 +8,8 @@
 
 [HTTP/3 explained](https://http3-explained.haxx.se/en/)
 
+[How HTTPS works ...in a comic!](https://howhttps.works/)
+
 ## Web
 
 [Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)

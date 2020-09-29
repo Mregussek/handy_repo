@@ -41,3 +41,5 @@
 [How to Write and Design User-Friendly Error Messages](https://medium.com/thinking-design/how-to-write-design-user-friendly-error-messages-87d0207bb902)
 
 [Conversations with a six-year-old on functional programming](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
+
+[If-Else Is a Poor Man’s Polymorphism](https://levelup.gitconnected.com/if-else-is-a-poor-mans-polymorphism-ab0b333b7265)

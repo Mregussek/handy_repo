@@ -16,11 +16,15 @@
 
 ## Fascinating
 
+[Database Penetration testing and Privilege Escalation - OSCP 2020](https://youtu.be/bmoLCw0_nzE)
+
 [Cracking PDF password](https://medium.com/@baodad/cracking-my-first-password-8df292fc71c5)
 
 [Hidden VPN owners unveiled: 97 VPN products run by just 23 companies](https://vpnpro.com/blog/hidden-vpn-owners-unveiled-97-vpns-23-companies/)
 
 [How I encrypt my data in the cloud](https://www.robertclarke.com/cloud-encryption/)
+
+[When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
 
 [Reverse engineering my router's firmware with binwalk](https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk/)
 

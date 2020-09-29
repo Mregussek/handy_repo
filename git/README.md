@@ -16,6 +16,10 @@
 
 [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
 
+[ugit: DIY Git in Python](https://www.leshenko.net/p/ugit/)
+
+[Learn Git Branching](https://learngitbranching.js.org/)
+
 ## Good practices
 
 [Git rebase and merge comparison](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)

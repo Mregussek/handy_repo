@@ -16,6 +16,8 @@
 
 [The largest collection of startup pitch decks.](https://starthouse.xyz)
 
+[The most complete list of open startups](https://openstartup.dev/?ref=producthunt)
+
 ## Leadership
 
 [5 arguments to make managers care about technical debt](https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt/)

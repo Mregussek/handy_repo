@@ -20,11 +20,15 @@
 
 [I made a tutorial series on Youtube to teach you how to make your own VR game. It covers VR setup, Teleportation, Continuous Movement, Grab and Ray interaction](https://www.reddit.com/r/virtualreality/comments/hbedy8/im_a_vr_developer_and_i_made_a_tutorial_series_on/)
 
-## Other 
+## Other
 
 [Project Idea](https://www.reddit.com/r/virtualreality/comments/gkzijy/i_was_inspired_by_the_new_amazon_show_upload_and/)
 
 [34 VR Apps for Remote Work, Education, Training, Design Review, and More](https://www.roadtovr.com/vr-apps-work-from-home-remote-office-design-review-training-education-cad-telepresence-wfh/)
+
+## Glasses
+
+[Relativty an open-source VR headset](https://www.relativty.com/)
 
 ## OpenXR
 
