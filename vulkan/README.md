@@ -8,6 +8,8 @@
 
 [from OpenGL to Vulkan](https://www.reddit.com/r/vulkan/comments/ii1rki/from_opengl_to_vulkan/)
 
+[Best book/website to learn vulkan from scratch?](https://www.reddit.com/r/vulkan/comments/j3f58c/best_bookwebsite_to_learn_vulkan_from_scratch/)
+
 ## ImGui
 
 [Integrating Dear ImGui in a custom Vulkan renderer](https://frguthmann.github.io/posts/vulkan_imgui/)

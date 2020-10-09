@@ -9,3 +9,5 @@
 [C++ Linux development with Visual Studio: incremental build improvements and expanded shell support](https://devblogs.microsoft.com/cppblog/c-linux-development-with-visual-studio-incremental-build-improvements-and-expanded-shell-support/)
 
 [Finally, how to flash AMD VBIOS in Linux](https://andrealmeid.com/post/2020-05-01-vbios2/)
+
+[Every Distro is Awesome](https://www.reddit.com/r/linux/comments/j07qwy/every_distro_is_awesome/)

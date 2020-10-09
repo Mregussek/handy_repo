@@ -34,3 +34,4 @@
 
 [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer)
 
+[Rant from a former Ubisoft employee](https://www.reddit.com/r/gamedev/comments/j6zas3/rant_from_a_former_ubisoft_employee/)

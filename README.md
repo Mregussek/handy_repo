@@ -4,4 +4,6 @@ This is my storage for everything I find useful in web. I don't want to lose thi
 
 ## Cannot categorize them:
 
+[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)
+
 [Build your own ...](https://github.com/danistefanovic/build-your-own-x)

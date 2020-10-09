@@ -41,3 +41,5 @@
 [Free Low Poly City Vehicles Pack Update. Added 16 new vehicles!](https://www.reddit.com/r/gamedev/comments/ida3rv/free_low_poly_city_vehicles_pack_update_added_16/)
 
 [Free Asset: 40 animations collection (walk, run, attack w/ different weapons, etc)](https://www.reddit.com/r/gamedev/comments/imfq1h/free_asset_40_animations_collection_walk_run/)
+
+[Free low poly hats (Link in the comments)](https://www.reddit.com/r/gamedev/comments/j17qzx/free_low_poly_hats_link_in_the_comments/)

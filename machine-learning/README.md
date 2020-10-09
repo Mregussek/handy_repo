@@ -40,6 +40,10 @@
 
 [ML asset management](https://github.com/firmai/machine-learning-asset-management)
 
+## Libraries
+
+[I made a tutorial on how to use the Eigen C++ library for ML!](https://www.reddit.com/r/cpp/comments/j16m4n/i_made_a_tutorial_on_how_to_use_the_eigen_c/)
+
 ## Deployment
 
 [Introduction To Machine Learning Deployment Using Docker and Kubernetes](https://mlfromscratch.com/deployment-introduction/)
@@ -49,6 +53,10 @@
 [Machine Learning in the embedded world](https://www.reddit.com/r/embedded/comments/cjq8qt/machine_learning_in_the_embedded_world/)
 
 [Deep learning for Embedded Linux Series: Part 1 — Model Optimization](https://medium.com/yonohub/deep-learning-for-embedded-linux-series-part-1-model-optimization-daa553a5979)
+
+## Speech Recognition
+
+[Customer Case Study: Building an end-to-end Speech Recognition model in PyTorch with AssemblyAI](https://www.comet.ml/site/customer-case-study-building-an-end-to-end-speech-recognition-model-in-pytorch-with-assemblyai/)
 
 ## Projects
 

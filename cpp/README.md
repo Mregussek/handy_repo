@@ -20,11 +20,19 @@
 
 [But I was helping the compiler!](https://pankajraghav.com/2020/08/16/RVO.html)
 
+[Are there any good resources for learning the new things in the recent C++ versions?](https://www.reddit.com/r/cpp/comments/j4vcys/are_there_any_good_resources_for_learning_the_new/)
+
+## Compilation
+
+[The Little Things: Speeding up C++ compilation](https://codingnest.com/the-little-things-speeding-up-c-compilation/)
+
 ## Language concepts
 
 [lvalues and rvalues in C++](https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c)
 
 [C++ Template: A Quick UpToDate Look(C++11/14/17/20)](http://www.vishalchovatiya.com/c-template-a-quick-uptodate-look/)
+
+[The Design of C++ , lecture by Bjarne Stroustrup](https://youtu.be/69edOm889V4)
 
 ## Good practices
 

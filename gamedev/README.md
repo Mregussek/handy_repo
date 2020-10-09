@@ -44,6 +44,8 @@
 
 [My first game just became the #1 top selling, recently released discounted Action game on Nintendo Switch. Solo developer. AMA!](https://www.reddit.com/r/gamedev/comments/i59po5/my_first_game_just_became_the_1_top_selling/)
 
+[The motion capture for Shadow of the Tomb Raider (2018)](https://www.reddit.com/r/gamedev/comments/irkffz/the_motion_capture_for_shadow_of_the_tomb_raider/)
+
 ## Math
 
 [Math and professional game programming as a career: You only need to know certain specific things?](https://www.reddit.com/r/gamedev/comments/i69vww/math_and_professional_game_programming_as_a/)

@@ -11,3 +11,7 @@
 [ShAIdes](https://github.com/nickbild/shaides)
 
 [[CVPR 2020] Learning to See Through Obstructions](https://github.com/alex04072000/ObstructionRemoval)
+
+## Projects
+
+[How do I start building an A.I. like J.A.R.V.I.S. ? (serious question)](https://www.reddit.com/r/AskProgramming/comments/iuoxk5/how_do_i_start_building_an_ai_like_jarvis_serious/)
