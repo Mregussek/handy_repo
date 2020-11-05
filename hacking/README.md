@@ -8,6 +8,8 @@
 
 [Security Conferences](https://github.com/PaulSec/awesome-sec-talks)
 
+[I finally opened my years-old Pandora's Box of cybersecurity & programming resource bookmarks while in quarantine](https://www.reddit.com/r/learnprogramming/comments/jjlues/i_finally_opened_my_yearsold_pandoras_box_of/)
+
 ## Security
 
 [Software Security Field Guide for the Bewildered](https://zwischenzugs.com/2019/09/22/software-security-field-guide-for-the-bewildered/)

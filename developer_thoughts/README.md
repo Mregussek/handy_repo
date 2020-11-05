@@ -22,6 +22,8 @@
 
 [Feel like I am terrible dev how do I get better? Resources, Videos, Courses](https://www.reddit.com/r/cscareerquestions/comments/ii6tr9/feel_like_i_am_terrible_dev_how_do_i_get_better/)
 
+[How This Game Dev Sold 200,000 Copies of His Game](https://youtu.be/igRBWT6TDy4)
+
 [Decade of remote work](https://blog.viktorpetersson.com/2019/05/18/a-decade-of-remote.html)
 
 [My 10 year game development journey](https://www.reddit.com/r/gamedev/comments/hezzwv/my_10_year_game_development_journey/)

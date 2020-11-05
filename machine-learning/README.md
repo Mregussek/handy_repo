@@ -20,6 +20,8 @@
 
 ## Learning Machine Learning
 
+[Complete-ML-Coursework](https://github.com/AbhishekSinhaCoder/Complete-ML-Coursework)
+
 [Co to jest uczenie maszynowe? [PL]](https://uczymymaszyny.pl/puk-puk-kto-tam-uczenie-maszynowe/)
 
 [ML in simple words](https://vas3k.com/blog/machine_learning/)
@@ -39,6 +41,8 @@
 [[D] Advanced courses update](https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update/)
 
 [ML asset management](https://github.com/firmai/machine-learning-asset-management)
+
+[Understanding Markov Chains and Stationary Distribution](https://youtu.be/i3AkTO9HLXo)
 
 ## Libraries
 

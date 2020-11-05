@@ -36,6 +36,8 @@
 
 ## Good practices
 
+[Software optimization resources](https://agner.org/optimize/)
+
 [When not to std::move?](https://developers.redhat.com/blog/2019/04/12/understanding-when-not-to-stdmove-in-c/)
 
 [How to get better at C++ infrastructure design?](https://www.reddit.com/r/cpp/comments/ftm8n3/how_to_get_better_at_c_infrastructure_design/)

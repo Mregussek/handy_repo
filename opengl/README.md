@@ -20,6 +20,8 @@
 
 [How to get started with Physics/Verlet Integration/energy/movement/Eluer's method in OpenGL?](https://www.reddit.com/r/opengl/comments/hiq5wz/how_to_get_started_with_physicsverlet/)
 
+[Rigidbody Physics Simulation in C++/OpenGL help?](https://www.reddit.com/r/GraphicsProgramming/comments/jodkn5/rigidbody_physics_simulation_in_copengl_help/)
+
 ## Fascinating
 
 [Tiny renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)

@@ -2,6 +2,8 @@
 
 ## Fascinating
 
+[Slides for programming courses](https://marko-knoebl.github.io/slides/#python)
+
 [Why do arrays start from 0?](https://medium.com/@albertkoz/why-does-array-start-with-index-0-65ffc07cbce8)
 
 [5 Mistakes to Avoid When Buying a MicroSD Card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/)
