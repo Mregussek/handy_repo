@@ -24,6 +24,8 @@ DO NOT FORGET TO CHECK **COURSES.md** FILE.
 
 [What Are Memory Addressing Modes? (MSP430) | Embedded Systems Explained](https://youtu.be/Gk4yFmTVZec?list=PLeAb9_hv082weQ10WcvFfLBlNcCYXlQ4q)
 
+[How many registers does an x86-64 CPU have?](https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have)
+
 ## Debugging
 
 [Debugging Embedded Linux Ethernet](https://vmb-tech.com/blog/debugging-embedded-ethernet.html)

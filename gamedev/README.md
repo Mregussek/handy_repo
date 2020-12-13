@@ -36,6 +36,10 @@
 
 [How To: Create a Video Chat App in Unity](https://medium.com/agora-io/how-to-create-a-video-chat-app-in-unity-26780b479a78)
 
+[Let's build a 4-Player Networked Game LIVE - Online Shooter (with Mirror & Unity)](https://youtu.be/j2so32ZlMoU)
+
+[FFT ocean simulation for Unity. Links to the source code and video tutorial in the comments.](https://www.reddit.com/r/gameassets/comments/k7ytse/fft_ocean_simulation_for_unity_links_to_the/)
+
 ## UE4
 
 [Hey guys, I run a FREE tutorial platform where professional artists can come and share their knowledge with the community. This week Thomas stops by and shows us how to make a Sci-Fi Environments using UE4! We put a ton of effort into it, so come check it out and let me know what you think!](https://www.reddit.com/r/gamedev/comments/icnjbh/hey_guys_i_run_a_free_tutorial_platform_where/)
@@ -45,6 +49,10 @@
 [My first game just became the #1 top selling, recently released discounted Action game on Nintendo Switch. Solo developer. AMA!](https://www.reddit.com/r/gamedev/comments/i59po5/my_first_game_just_became_the_1_top_selling/)
 
 [The motion capture for Shadow of the Tomb Raider (2018)](https://www.reddit.com/r/gamedev/comments/irkffz/the_motion_capture_for_shadow_of_the_tomb_raider/)
+
+[How Among Us Was Made and Why The Developers Wanted to Quit](https://youtu.be/JBib9vPxhBE)
+
+[My Favorite Devlog Youtube Channels](https://www.reddit.com/r/gamedev/comments/js0fu5/my_favorite_devlog_youtube_channels/)
 
 ## Math
 

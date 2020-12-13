@@ -45,3 +45,7 @@
 [Free Asset: 40 animations collection (walk, run, attack w/ different weapons, etc)](https://www.reddit.com/r/gamedev/comments/imfq1h/free_asset_40_animations_collection_walk_run/)
 
 [Free low poly hats (Link in the comments)](https://www.reddit.com/r/gamedev/comments/j17qzx/free_low_poly_hats_link_in_the_comments/)
+
+## Dev opinions
+
+[What do people think of the latest version of the Godot manual? It's undergone a big revamp, still work in progress.](https://www.reddit.com/r/gamedev/comments/k6rd5g/what_do_people_think_of_the_latest_version_of_the/)

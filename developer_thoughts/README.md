@@ -37,3 +37,7 @@
 [How to become a game engine developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer)
 
 [Rant from a former Ubisoft employee](https://www.reddit.com/r/gamedev/comments/j6zas3/rant_from_a_former_ubisoft_employee/)
+
+[How to Make Friends After College?](https://www.reddit.com/r/csMajors/comments/jq82o0/how_to_make_friends_after_college/)
+
+[[D] Why you should get your PhD](https://www.reddit.com/r/MachineLearning/comments/k2pd9n/d_why_you_should_get_your_phd/)

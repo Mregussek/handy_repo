@@ -10,6 +10,12 @@
 
 [Best book/website to learn vulkan from scratch?](https://www.reddit.com/r/vulkan/comments/j3f58c/best_bookwebsite_to_learn_vulkan_from_scratch/)
 
+[GPU Driven Rendering Overview](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/)
+
+[A from scratch book on Vulkan](https://www.reddit.com/r/vulkan/comments/k95rd6/a_from_scratch_book_on_vulkan/)
+
+[Draw Indirect API](https://vkguide.dev/docs/gpudriven/draw_indirect/)
+
 ## ImGui
 
 [Integrating Dear ImGui in a custom Vulkan renderer](https://frguthmann.github.io/posts/vulkan_imgui/)
