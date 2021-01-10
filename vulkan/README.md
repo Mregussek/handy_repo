@@ -1,5 +1,9 @@
 # Vulkan
 
+[awesome-vulkan](https://github.com/vinjn/awesome-vulkan)
+
+[Vulkan® 1.2.166 - A Specification (with all registered Vulkan extensions)](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/vkspec.html)
+
 ## Introduction
 
 [API without Secrets: Introduction to Vulkan](https://github.com/GameTechDev/IntroductionToVulkan)
@@ -16,11 +20,21 @@
 
 [Draw Indirect API](https://vkguide.dev/docs/gpudriven/draw_indirect/)
 
+[The projection matrix in vulkan](https://vincent-p.github.io/notes/20201216234910-the_projection_matrix_in_vulkan/)
+
+[Multithreading Overview in Vulkan](https://vkguide.dev/docs/extra-chapter/multithreading/)
+
 ## ImGui
 
 [Integrating Dear ImGui in a custom Vulkan renderer](https://frguthmann.github.io/posts/vulkan_imgui/)
 
 [A Vulkan + Dear ImGui Sandbox](https://tstullich.github.io/posts/vulkan-sandbox/)
+
+## Ray Tracing
+
+[NVIDIA Vulkan Ray Tracing Tutorial](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
+
+[Transition guide from VK_NV_raytracing to (final) VK_KHR_raytracing!](https://toomuchvoltage.github.io/nv_to_khr_raytracing/)
 
 ## Other
 

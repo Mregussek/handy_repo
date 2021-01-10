@@ -16,6 +16,8 @@
 
 [Fundamentals of Digital Image and Video Processing](https://www.coursera.org/learn/digital)
 
+[Introduction to Computer Graphics (fall 2020 lecture series)](https://www.reddit.com/r/GraphicsProgramming/comments/kmw3u9/introduction_to_computer_graphics_fall_2020/)
+
 ## Youtube Playlists
 
 [#1](https://www.youtube.com/playlist?list=PLyED3W677ALNv8Htn0f9Xh-AHe1aZPftv)

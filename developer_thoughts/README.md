@@ -14,6 +14,10 @@
 
 [How To Manage Your Stress as a Developer: Practical Tips](https://thevaluable.dev/developer-stress-management/)
 
+[My experience working at a startup after a year](https://www.reddit.com/r/cscareerquestions/comments/klirt5/my_experience_working_at_a_startup_after_a_year/)
+
+[What are the most valuable books you're read regarding your career](https://www.reddit.com/r/cscareerquestions/comments/kjh4av/what_are_the_most_valuable_books_youre_read/)
+
 [Things All Developers Should Learn In College](https://dev.to/taillogs/what-developers-should-actually-learn-in-college-2nen)
 
 [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
@@ -30,6 +34,8 @@
 
 [Development Journey](http://nicotuason.com/10years.html)
 
+[How can i build an audience?](https://www.reddit.com/r/gamedev/comments/ks5c61/how_can_i_build_an_audience/)
+
 [I’m David Aldridge, the Director of Engineering for Destiny at Bungie. AMA!](https://www.reddit.com/r/gamedev/comments/hiw8qt/im_david_aldridge_the_director_of_engineering_for/)
 
 [Ubisoft Designer Explains Realities of a Game Production Cycle](https://youtu.be/b4QdkiVn_cI)
@@ -41,3 +47,5 @@
 [How to Make Friends After College?](https://www.reddit.com/r/csMajors/comments/jq82o0/how_to_make_friends_after_college/)
 
 [[D] Why you should get your PhD](https://www.reddit.com/r/MachineLearning/comments/k2pd9n/d_why_you_should_get_your_phd/)
+
+[Sometimes this industry really needs empathy. Too much ego, too much pride, and too much toxicity. All it really takes is for one to step back for a bit and place themselves in the position of others.](https://www.reddit.com/r/cscareerquestions/comments/ksafyd/sometimes_this_industry_really_needs_empathy_too/)

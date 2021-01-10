@@ -6,6 +6,8 @@
 
 [Embedded Software Internship Interview at Tesla next week, what to expect?](https://www.reddit.com/r/ECE/comments/ia9ex5/embedded_software_internship_interview_at_tesla/)
 
+[I've worked in HR for ~15 years, and I've managed teams for 10 years. As a covid side project, I'm going to create "The Essential Guide to Getting Promoted at Work" that I'll be happy to share here for free. What questions or challenges do you have? What can I include that you'd find helpful?](https://www.reddit.com/r/cscareerquestions/comments/kign0f/ive_worked_in_hr_for_15_years_and_ive_managed/)
+
 [I've reviewed thousands of applications for university recruiting at a startup. Here are some numbers and thoughts on the university recruiting process.](https://www.reddit.com/r/cscareerquestions/comments/inrex1/ive_reviewed_thousands_of_applications_for/)
 
 [Questions we could ask recruiter](https://github.com/viraptor/reverse-interview)

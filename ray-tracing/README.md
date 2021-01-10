@@ -13,3 +13,7 @@
 [Building a Ray Tracer in Python - Part 1 (Points in 3D Space)](https://youtu.be/KaCe63v4D_Q?list=PL8ENypDVcs3H-TxOXOzwDyCm5f2fGXlIS)
 
 [I made a little path tracer that runs on my STM32L432KC. It took about 20 minutes to render this scene](https://www.reddit.com/r/embedded/comments/in5g4q/i_made_a_little_path_tracer_that_runs_on_my/)
+
+[NVIDIA Vulkan Ray Tracing Tutorial](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
+
+[Ray Tracing in pure CMake](https://64.github.io/cmake-raytracer/)

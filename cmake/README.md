@@ -19,3 +19,5 @@
 [CMake line by line - using a non-CMake library](https://dominikberner.ch/cmake-find-library/)
 
 [Setup Cross-Platfrom C++ Project](https://www.reddit.com/r/cpp_questions/comments/io4oro/setup_crossplatfrom_c_project/)
+
+[Ray Tracing in pure CMake](https://64.github.io/cmake-raytracer/)

@@ -26,6 +26,8 @@ DO NOT FORGET TO CHECK **COURSES.md** FILE.
 
 [How many registers does an x86-64 CPU have?](https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have)
 
+[Using modern C++ for hardware access on embedded systems](https://www.reddit.com/r/embedded/comments/kmq2ga/using_modern_c_for_hardware_access_on_embedded/)
+
 ## Debugging
 
 [Debugging Embedded Linux Ethernet](https://vmb-tech.com/blog/debugging-embedded-ethernet.html)

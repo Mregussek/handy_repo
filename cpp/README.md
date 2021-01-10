@@ -22,6 +22,8 @@
 
 [Are there any good resources for learning the new things in the recent C++ versions?](https://www.reddit.com/r/cpp/comments/j4vcys/are_there_any_good_resources_for_learning_the_new/)
 
+[Using modern C++ for hardware access on embedded systems](https://www.reddit.com/r/embedded/comments/kmq2ga/using_modern_c_for_hardware_access_on_embedded/)
+
 ## Compilation
 
 [The Little Things: Speeding up C++ compilation](https://codingnest.com/the-little-things-speeding-up-c-compilation/)

@@ -12,6 +12,10 @@
 
 [Apolune](https://github.com/LAGameStudio/apolune)
 
+[What should game engine GUIs accomplish?](https://www.reddit.com/r/gameenginedevs/comments/khwls2/what_should_game_engine_guis_accomplish/)
+
+[Good hands-on educational/resource book for math and shaders?](https://www.reddit.com/r/GraphicsProgramming/comments/klqliy/good_handson_educationalresource_book_for_math/)
+
 ## ECS
 
 [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system)
