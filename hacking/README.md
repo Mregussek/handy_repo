@@ -14,6 +14,8 @@
 
 [Software Security Field Guide for the Bewildered](https://zwischenzugs.com/2019/09/22/software-security-field-guide-for-the-bewildered/)
 
+[FreePN is the first open-source peer-to-peer VPN service. It's also fast, secure, and completely free.](https://www.freepn.org/)
+
 [Be safe on the internet](https://securitycheckli.st/)
 
 ## Fascinating

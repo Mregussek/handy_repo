@@ -11,3 +11,7 @@
 [Finally, how to flash AMD VBIOS in Linux](https://andrealmeid.com/post/2020-05-01-vbios2/)
 
 [Every Distro is Awesome](https://www.reddit.com/r/linux/comments/j07qwy/every_distro_is_awesome/)
+
+[Undeleting a file overwritten with mv](https://behind.pretix.eu/2020/11/28/undelete-flv-file/)
+
+[Over 14,000 so-called Linux one liners - Take a look to learn more about CLI tools](https://www.commandlinefu.com/commands/browse)

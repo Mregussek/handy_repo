@@ -20,6 +20,8 @@
 
 [Learn Git Branching](https://learngitbranching.js.org/)
 
+[https://opensource.com/article/20/10/advanced-git-tips](https://opensource.com/article/20/10/advanced-git-tips)
+
 ## Good practices
 
 [Git rebase and merge comparison](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)

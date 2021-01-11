@@ -18,6 +18,8 @@
 
 [I learned how to make an online Multiplayer game using Python!!](https://www.reddit.com/r/Python/comments/ii1tnj/i_learned_how_to_make_an_online_multiplayer_game/)
 
+[Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-list/)
+
 ## Good practices
 
 [How to set up a perfect Python project](https://sourcery.ai/blog/python-best-practices/)

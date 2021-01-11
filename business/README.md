@@ -18,6 +18,8 @@
 
 [The most complete list of open startups](https://openstartup.dev/?ref=producthunt)
 
+[Huge inventory of technologies, tools and solutions used by companies / startups at HackerNews](https://github.com/cjbarber/ToolsOfTheTrade)
+
 ## Leadership
 
 [5 arguments to make managers care about technical debt](https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt/)
@@ -31,6 +33,8 @@
 [The Zero-Dollar Infrastructure Stack](https://medium.com/better-programming/the-zero-dollar-infrastructure-stack-7c840a8b555b)
 
 ## Marketing
+
+[Strategia biznesowa: 40 modeli, narzędzi i taktyk [MEGALISTA]](https://bazawiedzy.socialtigers.pl/articles/strategia-marketingowa-lista-modeli)
 
 [Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers)
 
