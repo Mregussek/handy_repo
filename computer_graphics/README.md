@@ -12,6 +12,10 @@
 
 [So you want to learn Computer Graphics and understand the math underneath?](https://www.reddit.com/r/computergraphics/comments/iuxmu5/so_you_want_to_learn_computer_graphics_and/)
 
+[How knowledgeable should a graphics programmer be about hardware?](https://www.reddit.com/r/GraphicsProgramming/comments/kwr87e/how_knowledgeable_should_a_graphics_programmer_be/)
+
+[Where can I find an explanation of how the GPU works?](https://www.reddit.com/r/GraphicsProgramming/comments/ljt8kq/where_can_i_find_an_explanation_of_how_the_gpu/)
+
 ## Courses
 
 [Fundamentals of Digital Image and Video Processing](https://www.coursera.org/learn/digital)

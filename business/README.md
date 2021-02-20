@@ -20,7 +20,11 @@
 
 [Huge inventory of technologies, tools and solutions used by companies / startups at HackerNews](https://github.com/cjbarber/ToolsOfTheTrade)
 
+[I'm sick and tired of companies saying they "hire the best"](https://www.reddit.com/r/cscareerquestions/comments/likgop/im_sick_and_tired_of_companies_saying_they_hire/)
+
 ## Leadership
+
+[How to manage work-life balance while being an individual contributor working from home at a startup?](https://www.reddit.com/r/datascience/comments/kyjrmj/how_to_manage_worklife_balance_while_being_an/)
 
 [5 arguments to make managers care about technical debt](https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt/)
 
@@ -34,6 +38,8 @@
 
 ## Marketing
 
+[5 Marketing lessons I learned releasing my first commercial indie game](https://www.reddit.com/r/gamedev/comments/kx4jyr/5_marketing_lessons_i_learned_releasing_my_first/)
+
 [Strategia biznesowa: 40 modeli, narzędzi i taktyk [MEGALISTA]](https://bazawiedzy.socialtigers.pl/articles/strategia-marketingowa-lista-modeli)
 
 [Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers)
@@ -41,6 +47,8 @@
 [How many users block google analytics?](https://blog.wesleyac.com/posts/google-analytics)
 
 [My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
+
+[Great GDC Talk about Marketing - Marketing Fundamentals for New Developers](https://youtu.be/Q5tyX_IBTXA)
 
 ## Career
 
@@ -51,6 +59,8 @@
 [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin)
 
 [Becoming 1% better at data science everyday](https://github.com/amitness/learning)
+
+[Software Engineer 3 Years of Experience - My Path to from 77k TC to 300k+ (70 LC)](https://www.reddit.com/r/cscareerquestions/comments/l6evby/software_engineer_3_years_of_experience_my_path/)
 
 ## Remote Job
 

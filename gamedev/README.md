@@ -14,6 +14,8 @@
 
 [I made a tutorial series on on building multiplayer (.io) web games](https://www.reddit.com/r/gamedev/comments/i23pen/i_made_a_tutorial_series_on_on_building/)
 
+[I don't know how to organize my ideas about my game design.](https://www.reddit.com/r/gamedesign/comments/lilu4y/i_dont_know_how_to_organize_my_ideas_about_my/)
+
 ## C++
 
 [modern c++ gamedev - thoughts & misconceptions (blog)](https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html)
@@ -59,6 +61,12 @@
 [How Among Us Was Made and Why The Developers Wanted to Quit](https://youtu.be/JBib9vPxhBE)
 
 [My Favorite Devlog Youtube Channels](https://www.reddit.com/r/gamedev/comments/js0fu5/my_favorite_devlog_youtube_channels/)
+
+[I interviewed over a dozen game developers in order to gain perspective on how to get a career in Game Dev.](https://www.reddit.com/r/gamedev/comments/kwjes1/i_interviewed_over_a_dozen_game_developers_in/)
+
+[5 Marketing lessons I learned releasing my first commercial indie game](https://www.reddit.com/r/gamedev/comments/kx4jyr/5_marketing_lessons_i_learned_releasing_my_first/)
+
+[Devs who released your game for free on steam, how much has it really helped you in gaining an audience ?](https://www.reddit.com/r/gamedev/comments/l0jqa8/devs_who_released_your_game_for_free_on_steam_how/)
 
 ## Math
 

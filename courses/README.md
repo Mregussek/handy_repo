@@ -15,3 +15,5 @@
 [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 
 [Harvard free courses](https://online-learning.harvard.edu/catalog?keywords=&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=)
+
+[This is The Entire Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)

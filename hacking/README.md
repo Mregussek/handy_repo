@@ -12,6 +12,8 @@
 
 ## Security
 
+[How do we know that imported third party python library isn't spying on our program?](https://www.reddit.com/r/Python/comments/l9basm/how_do_we_know_that_imported_third_party_python/)
+
 [Software Security Field Guide for the Bewildered](https://zwischenzugs.com/2019/09/22/software-security-field-guide-for-the-bewildered/)
 
 [FreePN is the first open-source peer-to-peer VPN service. It's also fast, secure, and completely free.](https://www.freepn.org/)

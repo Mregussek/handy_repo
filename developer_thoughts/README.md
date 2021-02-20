@@ -49,3 +49,21 @@
 [[D] Why you should get your PhD](https://www.reddit.com/r/MachineLearning/comments/k2pd9n/d_why_you_should_get_your_phd/)
 
 [Sometimes this industry really needs empathy. Too much ego, too much pride, and too much toxicity. All it really takes is for one to step back for a bit and place themselves in the position of others.](https://www.reddit.com/r/cscareerquestions/comments/ksafyd/sometimes_this_industry_really_needs_empathy_too/)
+
+[What makes your junior colleagues good software engineers? Looking for tips as a career-changer.](https://www.reddit.com/r/cpp_questions/comments/kwftfg/what_makes_your_junior_colleagues_good_software/)
+
+[5 Marketing lessons I learned releasing my first commercial indie game](https://www.reddit.com/r/gamedev/comments/kx4jyr/5_marketing_lessons_i_learned_releasing_my_first/)
+
+[How to manage work-life balance while being an individual contributor working from home at a startup?](https://www.reddit.com/r/datascience/comments/kyjrmj/how_to_manage_worklife_balance_while_being_an/)
+
+[I feel lost and behind and stupid at work, any other new grads feel the same?](https://www.reddit.com/r/cscareerquestions/comments/l2vquh/i_feel_lost_and_behind_and_stupid_at_work_any/)
+
+[As a self learner, I feel like every waking moment spent not coding is setting me back. How do I be kinder to myself and take a more realistic approach?](https://www.reddit.com/r/learnprogramming/comments/l4mrke/as_a_self_learner_i_feel_like_every_waking_moment/)
+
+[Software Engineer 3 Years of Experience - My Path to from 77k TC to 300k+ (70 LC)](https://www.reddit.com/r/cscareerquestions/comments/l6evby/software_engineer_3_years_of_experience_my_path/)
+
+[My Third Year as a Solo Developer](https://mtlynch.io/solo-developer-year-3/)
+
+[I'm sick and tired of companies saying they "hire the best"](https://www.reddit.com/r/cscareerquestions/comments/likgop/im_sick_and_tired_of_companies_saying_they_hire/)
+
+[What kind of LinkedIn posts do you find the most annoying?](https://www.reddit.com/r/cscareerquestions/comments/lnkbrj/what_kind_of_linkedin_posts_do_you_find_the_most/)

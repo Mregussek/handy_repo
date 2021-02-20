@@ -23,3 +23,5 @@
 [Deep Learning Topics to refresh before interview](https://github.com/vlgiitr/DL_Topics)
 
 [Interview Case Study](https://spencerschien.info/categories/interview-case-study/)
+
+[I interviewed over a dozen game developers in order to gain perspective on how to get a career in Game Dev.](https://www.reddit.com/r/gamedev/comments/kwjes1/i_interviewed_over_a_dozen_game_developers_in/)

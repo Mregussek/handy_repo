@@ -24,6 +24,12 @@
 
 [Using modern C++ for hardware access on embedded systems](https://www.reddit.com/r/embedded/comments/kmq2ga/using_modern_c_for_hardware_access_on_embedded/)
 
+[Should i litter my code with (the correct) attributes for every function, or just leave it pretty?](https://www.reddit.com/r/cpp/comments/kvpab0/should_i_litter_my_code_with_the_correct/)
+
+[When to use [[likely]] and [[unlikely]]](https://www.reddit.com/r/cpp_questions/comments/kxtkb6/when_to_use_likely_and_unlikely/)
+
+[Modern C++: Snippets and Examples](https://alandefreitas.github.io/moderncpp/)
+
 ## Compilation
 
 [The Little Things: Speeding up C++ compilation](https://codingnest.com/the-little-things-speeding-up-c-compilation/)
@@ -63,6 +69,8 @@
 ## Libraries
 
 [A curated list of awesome header-only C++ libraries](https://github.com/p-ranav/awesome-hpp)
+
+[Bryce Adelstein Lelbach - The CUDA C++ Standard Library (+Atomics) - Meeting C++ online](https://youtu.be/-ENnYEWezKo)
 
 ## Projects
 

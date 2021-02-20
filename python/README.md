@@ -20,6 +20,10 @@
 
 [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-list/)
 
+[I made a course on NumPy. It got good reviews, but sales were weak so I'm releasing the entire thing for free.](https://www.reddit.com/r/Python/comments/l1jdcj/i_made_a_course_on_numpy_it_got_good_reviews_but/)
+
+[How do we know that imported third party python library isn't spying on our program?](https://www.reddit.com/r/Python/comments/l9basm/how_do_we_know_that_imported_third_party_python/)
+
 ## Good practices
 
 [How to set up a perfect Python project](https://sourcery.ai/blog/python-best-practices/)

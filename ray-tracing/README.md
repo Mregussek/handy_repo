@@ -14,6 +14,8 @@
 
 [I made a little path tracer that runs on my STM32L432KC. It took about 20 minutes to render this scene](https://www.reddit.com/r/embedded/comments/in5g4q/i_made_a_little_path_tracer_that_runs_on_my/)
 
+[Vulkan RT Tutorial With Minimal Abstraction](https://www.reddit.com/r/vulkan/comments/kvbupb/vulkan_rt_tutorial_with_minimal_abstraction/)
+
 [NVIDIA Vulkan Ray Tracing Tutorial](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
 
 [Ray Tracing in pure CMake](https://64.github.io/cmake-raytracer/)

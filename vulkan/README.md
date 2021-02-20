@@ -24,6 +24,10 @@
 
 [Multithreading Overview in Vulkan](https://vkguide.dev/docs/extra-chapter/multithreading/)
 
+[Render graphs and Vulkan — a deep dive](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
+
+[Any books or papers to get a deeper knowledge of graphics development while learning Vulkan](https://www.reddit.com/r/vulkan/comments/lijwu2/any_books_or_papers_to_get_a_deeper_knowledge_of/)
+
 ## ImGui
 
 [Integrating Dear ImGui in a custom Vulkan renderer](https://frguthmann.github.io/posts/vulkan_imgui/)
@@ -32,10 +36,16 @@
 
 ## Ray Tracing
 
+[Vulkan RT Tutorial With Minimal Abstraction](https://www.reddit.com/r/vulkan/comments/kvbupb/vulkan_rt_tutorial_with_minimal_abstraction/)
+
 [NVIDIA Vulkan Ray Tracing Tutorial](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
 
 [Transition guide from VK_NV_raytracing to (final) VK_KHR_raytracing!](https://toomuchvoltage.github.io/nv_to_khr_raytracing/)
 
 ## Other
+
+[Vulkan interview](https://www.reddit.com/r/vulkan/comments/lev3z8/vulkan_interview/)
+
+[Some Productivity tools & Features - Mirage (Vulkan/C++ Engine)](https://www.reddit.com/r/vulkan/comments/l0g6s9/some_productivity_tools_features_mirage_vulkanc/)
 
 [Vulkan as an alternative to CUDA in scientific simulation software](https://www.reddit.com/r/compsci/comments/ii6lxb/vulkan_as_an_alternative_to_cuda_in_scientific/)

@@ -12,6 +12,8 @@
 
 [Apolune](https://github.com/LAGameStudio/apolune)
 
+[Some Productivity tools & Features - Mirage (Vulkan/C++ Engine)](https://www.reddit.com/r/vulkan/comments/l0g6s9/some_productivity_tools_features_mirage_vulkanc/)
+
 [What should game engine GUIs accomplish?](https://www.reddit.com/r/gameenginedevs/comments/khwls2/what_should_game_engine_guis_accomplish/)
 
 [Good hands-on educational/resource book for math and shaders?](https://www.reddit.com/r/GraphicsProgramming/comments/klqliy/good_handson_educationalresource_book_for_math/)
@@ -39,6 +41,10 @@
 [My progess in creating a 3D game engine](https://www.reddit.com/r/gamedev/comments/i2z6ir/my_progess_in_creating_a_3d_game_engine/)
 
 [^^^ MxEngine ^^^ Github](https://github.com/asc-community/MxEngine)
+
+## Fascinating
+
+[Where can I find an explanation of how the GPU works?](https://www.reddit.com/r/GraphicsProgramming/comments/ljt8kq/where_can_i_find_an_explanation_of_how_the_gpu/)
 
 ## Helpful Free packages
 
