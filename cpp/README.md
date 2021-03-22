@@ -4,6 +4,8 @@
 
 [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp/blob/master/README.md)
 
+[List of C++ blogs by individual developers](https://www.reddit.com/r/cpp/comments/m51ugh/list_of_c_blogs_by_individual_developers/)
+
 ## Learning
 
 [Analyzing-The-Simplest-C++-Program](https://oneraynyday.github.io/dev/2020/05/03/Analyzing-The-Simplest-C++-Program/)
@@ -30,6 +32,8 @@
 
 [Modern C++: Snippets and Examples](https://alandefreitas.github.io/moderncpp/)
 
+[How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
+
 ## Compilation
 
 [The Little Things: Speeding up C++ compilation](https://codingnest.com/the-little-things-speeding-up-c-compilation/)
@@ -41,6 +45,8 @@
 [C++ Template: A Quick UpToDate Look(C++11/14/17/20)](http://www.vishalchovatiya.com/c-template-a-quick-uptodate-look/)
 
 [The Design of C++ , lecture by Bjarne Stroustrup](https://youtu.be/69edOm889V4)
+
+[NOVT: Eliminating C++ Virtual Calls to Mitigate Vtable Hijacking](https://publications.cispa.saarland/3364/1/NoVT-for-EuroSP-2021-cr1.pdf)
 
 ## Good practices
 

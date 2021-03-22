@@ -67,3 +67,5 @@
 [I'm sick and tired of companies saying they "hire the best"](https://www.reddit.com/r/cscareerquestions/comments/likgop/im_sick_and_tired_of_companies_saying_they_hire/)
 
 [What kind of LinkedIn posts do you find the most annoying?](https://www.reddit.com/r/cscareerquestions/comments/lnkbrj/what_kind_of_linkedin_posts_do_you_find_the_most/)
+
+[Programming pro tip: learn to read code. You’ll be doing a lot more reading than writing most of the time.](https://www.reddit.com/r/learnprogramming/comments/lnq975/programming_pro_tip_learn_to_read_code_youll_be/)

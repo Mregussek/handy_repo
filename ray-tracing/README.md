@@ -19,3 +19,5 @@
 [NVIDIA Vulkan Ray Tracing Tutorial](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
 
 [Ray Tracing in pure CMake](https://64.github.io/cmake-raytracer/)
+
+[Introduction to Ray Tracing: a Simple Method for Creating 3D Images](https://www.scratchapixel.com/index.php?redirect)

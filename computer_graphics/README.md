@@ -1,5 +1,7 @@
 # Computer Graphics
 
+[Awesome Computer Graphics](https://github.com/lettier/awesome-computer-graphics)
+
 ## Image Processing
 
 [How to understand RGB?](https://ciechanow.ski/color-spaces/)

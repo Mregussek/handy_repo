@@ -25,3 +25,5 @@
 [Interview Case Study](https://spencerschien.info/categories/interview-case-study/)
 
 [I interviewed over a dozen game developers in order to gain perspective on how to get a career in Game Dev.](https://www.reddit.com/r/gamedev/comments/kwjes1/i_interviewed_over_a_dozen_game_developers_in/)
+
+[What can/should be expected of someone with one year of experience as an entry level SWE? How would you evaluate a person if they were applying for a job at your company with 1 YOE in the industry?](https://www.reddit.com/r/cscareerquestions/comments/lv9awn/what_canshould_be_expected_of_someone_with_one/)

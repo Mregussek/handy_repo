@@ -28,6 +28,8 @@
 
 [5 arguments to make managers care about technical debt](https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt/)
 
+[How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
+
 ## Making money
 
 [I charged $18,000 for a Static HTML Page](https://idiallo.com/blog/18000-dollars-static-web-page)

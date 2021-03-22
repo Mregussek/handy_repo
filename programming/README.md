@@ -11,3 +11,7 @@
 [Energy efficiency across programming languages: how do energy, time, and memory relate?](https://www.researchgate.net/publication/320436353_Energy_efficiency_across_programming_languages_how_do_energy_time_and_memory_relate)
 
 [Why Python is slower than C?](https://www.quora.com/Why-does-C-code-run-faster-than-Pythons)
+
+[For new programmers learning keyboard shortcuts - this page is fantastic](https://www.reddit.com/r/learnprogramming/comments/lqewsq/for_new_programmers_learning_keyboard_shortcuts/)
+
+[How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
