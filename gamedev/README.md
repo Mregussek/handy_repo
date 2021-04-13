@@ -16,6 +16,10 @@
 
 [I don't know how to organize my ideas about my game design.](https://www.reddit.com/r/gamedesign/comments/lilu4y/i_dont_know_how_to_organize_my_ideas_about_my/)
 
+[I've hit over 4000 wishlists with my unreleased game. 11 months of slow wishlist gathering.](https://www.reddit.com/r/gamedev/comments/mgcnni/ive_hit_over_4000_wishlists_with_my_unreleased/)
+
+[The Anatomy of a Satisfying Win | Game Design Basics](https://youtu.be/9PSY4f0m4m0)
+
 ## C++
 
 [modern c++ gamedev - thoughts & misconceptions (blog)](https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html)

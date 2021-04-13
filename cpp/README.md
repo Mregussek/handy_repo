@@ -34,9 +34,19 @@
 
 [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
 
+[Introduction to allocators and arenas](https://muit.tech/posts/2021/03/introduction-to-allocators-and-arenas/)
+
+[All C++20 core language features with examples](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
+
+[The Case of string_view and the Magic String](https://blogs.msmvps.com/gdicanio/2021/03/26/the-case-of-string_view-and-the-magic-string/)
+
+[C++ course for intermediate to advanced programmer](https://www.reddit.com/r/cpp/comments/mpi34r/c_course_for_intermediate_to_advanced_programmer/)
+
 ## Compilation
 
 [The Little Things: Speeding up C++ compilation](https://codingnest.com/the-little-things-speeding-up-c-compilation/)
+
+[Introduction to C++ Compilation on the Command Line](https://unrealistic.dev/posts/introduction-to-c-compilation-on-the-command-line)
 
 ## Language concepts
 

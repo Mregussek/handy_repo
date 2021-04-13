@@ -21,3 +21,5 @@
 [Ray Tracing in pure CMake](https://64.github.io/cmake-raytracer/)
 
 [Introduction to Ray Tracing: a Simple Method for Creating 3D Images](https://www.scratchapixel.com/index.php?redirect)
+
+[Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io/)

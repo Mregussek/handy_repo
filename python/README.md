@@ -30,6 +30,8 @@
 
 [Python consumes a lot of memory or how to reduce the size of objects?](https://m.habr.com/en/post/458518/?fbclid=IwAR1gg0sBfXLYhrVDQoIIixAs2DSda5rNC0AyBBUYGaVXu7tD7bpTPrCg-Sg)
 
+[Python Refactorings - Part 7](https://sourcery.ai/blog/explaining-refactorings-7/)
+
 ## Windows
 
 [Convert .py to .exe](https://www.youtube.com/watch?v=XHI1J7Wt4EU&t=4s)

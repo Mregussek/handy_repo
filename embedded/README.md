@@ -18,6 +18,8 @@ DO NOT FORGET TO CHECK **COURSES.md** FILE.
 
 [What is the standard open-source library for real-time embedded computer vision/audio DSP?](https://www.reddit.com/r/embedded/comments/feoftd/what_is_the_standard_opensource_library_for/)
 
+[EMBEDDED SOFTWARE ENGINEERING 101: MICROCONTROLLER BASICS](https://embedded.fm/blog/2016/2/27/embedded-software-engineering-101-microcontroller-basics)
+
 [Optimize Your Workflow By Moving Embedded Projects to CMake](https://dornerworks.com/blog/moving-embedded-projects-to-cmake)
 
 [Hi, Is there a library supporting threading, semaphores, I2C, GPIO and SPI abstraction got embedded devices (mainly Arduino, ESP32, and nRF52840)?](https://www.reddit.com/r/embedded/comments/hjg3px/esp32_arduino_nrf52840/)

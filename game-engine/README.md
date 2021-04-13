@@ -18,6 +18,12 @@
 
 [Good hands-on educational/resource book for math and shaders?](https://www.reddit.com/r/GraphicsProgramming/comments/klqliy/good_handson_educationalresource_book_for_math/)
 
+[Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
+
+## Shadows
+
+[How Shadows Work in Games](https://youtu.be/TXI8rWiOF0k)
+
 ## ECS
 
 [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system)
@@ -42,9 +48,13 @@
 
 [^^^ MxEngine ^^^ Github](https://github.com/asc-community/MxEngine)
 
+[^^^ Rootex ^^^ ReadTheDocs](https://rootex.readthedocs.io/en/latest/index.html)
+
 ## Fascinating
 
 [Where can I find an explanation of how the GPU works?](https://www.reddit.com/r/GraphicsProgramming/comments/ljt8kq/where_can_i_find_an_explanation_of_how_the_gpu/)
+
+[The Anatomy of a Satisfying Win | Game Design Basics](https://youtu.be/9PSY4f0m4m0)
 
 ## Helpful Free packages
 
