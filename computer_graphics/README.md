@@ -4,6 +4,8 @@
 
 [Graphics Workshop](https://github.com/ekzhang/graphics-workshop)
 
+[Ditherpunk — The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
+
 ## Shaders
 
 [How to read shader assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
@@ -15,6 +17,8 @@
 [What is the hexadecimal?](https://medium.com/wait-what/what-the-hex-467566b120af)
 
 [Everything you know about colour was wrong](https://youtu.be/_zQ_uBAHA4A)
+
+[Privacy-aware JPEG optimizer](https://jpeg.rocks/)
 
 ## Fascinating
 

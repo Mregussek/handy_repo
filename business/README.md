@@ -22,6 +22,8 @@
 
 [I'm sick and tired of companies saying they "hire the best"](https://www.reddit.com/r/cscareerquestions/comments/likgop/im_sick_and_tired_of_companies_saying_they_hire/)
 
+[Interview with the first Reddit employee - what was it like working on this site at the beginning of its development?](https://blog.ycombinator.com/chris-slowe-interview/)
+
 ## Leadership
 
 [How to manage work-life balance while being an individual contributor working from home at a startup?](https://www.reddit.com/r/datascience/comments/kyjrmj/how_to_manage_worklife_balance_while_being_an/)
@@ -37,6 +39,8 @@
 [How we reduced our Google Maps API cost by 94%](https://blog.cityflo.com/how-we-reduced-our-google-maps-api-cost/)
 
 [The Zero-Dollar Infrastructure Stack](https://medium.com/better-programming/the-zero-dollar-infrastructure-stack-7c840a8b555b)
+
+[list of bugs in applications for which a reward was awarded (usually from $ 9 to $ 100).](https://rysolv.com/issues)
 
 ## Marketing
 

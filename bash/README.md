@@ -21,3 +21,5 @@
 [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 
 [Even faster bash startup](https://work.lisk.in/2020/11/20/even-faster-bash-startup.html)
+
+[Bash HTTP monitoring dashboard](https://raymii.org/s/software/Bash_HTTP_Monitoring_Dashboard.html)

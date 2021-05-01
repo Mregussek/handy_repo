@@ -16,6 +16,8 @@
 
 [Over 14,000 so-called Linux one liners - Take a look to learn more about CLI tools](https://www.commandlinefu.com/commands/browse)
 
+[Build a Tiny Certificate Authority For Your Homelab](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/)
+
 ## Screens
 
 [Linux Perfomance Tools](https://i.redd.it/h1p8r0psc4w61.png)

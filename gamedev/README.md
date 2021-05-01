@@ -78,6 +78,8 @@
 
 [6 Types of SPAM/SOLICITATIONS to expect after listing your indie game](https://www.reddit.com/r/gamedev/comments/myyn56/6_types_of_spamsolicitations_to_expect_after/)
 
+[Let's Build a Confetti Cannon](https://varun.ca/confetti/)
+
 ## Math
 
 [Math and professional game programming as a career: You only need to know certain specific things?](https://www.reddit.com/r/gamedev/comments/i69vww/math_and_professional_game_programming_as_a/)

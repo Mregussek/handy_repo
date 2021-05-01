@@ -15,3 +15,5 @@
 [For new programmers learning keyboard shortcuts - this page is fantastic](https://www.reddit.com/r/learnprogramming/comments/lqewsq/for_new_programmers_learning_keyboard_shortcuts/)
 
 [How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
+
+[How I REVERSE ENGINEERED GOOGLE DOCS To Play Back Any Document’s Keystrokes](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)

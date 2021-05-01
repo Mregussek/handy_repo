@@ -28,3 +28,4 @@
 
 [How does Facebook or Google profit by open-sourcing their projects?](https://www.reddit.com/r/opensource/comments/ijw3zn/how_does_facebook_or_google_profit_by/)
 
+[113,524 free open source icons & illustrations](https://iconduck.com/)
