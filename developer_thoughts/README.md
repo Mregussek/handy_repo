@@ -71,3 +71,5 @@
 [Programming pro tip: learn to read code. You’ll be doing a lot more reading than writing most of the time.](https://www.reddit.com/r/learnprogramming/comments/lnq975/programming_pro_tip_learn_to_read_code_youll_be/)
 
 [The project that made me burnout](https://www.jesuisundev.com/en/the-project-that-made-me-burnout/)
+
+[Working in AAA studios has killed my motivation and love for making games.](https://www.reddit.com/r/gamedev/comments/mu2vvw/working_in_aaa_studios_has_killed_my_motivation/)

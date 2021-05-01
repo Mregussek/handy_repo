@@ -20,7 +20,9 @@
 
 [Learn Git Branching](https://learngitbranching.js.org/)
 
-[https://opensource.com/article/20/10/advanced-git-tips](https://opensource.com/article/20/10/advanced-git-tips)
+[Advanced Git Tips](https://opensource.com/article/20/10/advanced-git-tips)
+
+[Guide to Git I wish I had](https://www.reddit.com/r/learnprogramming/comments/mv9jzh/guide_to_git_i_wish_i_had/)
 
 ## Good practices
 

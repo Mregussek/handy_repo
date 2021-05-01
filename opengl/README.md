@@ -32,3 +32,8 @@
 
 [Minecraft clone in C and OpenGL in 2 days](https://www.youtube.com/watch?v=4O0_-1NaWnY)
 
+[How to read shader assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
+
+[Compute Shader Based Point Cloud Rendering](https://github.com/m-schuetz/compute_rasterizer)
+
+[The case of the curiously slow shader](https://raphlinus.github.io/gpu/2021/04/28/slow-shader.html)

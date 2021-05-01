@@ -28,6 +28,10 @@
 
 [Any books or papers to get a deeper knowledge of graphics development while learning Vulkan](https://www.reddit.com/r/vulkan/comments/lijwu2/any_books_or_papers_to_get_a_deeper_knowledge_of/)
 
+[An Introduction to Vulkan Video](https://www.khronos.org/blog/an-introduction-to-vulkan-video)
+
+[How to read shader assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
+
 ## ImGui
 
 [Integrating Dear ImGui in a custom Vulkan renderer](https://frguthmann.github.io/posts/vulkan_imgui/)
@@ -49,3 +53,5 @@
 [Some Productivity tools & Features - Mirage (Vulkan/C++ Engine)](https://www.reddit.com/r/vulkan/comments/l0g6s9/some_productivity_tools_features_mirage_vulkanc/)
 
 [Vulkan as an alternative to CUDA in scientific simulation software](https://www.reddit.com/r/compsci/comments/ii6lxb/vulkan_as_an_alternative_to_cuda_in_scientific/)
+
+[The case of the curiously slow shader](https://raphlinus.github.io/gpu/2021/04/28/slow-shader.html)

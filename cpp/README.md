@@ -42,6 +42,8 @@
 
 [C++ course for intermediate to advanced programmer](https://www.reddit.com/r/cpp/comments/mpi34r/c_course_for_intermediate_to_advanced_programmer/)
 
+[Learning OpenGL And C++ In One Month](https://youtu.be/WsakBTmVciY)
+
 ## Compilation
 
 [The Little Things: Speeding up C++ compilation](https://codingnest.com/the-little-things-speeding-up-c-compilation/)
