@@ -80,6 +80,8 @@
 
 [Let's Build a Confetti Cannon](https://varun.ca/confetti/)
 
+[How to Improve the About This Game section on your Steam store page](https://www.reddit.com/r/gamedev/comments/n79e4l/how_to_improve_the_about_this_game_section_on/)
+
 ## Math
 
 [Math and professional game programming as a career: You only need to know certain specific things?](https://www.reddit.com/r/gamedev/comments/i69vww/math_and_professional_game_programming_as_a/)

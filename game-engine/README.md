@@ -66,6 +66,8 @@
 
 [Free low poly hats (Link in the comments)](https://www.reddit.com/r/gamedev/comments/j17qzx/free_low_poly_hats_link_in_the_comments/)
 
+[150GB+ Of High Quality Sound Effects For Game Developers Everywhere! (Star Wars Day Special) - [Free Download] - [Complete Archive Of All Past Giveaways] - Contains: Official Torrents, Direct Download Links & More (WAV's Only)](https://www.reddit.com/r/gamedev/comments/n4vhcs/150gb_of_high_quality_sound_effects_for_game/)
+
 ## Dev opinions
 
 [What do people think of the latest version of the Godot manual? It's undergone a big revamp, still work in progress.](https://www.reddit.com/r/gamedev/comments/k6rd5g/what_do_people_think_of_the_latest_version_of_the/)

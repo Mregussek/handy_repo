@@ -23,3 +23,5 @@
 [Introduction to Ray Tracing: a Simple Method for Creating 3D Images](https://www.scratchapixel.com/index.php?redirect)
 
 [Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io/)
+
+[GPU Ray Tracing in an Afternoon](http://roar11.com/2019/10/gpu-ray-tracing-in-an-afternoon/)
