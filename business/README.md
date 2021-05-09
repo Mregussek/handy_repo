@@ -24,6 +24,12 @@
 
 [Interview with the first Reddit employee - what was it like working on this site at the beginning of its development?](https://blog.ycombinator.com/chris-slowe-interview/)
 
+[The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+
+[The Abandoned Side Project That Quietly Turned Into a $700m/year Revenue Business](https://entrepreneurshandbook.co/a-web-designer-turned-his-side-project-into-a-700m-year-revenue-business-without-vc-money-55cd13ee560)
+
+[You Don’t Need All That Complex/Expensive/Distracting Infrastructure](https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb)
+
 ## Leadership
 
 [How to manage work-life balance while being an individual contributor working from home at a startup?](https://www.reddit.com/r/datascience/comments/kyjrmj/how_to_manage_worklife_balance_while_being_an/)
@@ -41,6 +47,8 @@
 [The Zero-Dollar Infrastructure Stack](https://medium.com/better-programming/the-zero-dollar-infrastructure-stack-7c840a8b555b)
 
 [list of bugs in applications for which a reward was awarded (usually from $ 9 to $ 100).](https://rysolv.com/issues)
+
+[How to write cold emails to investors – lessons from 30 VCs](https://www.flowrite.com/blog/cold-email-to-investors)
 
 ## Marketing
 
@@ -67,6 +75,8 @@
 [Becoming 1% better at data science everyday](https://github.com/amitness/learning)
 
 [Software Engineer 3 Years of Experience - My Path to from 77k TC to 300k+ (70 LC)](https://www.reddit.com/r/cscareerquestions/comments/l6evby/software_engineer_3_years_of_experience_my_path/)
+
+[Scrollycoding - A new tool for dev blogs and docs | Code Hike (preview)](https://youtu.be/7O2b7vfk-mo)
 
 ## Remote Job
 

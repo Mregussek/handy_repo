@@ -38,6 +38,8 @@
 
 [awesome-github-profile-readme-templates](https://github.com/themlphdstudent/awesome-github-profile-readme-templates)
 
+[Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
+
 ## Fascinating
 
 [Removing Sensitive Data From Git History](https://dev.to/edmondso006/removing-sensitive-data-from-git-history-5g63)

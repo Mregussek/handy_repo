@@ -73,3 +73,5 @@
 [The project that made me burnout](https://www.jesuisundev.com/en/the-project-that-made-me-burnout/)
 
 [Working in AAA studios has killed my motivation and love for making games.](https://www.reddit.com/r/gamedev/comments/mu2vvw/working_in_aaa_studios_has_killed_my_motivation/)
+
+[I am Sophie Zhang, whistleblower. At FB, I worked to stop major political figures from deceiving their own populace; I became a whistleblower because Facebook turned a blind eye. Ask me anything.](https://old.reddit.com/r/IAmA/comments/mqw86u/i_am_sophie_zhang_whistleblower_at_fb_i_worked_to/)
