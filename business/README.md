@@ -30,6 +30,8 @@
 
 [You Don’t Need All That Complex/Expensive/Distracting Infrastructure](https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb)
 
+[Best Startup Product Videos](https://typestudio.co/resources/product-videos)
+
 ## Leadership
 
 [How to manage work-life balance while being an individual contributor working from home at a startup?](https://www.reddit.com/r/datascience/comments/kyjrmj/how_to_manage_worklife_balance_while_being_an/)
