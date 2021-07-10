@@ -24,6 +24,8 @@
 
 [How do we know that imported third party python library isn't spying on our program?](https://www.reddit.com/r/Python/comments/l9basm/how_do_we_know_that_imported_third_party_python/)
 
+[Exploring and understanding Python through surprising snippets.](https://github.com/satwikkansal/wtfpython)
+
 ## Good practices
 
 [How to set up a perfect Python project](https://sourcery.ai/blog/python-best-practices/)

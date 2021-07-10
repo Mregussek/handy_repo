@@ -23,3 +23,7 @@
 [Even faster bash startup](https://work.lisk.in/2020/11/20/even-faster-bash-startup.html)
 
 [sysadmin-utils](https://github.com/skx/sysadmin-util)
+
+[Bash HTTP monitoring dashboard](https://raymii.org/s/software/Bash_HTTP_Monitoring_Dashboard.html)
+
+[the-art-of-command-line (PL)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-pl.md)

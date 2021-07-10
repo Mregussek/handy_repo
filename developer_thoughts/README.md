@@ -71,3 +71,9 @@
 [Programming pro tip: learn to read code. You’ll be doing a lot more reading than writing most of the time.](https://www.reddit.com/r/learnprogramming/comments/lnq975/programming_pro_tip_learn_to_read_code_youll_be/)
 
 [The project that made me burnout](https://www.jesuisundev.com/en/the-project-that-made-me-burnout/)
+
+[Working in AAA studios has killed my motivation and love for making games.](https://www.reddit.com/r/gamedev/comments/mu2vvw/working_in_aaa_studios_has_killed_my_motivation/)
+
+[I am Sophie Zhang, whistleblower. At FB, I worked to stop major political figures from deceiving their own populace; I became a whistleblower because Facebook turned a blind eye. Ask me anything.](https://old.reddit.com/r/IAmA/comments/mqw86u/i_am_sophie_zhang_whistleblower_at_fb_i_worked_to/)
+
+[I'm getting a sort of mini-burnout after working hard on a big personal project for a week. What can I do to stop this?](https://www.reddit.com/r/learnprogramming/comments/n6so1j/im_getting_a_sort_of_miniburnout_after_working/)

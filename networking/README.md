@@ -4,6 +4,8 @@
 
 ## General
 
+[OBSERVING MY CELLPHONE SWITCH TOWERS](https://fabiensanglard.net/lte/index.html)
+
 [Terminal bandwidth utilization tool](https://github.com/imsnif/bandwhich)
 
 [HTTP/3 explained](https://http3-explained.haxx.se/en/)

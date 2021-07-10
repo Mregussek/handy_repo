@@ -22,6 +22,8 @@
 
 [Rigidbody Physics Simulation in C++/OpenGL help?](https://www.reddit.com/r/GraphicsProgramming/comments/jodkn5/rigidbody_physics_simulation_in_copengl_help/)
 
+[questions about MSAA -> one fine answer](https://www.reddit.com/r/opengl/comments/n4fzs0/questions_about_msaa/)
+
 ## Fascinating
 
 [Tiny renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
@@ -32,3 +34,8 @@
 
 [Minecraft clone in C and OpenGL in 2 days](https://www.youtube.com/watch?v=4O0_-1NaWnY)
 
+[How to read shader assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
+
+[Compute Shader Based Point Cloud Rendering](https://github.com/m-schuetz/compute_rasterizer)
+
+[The case of the curiously slow shader](https://raphlinus.github.io/gpu/2021/04/28/slow-shader.html)

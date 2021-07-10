@@ -20,7 +20,9 @@
 
 [Learn Git Branching](https://learngitbranching.js.org/)
 
-[https://opensource.com/article/20/10/advanced-git-tips](https://opensource.com/article/20/10/advanced-git-tips)
+[Advanced Git Tips](https://opensource.com/article/20/10/advanced-git-tips)
+
+[Guide to Git I wish I had](https://www.reddit.com/r/learnprogramming/comments/mv9jzh/guide_to_git_i_wish_i_had/)
 
 ## Good practices
 
@@ -37,6 +39,8 @@
 [awesome-github-profile-readme-templates](https://github.com/themlphdstudent/awesome-github-profile-readme-templates)
 
 [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
+
+[Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
 
 ## Fascinating
 

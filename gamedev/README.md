@@ -72,6 +72,16 @@
 
 [Devs who released your game for free on steam, how much has it really helped you in gaining an audience ?](https://www.reddit.com/r/gamedev/comments/l0jqa8/devs_who_released_your_game_for_free_on_steam_how/)
 
+[I made a trailer that got 7K organic views and 1K wishlist in 3 days. Just wanted to share my techniques!](https://www.reddit.com/r/gamedev/comments/mthobe/i_made_a_trailer_that_got_7k_organic_views_and_1k/)
+
+[Working in AAA studios has killed my motivation and love for making games.](https://www.reddit.com/r/gamedev/comments/mu2vvw/working_in_aaa_studios_has_killed_my_motivation/)
+
+[6 Types of SPAM/SOLICITATIONS to expect after listing your indie game](https://www.reddit.com/r/gamedev/comments/myyn56/6_types_of_spamsolicitations_to_expect_after/)
+
+[Let's Build a Confetti Cannon](https://varun.ca/confetti/)
+
+[How to Improve the About This Game section on your Steam store page](https://www.reddit.com/r/gamedev/comments/n79e4l/how_to_improve_the_about_this_game_section_on/)
+
 ## Math
 
 [Math and professional game programming as a career: You only need to know certain specific things?](https://www.reddit.com/r/gamedev/comments/i69vww/math_and_professional_game_programming_as_a/)

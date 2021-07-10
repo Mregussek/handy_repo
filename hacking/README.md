@@ -39,3 +39,5 @@
 [Reverse Engineering for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/)
 
 [AKTYWNE STRONY TOR](http://itcontent.eu/aktywne-strony-tor/)
+
+[How I REVERSE ENGINEERED GOOGLE DOCS To Play Back Any Document’s Keystrokes](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)

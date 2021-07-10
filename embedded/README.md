@@ -61,3 +61,5 @@ DO NOT FORGET TO CHECK **COURSES.md** FILE.
 [Reliable User Input with Unreliable Physical Switches: A Simple Guide to Debouncing](https://mrdrprofbolt.wordpress.com/2020/05/07/reliable-user-input-with-unreliable-physical-switches-a-simple-guide-to-debouncing/)
 
 [Własny radar lotniczy (cz. 1): pierwsze złapane samoloty](https://pyrfekt.com/wlasny-radar-lotniczy-cz-1-pierwsze-zlapane-samoloty/)
+
+[So how does a PS/2 keyboard interface work?](https://youtu.be/7aXbh9VUB3U)

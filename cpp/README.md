@@ -42,11 +42,17 @@
 
 [C++ course for intermediate to advanced programmer](https://www.reddit.com/r/cpp/comments/mpi34r/c_course_for_intermediate_to_advanced_programmer/)
 
+[Learning OpenGL And C++ In One Month](https://youtu.be/WsakBTmVciY)
+
 ## Compilation
 
 [The Little Things: Speeding up C++ compilation](https://codingnest.com/the-little-things-speeding-up-c-compilation/)
 
 [Introduction to C++ Compilation on the Command Line](https://unrealistic.dev/posts/introduction-to-c-compilation-on-the-command-line)
+
+## Debugging
+
+[How to look at the stack with gdb](https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/)
 
 ## Language concepts
 
