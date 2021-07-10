@@ -36,6 +36,8 @@
 
 [awesome-github-profile-readme-templates](https://github.com/themlphdstudent/awesome-github-profile-readme-templates)
 
+[Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
+
 ## Fascinating
 
 [Removing Sensitive Data From Git History](https://dev.to/edmondso006/removing-sensitive-data-from-git-history-5g63)

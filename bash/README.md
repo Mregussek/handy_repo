@@ -21,3 +21,5 @@
 [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 
 [Even faster bash startup](https://work.lisk.in/2020/11/20/even-faster-bash-startup.html)
+
+[sysadmin-utils](https://github.com/skx/sysadmin-util)
