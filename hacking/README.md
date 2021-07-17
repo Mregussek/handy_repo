@@ -40,4 +40,6 @@
 
 [AKTYWNE STRONY TOR](http://itcontent.eu/aktywne-strony-tor/)
 
+[Reverse Engineering the M6 Smart Fitness Bracelet](https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html)
+
 [How I REVERSE ENGINEERED GOOGLE DOCS To Play Back Any Document’s Keystrokes](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)

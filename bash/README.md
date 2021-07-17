@@ -27,3 +27,5 @@
 [Bash HTTP monitoring dashboard](https://raymii.org/s/software/Bash_HTTP_Monitoring_Dashboard.html)
 
 [the-art-of-command-line (PL)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-pl.md)
+
+[Best of .bashrc Or, actually, .bash_aliases - but that's not as fun to say](https://www.datagubbe.se/bestofbash/)
