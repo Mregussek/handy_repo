@@ -32,6 +32,8 @@
 
 [Best Startup Product Videos](https://typestudio.co/resources/product-videos)
 
+[90+ TOOLS TO HELP YOU SUCCEED](https://foundersbelt.com/timeline?stage=learning)
+
 ## Leadership
 
 [How to manage work-life balance while being an individual contributor working from home at a startup?](https://www.reddit.com/r/datascience/comments/kyjrmj/how_to_manage_worklife_balance_while_being_an/)
