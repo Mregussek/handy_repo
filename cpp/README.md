@@ -44,6 +44,8 @@
 
 [Learning OpenGL And C++ In One Month](https://youtu.be/WsakBTmVciY)
 
+[Doc Tools for C++ Libraries](https://sixtyfps.io/blog/documentation-tools-for-cpp-libraries.html)
+
 ## Compilation
 
 [The Little Things: Speeding up C++ compilation](https://codingnest.com/the-little-things-speeding-up-c-compilation/)

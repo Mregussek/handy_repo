@@ -15,3 +15,5 @@
 [Thought I'd write my own 3D software rendering engine too since it's so fun. Runs entirely on CPU. Code still in early stages(in other words, it's not that great) . Github link in video description.](https://www.reddit.com/r/GraphicsProgramming/comments/ilz8ca/thought_id_write_my_own_3d_software_rendering/)
 
 [Wrapper for old 3D rasterizer APIs (work in progress)](https://www.reddit.com/r/GraphicsProgramming/comments/k46z7l/wrapper_for_old_3d_rasterizer_apis_work_in/)
+
+[Where to Learn Shaders](https://www.reddit.com/r/gamedev/comments/nj1gh2/where_to_learn_shaders/)

@@ -42,6 +42,8 @@
 
 [Control your home lights with Augmented Reality](https://toernblom.com/control-your-home-lights-with-augmented-reality/)
 
+[Raspberry pi AR | DiY Google glass](https://youtu.be/VJ6_kQSFLWs)
+
 ## Labs
 
 [Stupid question for better or worse, but how does one go about BUILDING an AR headset?](https://www.reddit.com/r/augmentedreality/comments/hp21ks/stupid_question_for_better_or_worse_but_how_does/)

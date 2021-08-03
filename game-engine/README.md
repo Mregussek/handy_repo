@@ -56,6 +56,8 @@
 
 [The Anatomy of a Satisfying Win | Game Design Basics](https://youtu.be/9PSY4f0m4m0)
 
+[10 years of constant work on nCine: my 2D open-source C++11 game engine](https://encelo.github.io/2021-06-21-ten-years-ncine/?utm_source=gameenginedevs&utm_medium=Reddit&utm_campaign=10years)
+
 ## Helpful Free packages
 
 [Package of over 150 low-poly space themed 3D models, public domain!](https://www.reddit.com/r/gamedev/comments/ihpssx/package_of_over_150_lowpoly_space_themed_3d/)

@@ -42,6 +42,10 @@
 
 [How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
 
+[How do you deal with coworkers like this?](https://www.reddit.com/r/cscareerquestions/comments/nio8ny/how_do_you_deal_with_coworkers_like_this/)
+
+[Getting ready to start a new job as VP of Engineering. What would you want me to do if I were your boss?](https://www.reddit.com/r/cscareerquestions/comments/ojdtog/getting_ready_to_start_a_new_job_as_vp_of/)
+
 ## Making money
 
 [I charged $18,000 for a Static HTML Page](https://idiallo.com/blog/18000-dollars-static-web-page)
@@ -81,6 +85,8 @@
 [Software Engineer 3 Years of Experience - My Path to from 77k TC to 300k+ (70 LC)](https://www.reddit.com/r/cscareerquestions/comments/l6evby/software_engineer_3_years_of_experience_my_path/)
 
 [Scrollycoding - A new tool for dev blogs and docs | Code Hike (preview)](https://youtu.be/7O2b7vfk-mo)
+
+[A Better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)
 
 ## Remote Job
 

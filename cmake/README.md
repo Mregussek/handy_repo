@@ -21,3 +21,7 @@
 [Setup Cross-Platfrom C++ Project](https://www.reddit.com/r/cpp_questions/comments/io4oro/setup_crossplatfrom_c_project/)
 
 [Ray Tracing in pure CMake](https://64.github.io/cmake-raytracer/)
+
+[How to Use CMake Without the Agonizing Pain - Part 1](https://alexreinking.com/blog/how-to-use-cmake-without-the-agonizing-pain-part-1.html)
+
+[CMake Part 1 – The Dark Arts](https://blog.feabhas.com/2021/07/cmake-part-1-the-dark-arts/)

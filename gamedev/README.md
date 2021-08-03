@@ -20,6 +20,10 @@
 
 [The Anatomy of a Satisfying Win | Game Design Basics](https://youtu.be/9PSY4f0m4m0)
 
+[HOW TO MAKE A SOMEWHAT SUCCESSFUL INDIE GAME](https://frgmnts.blog/f/how-make-successful-indie-game.html)
+
+[ONE YEAR OF CORE DEFENSE – NUMBERS AND LEARNINGS](https://frgmnts.blog/f/one-year-core-defense-numbers-learnings.html)
+
 ## C++
 
 [modern c++ gamedev - thoughts & misconceptions (blog)](https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html)
@@ -81,6 +85,10 @@
 [Let's Build a Confetti Cannon](https://varun.ca/confetti/)
 
 [How to Improve the About This Game section on your Steam store page](https://www.reddit.com/r/gamedev/comments/n79e4l/how_to_improve_the_about_this_game_section_on/)
+
+[Multi State Management in Games](https://codesmith.hashnode.dev/multi-state-management-in-games)
+
+[12+ Year AAA, former Valve/Microsoft/More Engineer. Quit my job last week to chase the indie dream. First day of work starts now! In the words of a legend... Here we go!](https://www.reddit.com/r/gamedev/comments/owg9n6/12_year_aaa_former_valvemicrosoftmore_engineer/)
 
 ## Math
 

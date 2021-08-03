@@ -28,4 +28,10 @@
 
 [How does Facebook or Google profit by open-sourcing their projects?](https://www.reddit.com/r/opensource/comments/ijw3zn/how_does_facebook_or_google_profit_by/)
 
+[Full-Time Open Source: How Andrew Kelly Built Zig](https://corecursive.com/067-zig-with-andrew-kelley/)
+
 [113,524 free open source icons & illustrations](https://iconduck.com/)
+
+## Frustrating
+
+[It takes a village to build an open-source project and a single a**hole to demotivate everyone](https://www.reddit.com/r/Python/comments/npkm6o/it_takes_a_village_to_build_an_opensource_project/)

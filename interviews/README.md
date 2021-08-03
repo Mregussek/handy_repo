@@ -29,3 +29,5 @@
 [What can/should be expected of someone with one year of experience as an entry level SWE? How would you evaluate a person if they were applying for a job at your company with 1 YOE in the industry?](https://www.reddit.com/r/cscareerquestions/comments/lv9awn/what_canshould_be_expected_of_someone_with_one/)
 
 [Best Github Repos you'll ever need to crack any coding interview](https://www.reddit.com/r/learnprogramming/comments/n7d6j6/best_github_repos_youll_ever_need_to_crack_any/)
+
+[Graphics Knowledge Questions](https://www.reddit.com/r/GraphicsProgramming/comments/op4u7w/graphics_knowledge_questions/)

@@ -65,3 +65,5 @@
 [Blur and anonymize faces with OpenCV and Python](https://www.pyimagesearch.com/2020/04/06/blur-and-anonymize-faces-with-opencv-and-python/)
 
 [Discord.py: The QuickStart Guide](https://codeburst.io/discord-py-the-quickstart-guide-2587abc136ab)
+
+[I wrote another Binance trading algo in Python. This one is able to analyse how volatile every coin on Binance is and place a trade when during a strong bullish movement](https://www.reddit.com/r/Python/comments/n9smh1/i_wrote_another_binance_trading_algo_in_python/)
