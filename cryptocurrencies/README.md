@@ -10,6 +10,8 @@
 
 ## Stellar
 
+[stellar project page](https://www.stellar.org/)
+
 [awesome-stellar](https://github.com/stellar/awesome-stellar)
 
 [stellar-core repository](https://github.com/stellar/stellar-core)
