@@ -34,6 +34,10 @@
 
 [Python Refactorings - Part 7](https://sourcery.ai/blog/explaining-refactorings-7/)
 
+## Fascinating
+
+[Why Python is slower than C?](https://www.quora.com/Why-does-C-code-run-faster-than-Pythons)
+
 ## Windows
 
 [Convert .py to .exe](https://www.youtube.com/watch?v=XHI1J7Wt4EU&t=4s)

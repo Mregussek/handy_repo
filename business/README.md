@@ -34,6 +34,10 @@
 
 [90+ TOOLS TO HELP YOU SUCCEED](https://foundersbelt.com/timeline?stage=learning)
 
+[Business Name Generator](https://namelix.com/)
+
+[A case study – how to end cooperation with a software house or contractor](https://www.mindtheproduct.com/a-case-study-how-to-end-cooperation-with-a-software-house-or-contractor/)
+
 ## Leadership
 
 [How to manage work-life balance while being an individual contributor working from home at a startup?](https://www.reddit.com/r/datascience/comments/kyjrmj/how_to_manage_worklife_balance_while_being_an/)
@@ -72,6 +76,8 @@
 
 [Great GDC Talk about Marketing - Marketing Fundamentals for New Developers](https://youtu.be/Q5tyX_IBTXA)
 
+[Nail Your Startup Pitch: Use Pixar's Story Formula to Win Over Investors](https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars)
+
 ## Career
 
 [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
@@ -87,6 +93,8 @@
 [Scrollycoding - A new tool for dev blogs and docs | Code Hike (preview)](https://youtu.be/7O2b7vfk-mo)
 
 [A Better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)
+
+[An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 
 ## Remote Job
 

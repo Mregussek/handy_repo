@@ -32,6 +32,12 @@
 
 [113,524 free open source icons & illustrations](https://iconduck.com/)
 
+[Open Source Alternatives ❤️](https://www.btw.so/open-source-alternatives)
+
 ## Frustrating
 
 [It takes a village to build an open-source project and a single a**hole to demotivate everyone](https://www.reddit.com/r/Python/comments/npkm6o/it_takes_a_village_to_build_an_opensource_project/)
+
+## Projects
+
+[Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)

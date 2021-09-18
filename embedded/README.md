@@ -63,3 +63,5 @@ DO NOT FORGET TO CHECK **COURSES.md** FILE.
 [Własny radar lotniczy (cz. 1): pierwsze złapane samoloty](https://pyrfekt.com/wlasny-radar-lotniczy-cz-1-pierwsze-zlapane-samoloty/)
 
 [So how does a PS/2 keyboard interface work?](https://youtu.be/7aXbh9VUB3U)
+
+[HakByte: Gather WiFi Reconnaissance on this $5 MicroController (ESP8266)](https://youtu.be/SPOCmnPj41E)

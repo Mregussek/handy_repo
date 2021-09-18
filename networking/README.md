@@ -12,6 +12,8 @@
 
 [How HTTPS works ...in a comic!](https://howhttps.works/)
 
+[Introduction to open source private LTE and 5G networks](https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks)
+
 ## Web
 
 [Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
