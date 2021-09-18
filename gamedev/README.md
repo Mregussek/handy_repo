@@ -12,8 +12,6 @@
 
 [How To Make A 3D Character For Your Game](https://youtu.be/ogz-3r0EHKM)
 
-[I made a tutorial series on on building multiplayer (.io) web games](https://www.reddit.com/r/gamedev/comments/i23pen/i_made_a_tutorial_series_on_on_building/)
-
 [I don't know how to organize my ideas about my game design.](https://www.reddit.com/r/gamedesign/comments/lilu4y/i_dont_know_how_to_organize_my_ideas_about_my/)
 
 [I've hit over 4000 wishlists with my unreleased game. 11 months of slow wishlist gathering.](https://www.reddit.com/r/gamedev/comments/mgcnni/ive_hit_over_4000_wishlists_with_my_unreleased/)
@@ -93,3 +91,11 @@
 ## Math
 
 [Math and professional game programming as a career: You only need to know certain specific things?](https://www.reddit.com/r/gamedev/comments/i69vww/math_and_professional_game_programming_as_a/)
+
+## Multiplayer
+
+[Using Docker for Game Servers](https://github.com/LacledesLAN/README.1ST/blob/master/GameServers/DockerAndGameServers.md)
+
+[I made a tutorial series on on building multiplayer (.io) web games](https://www.reddit.com/r/gamedev/comments/i23pen/i_made_a_tutorial_series_on_on_building/)
+
+[I learned how to make an online Multiplayer game using Python!!](https://www.reddit.com/r/Python/comments/ii1tnj/i_learned_how_to_make_an_online_multiplayer_game/)

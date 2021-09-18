@@ -16,8 +16,6 @@
 
 [Expert python topics you should know](https://dev.libreneitor.com/expert-python-topics-you-should-know/)
 
-[I learned how to make an online Multiplayer game using Python!!](https://www.reddit.com/r/Python/comments/ii1tnj/i_learned_how_to_make_an_online_multiplayer_game/)
-
 [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-list/)
 
 [I made a course on NumPy. It got good reviews, but sales were weak so I'm releasing the entire thing for free.](https://www.reddit.com/r/Python/comments/l1jdcj/i_made_a_course_on_numpy_it_got_good_reviews_but/)
