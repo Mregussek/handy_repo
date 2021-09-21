@@ -24,6 +24,8 @@
 
 [Guide to Git I wish I had](https://www.reddit.com/r/learnprogramming/comments/mv9jzh/guide_to_git_i_wish_i_had/)
 
+[GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)
+
 ## Good practices
 
 [Git rebase and merge comparison](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)

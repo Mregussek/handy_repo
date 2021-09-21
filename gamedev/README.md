@@ -22,6 +22,8 @@
 
 [ONE YEAR OF CORE DEFENSE – NUMBERS AND LEARNINGS](https://frgmnts.blog/f/one-year-core-defense-numbers-learnings.html)
 
+[Do NOT forget to do this if you are developing a game for mobile (iOS, Android)!](https://www.reddit.com/r/gamedev/comments/p3r7wo/do_not_forget_to_do_this_if_you_are_developing_a/)
+
 ## C++
 
 [modern c++ gamedev - thoughts & misconceptions (blog)](https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html)
@@ -87,6 +89,12 @@
 [Multi State Management in Games](https://codesmith.hashnode.dev/multi-state-management-in-games)
 
 [12+ Year AAA, former Valve/Microsoft/More Engineer. Quit my job last week to chase the indie dream. First day of work starts now! In the words of a legend... Here we go!](https://www.reddit.com/r/gamedev/comments/owg9n6/12_year_aaa_former_valvemicrosoftmore_engineer/)
+
+[Devs who open source their games, why?](https://www.reddit.com/r/gamedev/comments/pi8l15/devs_who_open_source_their_games_why/)
+
+[I have been struggling for years to make my dream game, until now...](https://www.reddit.com/r/gamedev/comments/ppji0k/i_have_been_struggling_for_years_to_make_my_dream/)
+
+[A mega-influencer featured my game on his youtube. This is my story (with numbers).](https://www.reddit.com/r/gamedev/comments/pqf3b8/a_megainfluencer_featured_my_game_on_his_youtube/)
 
 ## Math
 

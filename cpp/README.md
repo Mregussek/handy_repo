@@ -46,6 +46,8 @@
 
 [Doc Tools for C++ Libraries](https://sixtyfps.io/blog/documentation-tools-for-cpp-libraries.html)
 
+[Nice but not so well-known features of modern C++](https://www.reddit.com/r/cpp/comments/pg3sdw/nice_but_not_so_wellknown_features_of_modern_c/)
+
 ## Compilation
 
 [The Little Things: Speeding up C++ compilation](https://codingnest.com/the-little-things-speeding-up-c-compilation/)
