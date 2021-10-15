@@ -38,6 +38,8 @@
 
 [A case study – how to end cooperation with a software house or contractor](https://www.mindtheproduct.com/a-case-study-how-to-end-cooperation-with-a-software-house-or-contractor/)
 
+[How the biggest consumer apps got their first 1,000 users - Issue 25](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
+
 ## Leadership
 
 [How to manage work-life balance while being an individual contributor working from home at a startup?](https://www.reddit.com/r/datascience/comments/kyjrmj/how_to_manage_worklife_balance_while_being_an/)
@@ -77,6 +79,8 @@
 [Great GDC Talk about Marketing - Marketing Fundamentals for New Developers](https://youtu.be/Q5tyX_IBTXA)
 
 [Nail Your Startup Pitch: Use Pixar's Story Formula to Win Over Investors](https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars)
+
+[As a solo developer, I decided to offer phone support, and this is what happened](http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/)
 
 ## Career
 

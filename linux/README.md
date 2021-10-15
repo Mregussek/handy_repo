@@ -26,6 +26,10 @@
 
 [You can list a directory containing 8 million files! But not with ls.](http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html)
 
+## Programming in terminal
+
+[Effective Code Browsing - Part 1](https://noahan.me/posts/effective-code-browsing-part1/)
+
 ## Bash
 
 [101 bash commands](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
@@ -60,6 +64,10 @@
 
 [Best of .bashrc Or, actually, .bash_aliases - but that's not as fun to say](https://www.datagubbe.se/bestofbash/)
 
+## Kali
+
+[PimpMyKali - are you using Kali Linux? These scripts will fix several problems with this distribution](https://github.com/Dewalt-arch/pimpmykali)
+
 ## Screens
 
-[Linux Perfomance Tools](https://i.redd.it/h1p8r0psc4w61.png)
+[Linux Performance Tools](https://i.redd.it/h1p8r0psc4w61.png)

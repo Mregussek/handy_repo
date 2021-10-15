@@ -26,6 +26,8 @@
 
 [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)
 
+[The elements of git](https://cuddly-octo-palm-tree.com/posts/2021-09-19-git-elements/)
+
 ## Good practices
 
 [Git rebase and merge comparison](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
@@ -53,3 +55,5 @@
 [Autogit](https://github.com/fabiospampinato/autogit)
 
 [Git history](https://githistory.xyz/)
+
+[Code Review from the Command Line](https://blog.jez.io/cli-code-review/)

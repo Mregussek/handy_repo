@@ -44,6 +44,8 @@
 
 [Understanding Markov Chains and Stationary Distribution](https://youtu.be/i3AkTO9HLXo)
 
+[The Ultimate FREE Machine Learning Study Plan](https://github.com/python-engineer/ml-study-plan)
+
 ## Libraries
 
 [I made a tutorial on how to use the Eigen C++ library for ML!](https://www.reddit.com/r/cpp/comments/j16m4n/i_made_a_tutorial_on_how_to_use_the_eigen_c/)

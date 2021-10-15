@@ -25,3 +25,5 @@
 [e-ink display which shows your last played track and listening stats from last.fm](https://www.reddit.com/r/raspberry_pi/comments/h7tkqi/eink_display_which_shows_your_last_played_track/)
 
 [Real Time Face Detection on the RaspberryPi-4](https://www.instructables.com/id/Real-Time-Face-Detection-on-the-RaspberryPi-4/)
+
+[A physical calendar built on an e-paper display, controlled by a Raspberry Pi and synchronizing with Google Calendar](https://github.com/speedyg0nz/MagInkCal)

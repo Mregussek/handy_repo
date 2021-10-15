@@ -26,6 +26,10 @@
 
 [You should turn off autofill in your password manager](https://marektoth.com/blog/password-managers-autofill/)
 
+[Najciekawsze strony o security](https://szurek.top/)
+
+[this site proves that while in incognito mode, the owner of the site still knows it's you. Visit the website, write something, and then go to it in Incognito mode.](https://www.nothingprivate.ml/)
+
 ## Fascinating
 
 [Database Penetration testing and Privilege Escalation - OSCP 2020](https://youtu.be/bmoLCw0_nzE)

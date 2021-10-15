@@ -16,6 +16,8 @@
 
 [100 Years Ago Henry Ford Predicted Bitcoin.](https://www.reddit.com/r/CryptoCurrency/comments/pqanxo/100_years_ago_henry_ford_predicted_bitcoin/)
 
+[NFT Projects are just MLMs for Tech Elites](https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites)
+
 ## Stellar (XLM)
 
 [stellar project page](https://www.stellar.org/)

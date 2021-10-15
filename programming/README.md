@@ -1,5 +1,9 @@
 # Programming
 
+## regex
+
+[Learn Regex The Easy Way](https://github.com/ziishaned/learn-regex/blob/master/translations/README-pl.md)
+
 ## Fascinating
 
 [Slides for programming courses](https://marko-knoebl.github.io/slides/#python)
