@@ -77,3 +77,7 @@
 [I am Sophie Zhang, whistleblower. At FB, I worked to stop major political figures from deceiving their own populace; I became a whistleblower because Facebook turned a blind eye. Ask me anything.](https://old.reddit.com/r/IAmA/comments/mqw86u/i_am_sophie_zhang_whistleblower_at_fb_i_worked_to/)
 
 [I'm getting a sort of mini-burnout after working hard on a big personal project for a week. What can I do to stop this?](https://www.reddit.com/r/learnprogramming/comments/n6so1j/im_getting_a_sort_of_miniburnout_after_working/)
+
+[How I got wealthy without working too hard [Extended]](https://amaca.substack.com/p/how-i-got-wealthy-without-working)
+
+[Want to be great? Know a lot](https://www.iamjonas.me/2021/10/want-to-be-great-know-lot.html)

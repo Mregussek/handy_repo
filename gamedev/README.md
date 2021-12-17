@@ -96,6 +96,8 @@
 
 [A mega-influencer featured my game on his youtube. This is my story (with numbers).](https://www.reddit.com/r/gamedev/comments/pqf3b8/a_megainfluencer_featured_my_game_on_his_youtube/)
 
+[38% of my bug reports come from the Linux community](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
+
 ## Math
 
 [Math and professional game programming as a career: You only need to know certain specific things?](https://www.reddit.com/r/gamedev/comments/i69vww/math_and_professional_game_programming_as_a/)

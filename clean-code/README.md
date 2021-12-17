@@ -26,6 +26,10 @@
 
 [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 
+## Software Architecture
+
+[Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/)
+
 ## Fascinating
 
 [The epistemology of software quality](https://increment.com/teams/the-epistemology-of-software-quality/)

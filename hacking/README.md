@@ -55,3 +55,7 @@
 [Reverse Engineering the M6 Smart Fitness Bracelet](https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html)
 
 [How I REVERSE ENGINEERED GOOGLE DOCS To Play Back Any Document’s Keystrokes](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)
+
+[Recovering locked Facebook accounts is a nightmare. That’s on purpose.](https://www.washingtonpost.com/technology/2021/09/29/hacked-social-media-account/)
+
+[Here's the FBI's Internal Guide for Getting Data from AT&T, T-Mobile, Verizon](https://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon)

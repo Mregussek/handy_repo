@@ -12,6 +12,8 @@
 
 ## Fascinating
 
+[This is a repo to hold various Dockerfiles for images I create.](https://github.com/jessfraz/dockerfiles)
+
 [Docker as builder system for C++](https://www.reddit.com/r/docker/comments/hfilm3/docker_as_builder_system_for_c/)
 
 [How Container Networking Affects Database Performance](https://www.percona.com/blog/2020/03/18/how-container-networking-affects-database-performance/)

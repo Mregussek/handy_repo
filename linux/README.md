@@ -26,6 +26,10 @@
 
 [You can list a directory containing 8 million files! But not with ls.](http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html)
 
+[Linux Tips and Tricks from THC group](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
+
+[awesome-console-services](https://github.com/chubin/awesome-console-services)
+
 ## Programming in terminal
 
 [Effective Code Browsing - Part 1](https://noahan.me/posts/effective-code-browsing-part1/)
