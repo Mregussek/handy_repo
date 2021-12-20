@@ -12,6 +12,8 @@
 
 [Don't be that 40 year old guy who blows millions on dumb stuff](https://www.reddit.com/r/Bitcoin/comments/ozib9h/dont_be_that_40_year_old_guy_who_blows_millions/)
 
+[Clarity in Crypto A Guide to Crypto, Investing, and Financial Freedom](https://www.clarityincrypto.com/)
+
 ## Fascinating
 
 [How do you start accepting Bitcoin as a payment method on your site?](https://neilpatel.com/blog/crypto-payments/)

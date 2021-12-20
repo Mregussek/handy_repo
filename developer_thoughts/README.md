@@ -81,3 +81,5 @@
 [How I got wealthy without working too hard [Extended]](https://amaca.substack.com/p/how-i-got-wealthy-without-working)
 
 [Want to be great? Know a lot](https://www.iamjonas.me/2021/10/want-to-be-great-know-lot.html)
+
+[I just wrapped up ~5 years at a Big 5. Here is my advice for new hires.](https://www.reddit.com/r/cscareerquestions/comments/pyr82y/i_just_wrapped_up_5_years_at_a_big_5_here_is_my/)

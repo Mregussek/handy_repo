@@ -52,6 +52,8 @@
 
 [FFT ocean simulation for Unity. Links to the source code and video tutorial in the comments.](https://www.reddit.com/r/gameassets/comments/k7ytse/fft_ocean_simulation_for_unity_links_to_the/)
 
+[Unity Ability Tutorials](https://www.youtube.com/playlist?list=PL7-cqsVREuR1PQlq7vHnL6vunebrykt1j)
+
 ## UE4
 
 [Hey guys, I run a FREE tutorial platform where professional artists can come and share their knowledge with the community. This week Thomas stops by and shows us how to make a Sci-Fi Environments using UE4! We put a ton of effort into it, so come check it out and let me know what you think!](https://www.reddit.com/r/gamedev/comments/icnjbh/hey_guys_i_run_a_free_tutorial_platform_where/)
@@ -97,6 +99,10 @@
 [A mega-influencer featured my game on his youtube. This is my story (with numbers).](https://www.reddit.com/r/gamedev/comments/pqf3b8/a_megainfluencer_featured_my_game_on_his_youtube/)
 
 [38% of my bug reports come from the Linux community](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
+
+[Tips for solo game developers.](https://www.reddit.com/r/gamedev/comments/r75x7l/tips_for_solo_game_developers/)
+
+[Does anybody even read video game dialogue? Or: How I learned to cut down text so people would stop ignoring my work](https://www.reddit.com/r/gamedev/comments/pwklm2/does_anybody_even_read_video_game_dialogue_or_how/)
 
 ## Math
 

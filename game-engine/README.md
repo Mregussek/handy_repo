@@ -50,6 +50,8 @@
 
 [^^^ Rootex ^^^ ReadTheDocs](https://rootex.readthedocs.io/en/latest/index.html)
 
+[^^^ IRIS ^^^ Github](https://github.com/irisengine/iris)
+
 ## Fascinating
 
 [Where can I find an explanation of how the GPU works?](https://www.reddit.com/r/GraphicsProgramming/comments/ljt8kq/where_can_i_find_an_explanation_of_how_the_gpu/)

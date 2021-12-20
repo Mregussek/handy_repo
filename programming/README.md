@@ -17,3 +17,5 @@
 [Energy efficiency across programming languages: how do energy, time, and memory relate?](https://www.researchgate.net/publication/320436353_Energy_efficiency_across_programming_languages_how_do_energy_time_and_memory_relate)
 
 [For new programmers learning keyboard shortcuts - this page is fantastic](https://www.reddit.com/r/learnprogramming/comments/lqewsq/for_new_programmers_learning_keyboard_shortcuts/)
+
+[A list of 6000+ programming resources (Python, React, Vue, Machine Learning)](https://resorcery.pages.dev/)

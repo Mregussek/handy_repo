@@ -25,3 +25,5 @@
 [Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io/)
 
 [GPU Ray Tracing in an Afternoon](http://roar11.com/2019/10/gpu-ray-tracing-in-an-afternoon/)
+
+[Video Series: Writing a raytracer in rust](https://youtu.be/3LinpB7ns60)
