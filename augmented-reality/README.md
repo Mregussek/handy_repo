@@ -1,5 +1,7 @@
 # AR
 
+[Awesome Computer Vision:](https://github.com/jbhuang0604/awesome-computer-vision)
+
 [ARKit vs ARCore: Image Detection and Tracking](https://arpost.co/2020/06/12/arkit-vs-arcore-image-detection-and-tracking/)
 
 [AR By Hand – Part 1 – Introduction](https://enterprisemath.com/ar-by-hand-part-1-introduction/)

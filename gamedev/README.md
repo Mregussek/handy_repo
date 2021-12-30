@@ -1,5 +1,7 @@
 # Gamedev
 
+[magictools - A curated list of game development resources to make magic happen.](https://github.com/ellisonleao/magictools)
+
 [Game Programmer](https://github.com/miloyip/game-programmer)
 
 [How do you finish a game without having a mental breakdown?](https://www.reddit.com/r/gamedev/comments/kjsnge/how_do_you_finish_a_game_without_having_a_mental/)

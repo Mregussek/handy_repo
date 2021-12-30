@@ -8,6 +8,8 @@
 
 ## Fascinating
 
+[every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+
 [Slides for programming courses](https://marko-knoebl.github.io/slides/#python)
 
 [Why do arrays start from 0?](https://medium.com/@albertkoz/why-does-array-start-with-index-0-65ffc07cbce8)

@@ -4,7 +4,7 @@
 
 [Graphics Workshop](https://github.com/ekzhang/graphics-workshop)
 
-[Ditherpunk — The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
+[graphics-resources - bookmarks related to game development and realtime graphics programming.](https://github.com/mattdesl/graphics-resources)
 
 ## Shaders
 
@@ -29,6 +29,8 @@
 [How knowledgeable should a graphics programmer be about hardware?](https://www.reddit.com/r/GraphicsProgramming/comments/kwr87e/how_knowledgeable_should_a_graphics_programmer_be/)
 
 [Where can I find an explanation of how the GPU works?](https://www.reddit.com/r/GraphicsProgramming/comments/ljt8kq/where_can_i_find_an_explanation_of_how_the_gpu/)
+
+[Ditherpunk — The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 
 ## Courses
 

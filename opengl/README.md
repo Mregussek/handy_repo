@@ -1,5 +1,7 @@
 # OpenGL
 
+[awesome-opengl](https://github.com/eug/awesome-opengl)
+
 [Tutorials for OpenGL 3.3](http://www.opengl-tutorial.org)
 
 [Learn OpenGl](https://learnopengl.com)
