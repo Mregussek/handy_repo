@@ -30,6 +30,8 @@
 
 [this site proves that while in incognito mode, the owner of the site still knows it's you. Visit the website, write something, and then go to it in Incognito mode.](https://www.nothingprivate.ml/)
 
+[FBI document shows what data can be obtained from encrypted messaging apps](https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/)
+
 ## Fascinating
 
 [Database Penetration testing and Privilege Escalation - OSCP 2020](https://youtu.be/bmoLCw0_nzE)

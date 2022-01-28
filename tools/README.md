@@ -25,3 +25,5 @@
 [you enter the text you need and after a while you get a video (or several thousand videos) in which the given phrase is used](https://youglish.com/)
 
 [Icon Kitchen - onlinowy generator ikon](https://icon.kitchen/)
+
+[A simple and elegant open-source markdown editor that focused on speed and usability.](https://github.com/marktext/marktext#download-and-installation)

@@ -9,3 +9,5 @@
 [The Musical Time Machine](https://radiooooo.com/)
 
 [Movies For Hackers](https://hackermovie.club/)
+
+[DNA seen through the eyes of a coder (or, If you are a hammer, everything looks like a nail)](https://berthub.eu/articles/posts/amazing-dna/)

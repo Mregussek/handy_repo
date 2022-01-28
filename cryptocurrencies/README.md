@@ -14,11 +14,19 @@
 
 [Clarity in Crypto A Guide to Crypto, Investing, and Financial Freedom](https://www.clarityincrypto.com/)
 
+[What Problem Blockchains Actually Solve](https://solutionspace.blog/2021/12/21/what-problem-blockchains-actually-solve/)
+
+[An Anatomy of Bitcoin Price Manipulation](https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/)
+
 ## Fascinating
 
 [How do you start accepting Bitcoin as a payment method on your site?](https://neilpatel.com/blog/crypto-payments/)
 
 [100 Years Ago Henry Ford Predicted Bitcoin.](https://www.reddit.com/r/CryptoCurrency/comments/pqanxo/100_years_ago_henry_ford_predicted_bitcoin/)
+
+## NFT
+
+[Czym jest i jak naprawdę działa NFT](https://www.internet-czas-dzialac.pl/odcinek-30-nft/)
 
 [NFT Projects are just MLMs for Tech Elites](https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites)
 

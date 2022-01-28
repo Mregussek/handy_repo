@@ -83,3 +83,5 @@
 [Want to be great? Know a lot](https://www.iamjonas.me/2021/10/want-to-be-great-know-lot.html)
 
 [I just wrapped up ~5 years at a Big 5. Here is my advice for new hires.](https://www.reddit.com/r/cscareerquestions/comments/pyr82y/i_just_wrapped_up_5_years_at_a_big_5_here_is_my/)
+
+[My Path to Financial Independence as a Software Engineer](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)

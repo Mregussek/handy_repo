@@ -20,6 +20,8 @@
 
 [Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
 
+[Books I had to read to develop a game engine](https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine)
+
 ## Shadows
 
 [How Shadows Work in Games](https://youtu.be/TXI8rWiOF0k)

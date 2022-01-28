@@ -8,6 +8,8 @@
 
 ## Fascinating
 
+[Laws, Theories, Principles and Patterns that developers will find useful.](https://github.com/dwmkerr/hacker-laws)
+
 [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 
 [Slides for programming courses](https://marko-knoebl.github.io/slides/#python)

@@ -10,6 +10,8 @@
 
 [Docker Security](https://made2591.github.io/posts/docker-security)
 
+[Optimizing Docker image size and why it matters](https://contains.dev/blog/optimizing-docker-image-size)
+
 ## Fascinating
 
 [This is a repo to hold various Dockerfiles for images I create.](https://github.com/jessfraz/dockerfiles)
@@ -19,3 +21,7 @@
 [How Container Networking Affects Database Performance](https://www.percona.com/blog/2020/03/18/how-container-networking-affects-database-performance/)
 
 [Using Docker for Game Servers](https://github.com/LacledesLAN/README.1ST/blob/master/GameServers/DockerAndGameServers.md)
+
+## Hacking
+
+[Hundreds of Offensive and Useful Docker Images for Network Intrusion](https://houdini.secsi.io/)

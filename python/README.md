@@ -36,6 +36,8 @@
 
 [Why Python is slower than C?](https://www.quora.com/Why-does-C-code-run-faster-than-Pythons)
 
+[The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
+
 ## Windows
 
 [Convert .py to .exe](https://www.youtube.com/watch?v=XHI1J7Wt4EU&t=4s)
