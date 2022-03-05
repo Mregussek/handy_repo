@@ -34,6 +34,8 @@
 
 [Effective Code Browsing - Part 1](https://noahan.me/posts/effective-code-browsing-part1/)
 
+[The Linux Command Line by William Shotts](https://linuxcommand.org/tlcl.php)
+
 ## Bash
 
 [101 bash commands](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)

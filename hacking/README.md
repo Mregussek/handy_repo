@@ -14,6 +14,12 @@
 
 [Netcat - All you need to know](https://blog.ikuamike.io/posts/2021/netcat/)
 
+## Conferences
+
+[Black Hat Europe 2021](https://www.youtube.com/playlist?app=desktop&list=PLH15HpR5qRsW62N-GLRb1q56Zr7sm10rF)
+
+[Semafor 2021](https://www.youtube.com/playlist?list=PLpsB0eEHFCpYj1EMxxoItfbN1NnKvcniu)
+
 ## Security
 
 [How do we know that imported third party python library isn't spying on our program?](https://www.reddit.com/r/Python/comments/l9basm/how_do_we_know_that_imported_third_party_python/)

@@ -40,6 +40,8 @@
 
 [How the biggest consumer apps got their first 1,000 users - Issue 25](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
 
+[What do startup founders pay themselves?](https://sifted.eu/articles/startup-founders-salary/)
+
 ## Leadership
 
 [How to manage work-life balance while being an individual contributor working from home at a startup?](https://www.reddit.com/r/datascience/comments/kyjrmj/how_to_manage_worklife_balance_while_being_an/)
@@ -99,6 +101,8 @@
 [A Better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)
 
 [An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
+
+[The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](https://www.samjulien.com/shy-dev-networking)
 
 ## Remote Job
 

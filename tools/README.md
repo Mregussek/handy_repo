@@ -27,3 +27,13 @@
 [Icon Kitchen - onlinowy generator ikon](https://icon.kitchen/)
 
 [A simple and elegant open-source markdown editor that focused on speed and usability.](https://github.com/marktext/marktext#download-and-installation)
+
+[BackgroundRemover.app](https://backgroundremover.app/)
+
+[Never waste Hours on finding the perfect Color Palette again!](https://mycolor.space/)
+
+[An open source toolbox for colors](https://hue.tools/?format=hex)
+
+[Application showing on several parameters how your life would potentially change if you moved out of Poland and lived in XYZ country.](http://www.ifitweremyhome.com/)
+
+[The internet’s source of free logos.](https://www.logotouse.com/)
