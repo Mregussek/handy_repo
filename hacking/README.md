@@ -40,6 +40,8 @@
 
 ## Fascinating
 
+[Why offer an Onion Address rather than just encourage browsing-over-Tor?](https://alecmuffett.com/article/16007)
+
 [Database Penetration testing and Privilege Escalation - OSCP 2020](https://youtu.be/bmoLCw0_nzE)
 
 [Cracking PDF password](https://medium.com/@baodad/cracking-my-first-password-8df292fc71c5)

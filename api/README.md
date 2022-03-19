@@ -11,3 +11,5 @@
 [Develop and Deploy a Python API with Kubernetes and Docker](https://medium.com/the-metricfire-blog/develop-and-deploy-a-python-api-with-kubernetes-and-docker-7512ec218dbe)
 
 [API List](https://apilist.fun)
+
+[How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)

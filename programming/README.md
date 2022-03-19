@@ -1,5 +1,9 @@
 # Programming
 
+## Health
+
+[I relearned typing to save my wrists](https://www.notonlycode.org/relearned-typing/)
+
 ## regex
 
 [Learn Regex The Easy Way](https://github.com/ziishaned/learn-regex/blob/master/translations/README-pl.md)

@@ -7,3 +7,5 @@
 [Cheat Sheet on Curl Performance Metrics: how to benchmark server latency with curl](https://speedtestdemon.com/a-guide-to-curls-performance-metrics-how-to-analyze-a-speed-test-result/)
 
 [HTTP/2: The Sequel is Always Worse](https://portswigger.net/research/http2)
+
+[How Web Works](https://github.com/vasanthk/how-web-works)

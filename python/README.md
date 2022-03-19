@@ -24,6 +24,8 @@
 
 [Exploring and understanding Python through surprising snippets.](https://github.com/satwikkansal/wtfpython)
 
+[Python built-in functions to know](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+
 ## Good practices
 
 [How to set up a perfect Python project](https://sourcery.ai/blog/python-best-practices/)

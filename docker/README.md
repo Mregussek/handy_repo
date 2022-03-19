@@ -12,6 +12,8 @@
 
 [Optimizing Docker image size and why it matters](https://contains.dev/blog/optimizing-docker-image-size)
 
+[Just say no to :latest](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/)
+
 ## Fascinating
 
 [This is a repo to hold various Dockerfiles for images I create.](https://github.com/jessfraz/dockerfiles)

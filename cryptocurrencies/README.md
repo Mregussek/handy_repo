@@ -18,6 +18,8 @@
 
 [An Anatomy of Bitcoin Price Manipulation](https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/)
 
+[Czego nauczyliśmy się o blockchainie w trakcie wywiadu z kryptologiem](https://www.internet-czas-dzialac.pl/odcinek-31-blockchain/)
+
 ## Fascinating
 
 [How do you start accepting Bitcoin as a payment method on your site?](https://neilpatel.com/blog/crypto-payments/)
