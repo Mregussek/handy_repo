@@ -26,6 +26,8 @@
 
 [questions about MSAA -> one fine answer](https://www.reddit.com/r/opengl/comments/n4fzs0/questions_about_msaa/)
 
+[OpenGL Guide](https://github.com/mikeroyal/OpenGL-Guide)
+
 ## Fascinating
 
 [Tiny renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)

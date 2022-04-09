@@ -10,6 +10,10 @@
 
 [How to read shader assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 
+[shdr.bkcore.com/](http://shdr.bkcore.com/)
+
+[shadertoy.com](https://www.shadertoy.com/)
+
 ## Image Processing
 
 [How to understand RGB?](https://ciechanow.ski/color-spaces/)

@@ -27,3 +27,9 @@
 [GPU Ray Tracing in an Afternoon](http://roar11.com/2019/10/gpu-ray-tracing-in-an-afternoon/)
 
 [Video Series: Writing a raytracer in rust](https://youtu.be/3LinpB7ns60)
+
+[How to add thousands of lights to your renderer and not die in the process](http://zyanidelab.com/how-to-add-thousands-of-lights-to-your-renderer/)
+
+[Raytraced global illumination denoising](https://interplayoflight.wordpress.com/2022/03/26/raytraced-global-illumination-denoising/)
+
+[2.6.1. Ray tracing with OpenGL Compute Shaders (Part I)](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29)
