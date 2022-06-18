@@ -1,5 +1,7 @@
 # Hacking
 
+[Kodeks Dobrych Praktyk w zakresie walki z dezinformacją (PDF)](https://www.nask.pl/pl/wlaczweryfikacje/kodeks-dobrych-praktyk/4991,Kodeks-Dobrych-Praktyk.html)
+
 ## Github
 
 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking))
@@ -11,6 +13,10 @@
 [I finally opened my years-old Pandora's Box of cybersecurity & programming resource bookmarks while in quarantine](https://www.reddit.com/r/learnprogramming/comments/jjlues/i_finally_opened_my_yearsold_pandoras_box_of/)
 
 ## Tools
+
+[Privacy and security software list](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)
+
+[Which browser is best for your privacy?](https://privacytests.org/android.html)
 
 [Netcat - All you need to know](https://blog.ikuamike.io/posts/2021/netcat/)
 
@@ -37,6 +43,8 @@
 [this site proves that while in incognito mode, the owner of the site still knows it's you. Visit the website, write something, and then go to it in Incognito mode.](https://www.nothingprivate.ml/)
 
 [FBI document shows what data can be obtained from encrypted messaging apps](https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/)
+
+[A collection of comic strips and flyers that graphically illustrate issues in the security industry](https://securityzines.com/#comics)
 
 ## Fascinating
 

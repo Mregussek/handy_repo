@@ -1,5 +1,9 @@
 # Programming
 
+[A collection of keyboard shortcuts for Mac apps, Windows programs, and websites.](https://usethekeyboard.com/)
+
+[The Art of Code - Dylan Beattie (Must have for programmers to watch)](https://youtu.be/6avJHaC3C2U)
+
 ## Health
 
 [I relearned typing to save my wrists](https://www.notonlycode.org/relearned-typing/)

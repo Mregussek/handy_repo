@@ -26,6 +26,10 @@
 
 [100 Years Ago Henry Ford Predicted Bitcoin.](https://www.reddit.com/r/CryptoCurrency/comments/pqanxo/100_years_ago_henry_ford_predicted_bitcoin/)
 
+[How do you deanonymize the skin of bitcoin transactions?](https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-anonymity-myth/)
+
+[Cryptocurrencies Have Broken Almost All Of Their Major Promises](https://ruky.me/2022/06/14/cryptocurrencies-have-broken-almost-all-of-their-major-promises/)
+
 ## NFT
 
 [Czym jest i jak naprawdę działa NFT](https://www.internet-czas-dzialac.pl/odcinek-30-nft/)

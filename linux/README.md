@@ -70,6 +70,8 @@
 
 [Best of .bashrc Or, actually, .bash_aliases - but that's not as fun to say](https://www.datagubbe.se/bestofbash/)
 
+[A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
+
 ## Kali
 
 [PimpMyKali - are you using Kali Linux? These scripts will fix several problems with this distribution](https://github.com/Dewalt-arch/pimpmykali)

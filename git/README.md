@@ -28,6 +28,8 @@
 
 [The elements of git](https://cuddly-octo-palm-tree.com/posts/2021-09-19-git-elements/)
 
+[How to Write a Git Commit Message](https://cbea.ms/git-commit/)
+
 ## Good practices
 
 [Git rebase and merge comparison](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)

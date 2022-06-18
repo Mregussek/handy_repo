@@ -85,3 +85,5 @@
 [I just wrapped up ~5 years at a Big 5. Here is my advice for new hires.](https://www.reddit.com/r/cscareerquestions/comments/pyr82y/i_just_wrapped_up_5_years_at_a_big_5_here_is_my/)
 
 [My Path to Financial Independence as a Software Engineer](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)
+
+[How to feel engaged at work: a software engineer's guide](https://jasont.co/ennui/)

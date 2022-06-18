@@ -37,3 +37,9 @@
 [Application showing on several parameters how your life would potentially change if you moved out of Poland and lived in XYZ country.](http://www.ifitweremyhome.com/)
 
 [The internet’s source of free logos.](https://www.logotouse.com/)
+
+[Instant font identification powered by the world’s largest collection of fonts.](https://www.myfonts.com/WhatTheFont/)
+
+[DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.](https://openai.com/dall-e-2/)
+
+[Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets](https://github.com/aquasecurity/trivy)

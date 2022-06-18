@@ -48,6 +48,8 @@
 
 [Nice but not so well-known features of modern C++](https://www.reddit.com/r/cpp/comments/pg3sdw/nice_but_not_so_wellknown_features_of_modern_c/)
 
+[Cheat Sheets & Infographics](https://hackingcpp.com/cpp/cheat_sheets.html)
+
 ## Compilation
 
 [The Little Things: Speeding up C++ compilation](https://codingnest.com/the-little-things-speeding-up-c-compilation/)

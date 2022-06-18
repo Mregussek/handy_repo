@@ -14,6 +14,8 @@
 
 [Just say no to :latest](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/)
 
+[Everything you want to know about Docker - from A to Z (presentation)](https://container.training/intro-selfpaced.yml.html#1)
+
 ## Fascinating
 
 [This is a repo to hold various Dockerfiles for images I create.](https://github.com/jessfraz/dockerfiles)
