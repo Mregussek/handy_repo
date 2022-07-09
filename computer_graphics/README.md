@@ -6,6 +6,8 @@
 
 [graphics-resources - bookmarks related to game development and realtime graphics programming.](https://github.com/mattdesl/graphics-resources)
 
+[Graphics Programming Virtual Meetup Resources](https://github.com/Graphics-Programming-Virtual-Meetup/Resources)
+
 ## Shaders
 
 [How to read shader assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)

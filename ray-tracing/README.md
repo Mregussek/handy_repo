@@ -1,5 +1,7 @@
 # Ray tracing
 
+[CppCon 2019: Matt Godbolt “Path Tracing Three Ways: A Study of C++ Style”](https://youtu.be/HG6c4Kwbv4I)
+
 [I finished my Python Ray Tracer capable of rendering refraction and thin film interference!](https://www.reddit.com/r/Python/comments/i9q4dx/i_finished_my_python_ray_tracer_capable_of/)
 
 [Ray-tracing in a Weekend with SYCL Part 2: Pixel sampling and Material tracing](https://codeplay.com/portal/06-19-20-ray-tracing-in-a-weekend-with-sycl-part-2-pixel-sampling-and-material-tracing)
