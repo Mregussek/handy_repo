@@ -56,11 +56,13 @@
 
 [Unity Ability Tutorials](https://www.youtube.com/playlist?list=PL7-cqsVREuR1PQlq7vHnL6vunebrykt1j)
 
-## UE4
+## Unreal Engine
 
 [Hey guys, I run a FREE tutorial platform where professional artists can come and share their knowledge with the community. This week Thomas stops by and shows us how to make a Sci-Fi Environments using UE4! We put a ton of effort into it, so come check it out and let me know what you think!](https://www.reddit.com/r/gamedev/comments/icnjbh/hey_guys_i_run_a_free_tutorial_platform_where/)
 
 [Unreal Engine Performance Optimization](https://youtu.be/FQxriR4_akM)
+
+[Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/)
 
 ## Fascinating
 

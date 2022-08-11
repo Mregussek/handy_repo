@@ -79,3 +79,5 @@
 ## Dev opinions
 
 [What do people think of the latest version of the Godot manual? It's undergone a big revamp, still work in progress.](https://www.reddit.com/r/gamedev/comments/k6rd5g/what_do_people_think_of_the_latest_version_of_the/)
+
+[Ships, Icebergs, Game Engines - The Our Machinery fiasco has made an excellent case for more self-reliant, more from-scratch technology.](https://www.rfleury.com/p/ships-icebergs-game-engines)
