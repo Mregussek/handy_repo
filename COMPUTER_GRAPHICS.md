@@ -5,9 +5,18 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 ## Contents
 
-* **[General resource web pages](#general-resource-web-pages)**
+* **[Computer Graphics Resources](#computer-graphics-resources)**
+* **[Computer Graphics Learning](#computer-graphics-learning)**
+* **[PBR - Physically Based Rendering](#pbr---physically-based-rendering)**
+* **[Global Illumination](#global-illumination)**
+* **[Ray Tracing](#ray-tracing)**
+* **[Shaders](#shaders)**
+* **[Image Processing](#image-processing)**
+* **[OpenGL](#opengl)**
+* **[Vulkan](#vulkan)**
+* **[GPU Architecture - Hardware](#gpu-architecture---hardware)**
 
-## Computer Graphics resources
+## Computer Graphics Resources
 
 [Awesome Computer Graphics](https://github.com/lettier/awesome-computer-graphics)
 
