@@ -43,3 +43,5 @@
 [DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.](https://openai.com/dall-e-2/)
 
 [Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets](https://github.com/aquasecurity/trivy)
+
+[Privacy-aware JPEG optimizer](https://jpeg.rocks/)

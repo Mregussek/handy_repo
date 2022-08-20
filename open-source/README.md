@@ -41,7 +41,3 @@
 ## Projects
 
 [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
-
-## Game Development
-
-[Devs who open source their games, why?](https://www.reddit.com/r/gamedev/comments/pi8l15/devs_who_open_source_their_games_why/)
