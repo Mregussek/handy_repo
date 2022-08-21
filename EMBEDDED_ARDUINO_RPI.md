@@ -1,14 +1,14 @@
 
 # Embedded Arduino / Raspberry Pi
 
-* **[aaaaaaa](#resources)**
-* **[aaaaaaa](#learning)**
-* **[aaaaaaa](#debugging)**
-* **[aaaaaaa](#building-projects-on-arm)**
-* **[aaaaaaa](#example-projects)**
-* **[aaaaaaa](#courses)**
-* **[aaaaaaa](#arduino)**
-* **[aaaaaaa](#raspberry-pi)**
+* **[Resources](#resources)**
+* **[Learning](#learning)**
+* **[Debugging](#debugging)**
+* **[Building projects on ARM](#building-projects-on-arm)**
+* **[Example Projects](#example-projects)**
+* **[Courses](#courses)**
+* **[Arduino](#arduino)**
+* **[Raspberry Pi](#raspberry-pi)**
 
 ## Resources
 

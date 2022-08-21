@@ -1,14 +1,14 @@
 
 # C / C++
 
-* **[aaaaaaaaaaaaa](#c-general)**
-* **[aaaaaaaaaaaaa](#cpp-resources)**
-* **[aaaaaaaaaaaaa](#cpp-general)**
-* **[aaaaaaaaaaaaa](#multithreading)**
-* **[aaaaaaaaaaaaa](#build-systems)**
-* **[aaaaaaaaaaaaa](#cmake)**
-* **[aaaaaaaaaaaaa](#linking--compilation)**
-* **[aaaaaaaaaaaaa](#boost-library)**
+* **[C General](#c-general)**
+* **[Cpp resources](#cpp-resources)**
+* **[Cpp General](#cpp-general)**
+* **[Multithreading](#multithreading)**
+* **[Build Systems](#build-systems)**
+* **[CMake](#cmake)**
+* **[Linking / Compilation](#linking--compilation)**
+* **[Boost Library](#boost-library)**
 
 ## C General
 
