@@ -1,8 +1,9 @@
+
 # Hacking
 
 [Kodeks Dobrych Praktyk w zakresie walki z dezinformacją (PDF)](https://www.nask.pl/pl/wlaczweryfikacje/kodeks-dobrych-praktyk/4991,Kodeks-Dobrych-Praktyk.html)
 
-## Github
+## Github Resources
 
 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking))
 

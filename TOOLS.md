@@ -48,3 +48,7 @@
 [Privacy-aware JPEG optimizer](https://jpeg.rocks/)
 
 [asciinema - Record and share your terminal sessions, the simple way.](https://asciinema.org/)
+
+[Privacy and security software list](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)
+
+[Which browser is best for your privacy?](https://privacytests.org/android.html)
