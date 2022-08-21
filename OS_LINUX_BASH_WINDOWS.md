@@ -20,6 +20,10 @@
 
 [Zero to main(): How to Write a Bootloader from Scratch](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
 
+[Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+
+[This website provides information about the creation of operating systems](https://wiki.osdev.org/Main_Page)
+
 ## Linux Resources
 
 [Linux Performance Tools](https://i.redd.it/h1p8r0psc4w61.png)

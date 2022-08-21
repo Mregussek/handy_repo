@@ -28,6 +28,7 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 * **[Vulkan ImGui](#vulkan-imgui)**
 * **[Vulkan Ray Tracing](#vulkan-ray-tracing)**
 * **[Vulkan Multithreading](#vulkan-multithreading)**
+* **[Vulkan Physics](#vulkan-physics)**
 * **[GPU Architecture - Hardware](#gpu-architecture---hardware)**
 * **[Image Processing](#image-processing)**
 
@@ -350,6 +351,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [OGLDEV - has 4 articles about vulkan clear screen and rendering triangle](https://ogldev.org/)
 
+[BREAKING DOWN BARRIERS – PART 1: WHAT’S A BARRIER?](https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/)
+
 ### Vulkan Useful Blogs
 
 [Maister's Graphics Adventures - Low-level graphics programming](https://themaister.net/blog/)
@@ -442,6 +445,12 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [Multithreading Overview in Vulkan](https://vkguide.dev/docs/extra-chapter/multithreading/)
 
+### Vulkan Physics
+
+[Game Physics in One Weekend](https://gamephysicsweekend.github.io/)
+
+[This is a very basic renderer that is meant to be used in conjuction with the Game Physics In One Weekend book series.](https://github.com/gamephysicsweekend/VulkanRenderer)
+
 ## GPU Architecture - Hardware
 
 [How knowledgeable should a graphics programmer be about hardware?](https://www.reddit.com/r/GraphicsProgramming/comments/kwr87e/how_knowledgeable_should_a_graphics_programmer_be/)
@@ -457,6 +466,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [AMD MRDNA 2 Performance guide](https://gpuopen.com/performance/)
 
 [Developer and Optimization Guide for Intel® Processor Graphics Gen11 API](https://www.intel.com/content/www/us/en/developer/articles/guide/developer-and-optimization-guide-for-intel-processor-graphics-gen11-api.html)
+
+[GPU Profiling 101](https://www.reedbeta.com/blog/gpu-profiling-101/)
 
 ## Image Processing
 

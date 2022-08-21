@@ -52,3 +52,5 @@
 [Privacy and security software list](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)
 
 [Which browser is best for your privacy?](https://privacytests.org/android.html)
+
+[Anyone who works with LaTeX knows how time-consuming it can be to find a symbol in symbols-a4.pdf that you just can't memorize. Detexify is an attempt to simplify this search.](https://detexify.kirelabs.org/classify.html)
