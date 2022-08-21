@@ -180,6 +180,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [questions about MSAA -> one fine answer](https://www.reddit.com/r/opengl/comments/n4fzs0/questions_about_msaa/)
 
+[Learning OpenGL And C++ In One Month](https://youtu.be/WsakBTmVciY)
+
 ### OpenGL projects
 
 [Minecraft clone in C and OpenGL in 2 days](https://www.youtube.com/watch?v=4O0_-1NaWnY)
@@ -272,3 +274,5 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [How knowledgeable should a graphics programmer be about hardware?](https://www.reddit.com/r/GraphicsProgramming/comments/kwr87e/how_knowledgeable_should_a_graphics_programmer_be/)
 
 [Where can I find an explanation of how the GPU works?](https://www.reddit.com/r/GraphicsProgramming/comments/ljt8kq/where_can_i_find_an_explanation_of_how_the_gpu/)
+
+[Bryce Adelstein Lelbach - The CUDA C++ Standard Library (+Atomics) - Meeting C++ online](https://youtu.be/-ENnYEWezKo)

@@ -36,7 +36,7 @@ Some of these packages may not be necessary but its nice to have them.
    export PKG_CONFIG_PATH=/usr/share/arm-linux-gnueabihf/pkgconfig:/home/mateusz/mntsysroot/usr/lib/pkgconfig
    arm-linux-gnueabihf-pkg-config --libs gtk+-2.0
    arm-linux-gnueabihf-pkg-config --cflags gtk+-2.0
-     
+
  
 4. Now the regular things.Get opencv and opencv_contrib sources in the "build machine".
    cd ~/
