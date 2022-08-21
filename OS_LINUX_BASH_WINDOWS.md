@@ -1,10 +1,34 @@
-# Linux
 
-[Neofetch - A program (CLI) for neatly displaying information about your Linux system](https://github.com/dylanaraps/neofetch)
+# Operating Systems - Linux with Bash / Windows
+
+* **[Learning OS / Kernels / Bootloaders](#learning-os--kernels--bootloaders)**
+* **[Linux Resources](#linux-resources)**
+* **[Linux General](#linux-general)**
+* **[Programming in terminal](#programming-in-terminal)**
+* **[Bash](#bash)**
+* **[Kali Linux](#kali-linux)**
+* **[Windows](#windows)**
+* **[Windows Subsystem For Linux - WSL](#windows-subsystem-for-linux---wsl)**
+
+## Learning OS / Kernels / Bootloaders
+
+[Understanding key concepts before writing a Kernel](https://seds.nl/posts/writting-a-kernel-part-1/)
+
+[OS from scratch](https://github.com/cfenollosa/os-tutorial)
+
+[How to write bootloader from scratch](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
+
+[Zero to main(): How to Write a Bootloader from Scratch](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
+
+## Linux Resources
+
+[Linux Performance Tools](https://i.redd.it/h1p8r0psc4w61.png)
 
 [Database of articles and tutorials with Linux, containerization and VPS problem](https://www.notion.so/Biblioteka-Mikrusa-3c757621cf9b4fbfb3909fc04a77dbcf)
 
-## General
+[awesome-console-services](https://github.com/chubin/awesome-console-services)
+
+## Linux General
 
 [Accessing raw memory in Embedded Linux](https://vmb-tech.com/blog/access-raw-mem-embedded-linux.html)
 
@@ -28,7 +52,7 @@
 
 [Linux Tips and Tricks from THC group](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
 
-[awesome-console-services](https://github.com/chubin/awesome-console-services)
+[Neofetch - A program (CLI) for neatly displaying information about your Linux system](https://github.com/dylanaraps/neofetch)
 
 ## Programming in terminal
 
@@ -72,10 +96,18 @@
 
 [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 
-## Kali
+## Kali Linux
 
 [PimpMyKali - are you using Kali Linux? These scripts will fix several problems with this distribution](https://github.com/Dewalt-arch/pimpmykali)
 
-## Screens
+## Windows
 
-[Linux Performance Tools](https://i.redd.it/h1p8r0psc4w61.png)
+[Boosting Dropbox upload speed and improving Windows’ TCP stack](https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed)
+
+[What are EXE files made of?](https://www.youtube.com/watch?v=hhgxsrAFyz8&ab_channel=Bisqwit)
+
+## Windows Subsystem For Linux - WSL
+
+[Windows 11 runs Graphical Linux Apps out of the box with WSLg](https://youtu.be/b1YBx1L8op4)
+
+[The Ultimate Guide To Use VS Code With Windows Subsystem for Linux (WSL)](https://dev.to/ajeet/the-ultimate-guide-to-use-vs-code-with-windows-subsystem-for-linux-wsl-51hc)

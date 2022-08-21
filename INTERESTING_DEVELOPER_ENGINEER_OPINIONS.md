@@ -1,3 +1,4 @@
+
 # Developer thoughts
 
 [Working for someone vs. doing your own thing](https://tik.dev/dilemma)
