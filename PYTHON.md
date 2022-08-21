@@ -34,6 +34,10 @@
 
 [Python Refactorings - Part 7](https://sourcery.ai/blog/explaining-refactorings-7/)
 
+# Interpreters
+
+[Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
+
 ## Fascinating
 
 [Why Python is slower than C?](https://www.quora.com/Why-does-C-code-run-faster-than-Pythons)

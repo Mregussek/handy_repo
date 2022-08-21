@@ -263,6 +263,8 @@
 
 [Understanding Convolutional Neural Networks: Making a Handwritten Digit Calculator | Keras #5](https://www.youtube.com/watch?v=eyKwPyOqMg4&feature=emb_title)
 
+[Free Mathematics Courses for Data Science & Machine Learning](https://www.kdnuggets.com/2020/02/free-mathematics-courses-data-science-machine-learning.html)
+
 ### NLP Courses
 
 [A list of NLP(Natural Language Processing) tutorials](https://www.reddit.com/r/MachineLearning/comments/h7kr40/p_a_list_of_nlpnatural_language_processing/)
