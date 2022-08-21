@@ -1,6 +1,16 @@
-# Embedded
 
-DO NOT FORGET TO CHECK **COURSES.md** FILE.
+# Embedded Arduino / Raspberry Pi
+
+* **[aaaaaaa](#resources)**
+* **[aaaaaaa](#learning)**
+* **[aaaaaaa](#debugging)**
+* **[aaaaaaa](#building-projects-on-arm)**
+* **[aaaaaaa](#example-projects)**
+* **[aaaaaaa](#courses)**
+* **[aaaaaaa](#arduino)**
+* **[aaaaaaa](#raspberry-pi)**
+
+## Resources
 
 [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded)
 
@@ -48,7 +58,7 @@ DO NOT FORGET TO CHECK **COURSES.md** FILE.
 
 [Bare metal embedded lecture-5: Linking and analyzing memory map file](https://youtu.be/5aafG5mjZ_Y)
 
-## Projects
+## Example projects
 
 [Make own USB keyboard from scratch](http://blakesmith.me/2019/01/16/making-my-own-usb-keyboard-from-scratch.html)
 
@@ -65,3 +75,55 @@ DO NOT FORGET TO CHECK **COURSES.md** FILE.
 [So how does a PS/2 keyboard interface work?](https://youtu.be/7aXbh9VUB3U)
 
 [HakByte: Gather WiFi Reconnaissance on this $5 MicroController (ESP8266)](https://youtu.be/SPOCmnPj41E)
+
+## Courses
+
+[Embedded Systems - Shape The World: Microcontroller Input/Output](https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-i)
+
+[Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware)
+
+[Introduction to FPGA Design for Embedded Systems](https://www.coursera.org/learn/intro-fpga-design-embedded-systems)
+
+[Sensors and Sensor Circuit Design](https://www.coursera.org/learn/sensors-circuit-interface)
+
+[Modern Embedded Systems Programming Course](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
+
+[Embedded Systems - Shape The World: Microcontroller Input/Output](https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-i)
+
+[STM32 TUTORIALS | ARM-BASED MICROCONTROLLERS PROGRAMMING TUTORIALS](https://deepbluembedded.com/stm32-arm-programming-tutorials/)
+
+[Embedded Systems & ARM-Based Microcontrollers Programming [Tutorials]](https://www.reddit.com/r/ECE/comments/hl6fkg/embedded_systems_armbased_microcontrollers/)
+
+## Arduino
+
+[Arduino Neural Network Robot](https://github.com/IdleHandsProject/makennbot)
+
+## Raspberry Pi
+
+[RPi crosscompilation](https://github.com/HesselM/rpicross_notes)
+
+[RPi Pinout](https://pinout.xyz/)
+
+[How to Make a Raspberry Pi VPN Server](https://www.electromaker.io/tutorial/blog/raspberry-pi-vpn-server)
+
+[Using a Raspberry Pi as Your Development Server](https://dev.to/pluralsight/using-a-raspberry-pi-as-your-development-server-28c)
+
+[Build your own multi-room audio system with Bluetooth, Airplay, and Spotify using Raspberry Pis](https://www.balena.io/blog/diy-raspberry-pi-multi-room-audio-system/)
+
+[#Raspberry Pi 4B: Real-Time System using Preempt-RT (kernel 4.19.y)](https://lemariva.com/blog/2019/08/raspberry-pi-4b-preempt-rt-kernel-419y-performance-test)
+
+[Does anyone have experience with installing opencv on a raspberry pi?](https://www.reddit.com/r/opencv/comments/g89k7r/question_does_anyone_have_experience_with/)
+
+### Raspberry Pi Projects
+
+[Real-Time Person Tracking on the Edge with a Raspberry Pi](https://heartbeat.fritz.ai/real-time-person-tracking-on-the-edge-with-a-raspberry-pi-93ae636af9fa)
+
+[Building a Raspberry Pi Thermal Imaging Camera - MLX90640 Guide](https://www.reddit.com/r/raspberry_pi/comments/i75260/building_a_raspberry_pi_thermal_imaging_camera/)
+
+[Turning a Raspberry Pi 3B+ into a powerful object recognition edge server with Intel Movidius NCS2](https://towardsdatascience.com/turning-a-raspberry-pi-3b-into-an-object-recognition-server-with-intel-movidius-ncs2-8dcfebebb2d6)
+
+[e-ink display which shows your last played track and listening stats from last.fm](https://www.reddit.com/r/raspberry_pi/comments/h7tkqi/eink_display_which_shows_your_last_played_track/)
+
+[Real Time Face Detection on the RaspberryPi-4](https://www.instructables.com/id/Real-Time-Face-Detection-on-the-RaspberryPi-4/)
+
+[A physical calendar built on an e-paper display, controlled by a Raspberry Pi and synchronizing with Google Calendar](https://github.com/speedyg0nz/MagInkCal)
