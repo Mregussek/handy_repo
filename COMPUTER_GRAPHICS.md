@@ -237,6 +237,14 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Learning OpenGL And C++ In One Month](https://youtu.be/WsakBTmVciY)
 
+[Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/index.html)
+
+[This guide will teach you the basics of using OpenGL to develop modern graphics applications.](https://open.gl/)
+
+[OpenGL Blog nehe.gamedev.net](http://nehe.gamedev.net/)
+
+[OGLDEV Blog](https://ogldev.org/)
+
 ### OpenGL projects
 
 [Minecraft clone in C and OpenGL in 2 days](https://www.youtube.com/watch?v=4O0_-1NaWnY)
@@ -339,6 +347,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [Tips and Tricks: Vulkan Dos and Don’ts](https://developer.nvidia.com/blog/vulkan-dos-donts/)
 
 [Render graphs and Vulkan — a deep dive](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
+
+[OGLDEV - has 4 articles about vulkan clear screen and rendering triangle](https://ogldev.org/)
 
 ### Vulkan Useful Blogs
 
