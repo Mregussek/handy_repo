@@ -8,13 +8,28 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 * **[Computer Graphics Resources](#computer-graphics-resources)**
 * **[Computer Graphics Learning](#computer-graphics-learning)**
 * **[PBR - Physically Based Rendering](#pbr---physically-based-rendering)**
+* **[Normal Mapping](#normal-mapping)**
 * **[Global Illumination](#global-illumination)**
 * **[Ray Tracing](#ray-tracing)**
 * **[Shaders](#shaders)**
-* **[Image Processing](#image-processing)**
+* **[Renderers Architecture](#renderers-architecture)**
 * **[OpenGL](#opengl)**
 * **[Vulkan](#vulkan)**
+* **[Vulkan Resources](#vulkan-resources)**
+* **[Vulkan How To Start](#vulkan-how-to-start)**
+* **[Vulkan Learning](#vulkan-learning)**
+* **[Vulkan Useful Blogs](#vulkan-useful-blogs)**
+* **[Vulkan Useful Libraries](#vulkan-useful-libraries)**
+* **[Vulkan Debugging](#vulkan-debugging)**
+* **[Vulkan Synchronization](#vulkan-synchronization)**
+* **[Vulkan Memory Management](#vulkan-memory-management)**
+* **[Vulkan Bindless / Descriptor Indexing](#vulkan-bindless--descriptor-indexing)**
+* **[Vulkan Shaders / SPIR-V](#vulkan-shaders--spir-v)**
+* **[Vulkan ImGui](#vulkan-imgui)**
+* **[Vulkan Ray Tracing](#vulkan-ray-tracing)**
+* **[Vulkan Multithreading](#vulkan-multithreading)**
 * **[GPU Architecture - Hardware](#gpu-architecture---hardware)**
+* **[Image Processing](#image-processing)**
 
 ## Computer Graphics Resources
 
@@ -26,7 +41,15 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Graphics Programming Virtual Meetup Resources](https://github.com/Graphics-Programming-Virtual-Meetup/Resources)
 
+[Graphics Programming's Discord knowledge base.](https://graphics-programming.org/resources/)
+
+[Computer Graphics at TU Wien](https://www.youtube.com/channel/UCS9CFdjdEcq_NhaSFb_P-yA/videos)
+
+## Conferences
+
 ## Computer Graphics Learning
+
+[Finding Your Home in Game Graphics Programming](https://alextardif.com/LearningGraphics.html)
 
 [Introduction to Computer Graphics (fall 2020 lecture series)](https://www.reddit.com/r/GraphicsProgramming/comments/kmw3u9/introduction_to_computer_graphics_fall_2020/)
 
@@ -40,6 +63,28 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Help for fluid volume(signed distance field) rendering.](https://www.reddit.com/r/opengl/comments/ihij63/help_for_fluid_volumesigned_distance_field/)
 
+[Scratch Pixel - Learn Computer Graphics - 40 lessons. 180 chapters. 515,000 words. C++ source code.](https://www.scratchapixel.com/)
+
+[A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
+
+[The Graphics Codex](https://graphicscodex.courses.nvidia.com/app.html)
+
+[3D Math Primer for Graphics and Game Development](https://gamemath.com/)
+
+[the Journal of Computer Graphics Techniques](https://jcgt.org/read.html)
+
+[Guide on writing a (C++) Vector Math Library](https://www.reedbeta.com/blog/on-vector-math-libraries/)
+
+[GPU Gems 1 2 3 books on NVIDIA developer page](https://developer.nvidia.com/gpugems/gpugems/contributors)
+
+## Computer Graphics Blogs
+
+[Jacco Bikker Blog](https://jacco.ompf2.com/)
+
+[Self Shadow Blog](https://blog.selfshadow.com/)
+
+[Nikita Lisitsa Blog](https://lisyarus.github.io/blog/)
+
 ## PBR - Physically Based Rendering
 
 [Moving Frostbite to Physically Based Rendering 3.0](https://seblagarde.files.wordpress.com/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf)
@@ -49,6 +94,12 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Does anyone know good resources for learning PBR shading?](https://www.reddit.com/r/opengl/comments/iupunb/does_anyone_know_good_resources_for_learning_pbr/)
 
 [Tried implementing PBR in OpenGL](https://www.reddit.com/r/opengl/comments/gksfcx/tried_implementing_pbr_in_opengl/)
+
+[Physically Based Rendering:From Theory To Implementation](https://www.pbr-book.org/)
+
+## Normal Mapping
+
+[Three Normal Mapping Techniques Explained For the Mathematically Uninclined](https://www.gamedeveloper.com/programming/three-normal-mapping-techniques-explained-for-the-mathematically-uninclined)
 
 ## Global Illumination
 
@@ -98,6 +149,12 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [2.6.1. Ray tracing with OpenGL Compute Shaders (Part I)](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29)
 
+[Various articles on raytracing and related techniques](https://iquilezles.org/articles/)
+
+[Best Practices: Using NVIDIA RTX Ray Tracing](https://developer.nvidia.com/blog/best-practices-using-nvidia-rtx-ray-tracing/)
+
+[Tips and Tricks: Ray Tracing Best Practices](https://developer.nvidia.com/blog/rtx-best-practices/)
+
 ## Shaders
 
 ### Shader Learning
@@ -112,11 +169,23 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Where to Learn Shaders](https://www.reddit.com/r/gamedev/comments/nj1gh2/where_to_learn_shaders/)
 
+[This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.](https://thebookofshaders.com/)
+
+[3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+
+[An introduction to shader derivative functions](http://www.aclockworkberry.com/shader-derivative-functions/)
+
+[Compute shader glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
+
 ### Shader websites
 
 [shdr.bkcore.com/](http://shdr.bkcore.com/)
 
 [shadertoy.com](https://www.shadertoy.com/)
+
+## Renderers Architecture
+
+[FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.slideshare.net/DICEStudio/framegraph-extensible-rendering-architecture-in-frostbite)
 
 ## Renderers example projects
 
@@ -126,21 +195,7 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Wrapper for old 3D rasterizer APIs (work in progress)](https://www.reddit.com/r/GraphicsProgramming/comments/k46z7l/wrapper_for_old_3d_rasterizer_apis_work_in/)
 
-## Image Processing
-
-[How to understand RGB?](https://ciechanow.ski/color-spaces/)
-
-[What is the hexadecimal?](https://medium.com/wait-what/what-the-hex-467566b120af)
-
-[Everything you know about color was wrong](https://youtu.be/_zQ_uBAHA4A)
-
-[Ditherpunk — The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
-
-[Fundamentals of Digital Image and Video Processing (Coursera Course)](https://www.coursera.org/learn/digital)
-
-[EGGN 510 - Image and Multidimensional Signal Processing (YT course)](https://www.youtube.com/playlist?list=PLyED3W677ALNv8Htn0f9Xh-AHe1aZPftv)
-
-[Digital Image processing (YT course)](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs)
+[Light Tracer Render - Intuitive Tool for Highest Quality Product Rendering](https://lighttracer.org/)
 
 ## OpenGL
 
@@ -196,6 +251,22 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Vulkan® 1.3.220 - A Specification](https://www.khronos.org/registry/vulkan/specs/1.3/html/index.html)
 
+[Vulkan Headers](https://github.com/KhronosGroup/Vulkan-Headers)
+
+[Vulkan® API Documentation Project](https://github.com/KhronosGroup/Vulkan-Docs)
+
+[Vulkan® Guide](https://github.com/KhronosGroup/Vulkan-Guide)
+
+[Vulkan YT Channel](https://www.youtube.com/c/Vulkan/videos)
+
+[Vulkan Ecosystem Components - This project provides the Khronos official Vulkan validation layers](https://github.com/KhronosGroup/Vulkan-ValidationLayers)
+
+[Khronos Group's Vulkan samples](https://github.com/KhronosGroup/Vulkan-Samples)
+
+[SaschaWillems' examples](https://github.com/SaschaWillems/Vulkan)
+
+[Vulkan Hardware Database gpuinfo.org](https://vulkan.gpuinfo.org/)
+
 ### Vulkan How To Start
 
 // 1:
@@ -227,6 +298,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 ### Vulkan Learning
 
+[Understanding Vulkan objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
+
 [A from scratch book on Vulkan](https://www.reddit.com/r/vulkan/comments/k95rd6/a_from_scratch_book_on_vulkan/)
 
 [Best book/website to learn vulkan from scratch?](https://www.reddit.com/r/vulkan/comments/j3f58c/best_bookwebsite_to_learn_vulkan_from_scratch/)
@@ -241,8 +314,6 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [from OpenGL to Vulkan](https://www.reddit.com/r/vulkan/comments/ii1rki/from_opengl_to_vulkan/)
 
-[Multithreading Overview in Vulkan](https://vkguide.dev/docs/extra-chapter/multithreading/)
-
 [Render graphs and Vulkan — a deep dive](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 
 [GPU Driven Rendering Overview](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/)
@@ -254,6 +325,88 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [Vulkan interview](https://www.reddit.com/r/vulkan/comments/lev3z8/vulkan_interview/)
 
 [Vulkan as an alternative to CUDA in scientific simulation software](https://www.reddit.com/r/compsci/comments/ii6lxb/vulkan_as_an_alternative_to_cuda_in_scientific/)
+
+[Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
+
+[Mike Bailey's Vulkan Page - Oregon University](https://web.engr.oregonstate.edu/~mjb/vulkan/)
+
+[a-simple-triangle](https://marcelbraghetto.github.io/a-simple-triangle/)
+
+[Raw Vulkan - An overview on how to program a Hello Triangle Vulkan application from the ground up.](https://alain.xyz/blog/raw-vulkan)
+
+[Vulkan with Rust by example](https://nikitablack.github.io/post/vulkan_with_rust_by_example_0_introduction/)
+
+[Tips and Tricks: Vulkan Dos and Don’ts](https://developer.nvidia.com/blog/vulkan-dos-donts/)
+
+[Render graphs and Vulkan — a deep dive](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
+
+### Vulkan Useful Blogs
+
+[Maister's Graphics Adventures - Low-level graphics programming](https://themaister.net/blog/)
+
+[Sascha Willems - I make computer beep boop beep (and write code to do so)](https://www.saschawillems.de/)
+
+[LunarG - Get the Latest 3D Graphics Engineering News](https://www.lunarg.com/news-insights/news/)
+
+### Vulkan Useful Libraries
+
+[Vulkan Memory Allocator - Easy to integrate Vulkan memory allocation library.](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)
+
+[volk is a meta-loader for Vulkan.](https://github.com/zeux/volk)
+
+[A utility library that jump starts initialization of Vulkan](https://github.com/charles-lunarg/vk-bootstrap)
+
+### Vulkan Debugging
+
+[RenderDoc is a frame-capture based graphics debugger](https://github.com/baldurk/renderdoc)
+
+[NVIDIA Nsight Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition)
+
+[Radeon™ GPU Profiler, a ground-breaking low-level optimization tool that provides detailed information on Radeon™ GPUs](https://gpuopen.com/rgp/)
+
+[Using Debug Printf](https://github.com/KhronosGroup/Vulkan-ValidationLayers/blob/master/docs/debug_printf.md)
+
+### Vulkan Synchronization
+
+[Understanding Vulkan Synchronization](https://www.khronos.org/blog/understanding-vulkan-synchronization)
+
+[Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
+
+[Vulkan Timeline Semaphores](https://www.khronos.org/blog/vulkan-timeline-semaphores)
+
+### Vulkan Memory Management
+
+[A Simple Device Memory Allocator For Vulkan](http://kylehalladay.com/blog/tutorial/2017/12/13/Custom-Allocators-Vulkan.html)
+
+[VULKAN MEMORY MANAGEMENT : HOW TO WRITE YOUR OWN ALLOCATOR](https://cpp-rendering.io/vulkan-memory-management-2/)
+
+[Vulkan Memory Management - NVIDIA](https://developer.nvidia.com/vulkan-memory-management)
+
+### Vulkan Bindless / Descriptor Indexing
+
+[New game changing Vulkan extensions for mobile: Descriptor Indexing](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/vulkan-descriptor-indexing)
+
+[Descriptor Indexing (Khronos Group YT video)](https://youtu.be/tXipcoeuNh4)
+
+[Bindless Descriptors - WickedEngine](https://wickedengine.net/2021/04/06/bindless-descriptors/)
+
+[How do you descriptor set? - DethRaid](https://gist.github.com/DethRaid/0171f3cfcce51950ee4ef96c64f59617)
+
+[A note on Descriptor Indexing](https://chunkstories.xyz/blog/a-note-on-descriptor-indexing/)
+
+### Vulkan Shaders / SPIR-V
+
+[The OpenGL® Shading Language, Version 4.60.7](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.60.html)
+
+[glslang](https://github.com/KhronosGroup/glslang)
+
+[shaderc - A collection of tools, libraries and tests for shader compilation.](https://github.com/google/shaderc)
+
+[SPIRV-Reflect - lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.](https://github.com/KhronosGroup/SPIRV-Reflect)
+
+[SPIRV-Cross - tool designed for parsing and converting SPIR-V to other shader languages.](https://github.com/KhronosGroup/SPIRV-Cross)
+
+[SPIR-V Tools - provides an API and commands for processing SPIR-V modules.](https://github.com/KhronosGroup/SPIRV-Tools)
 
 ### Vulkan ImGui
 
@@ -269,6 +422,16 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [Transition guide from VK_NV_raytracing to (final) VK_KHR_raytracing!](https://toomuchvoltage.github.io/nv_to_khr_raytracing/)
 
+[vk_mini_path_tracer - A relatively small, beginner-friendly path tracing tutorial](https://nvpro-samples.github.io/vk_mini_path_tracer/)
+
+[Ray-tracing: Extended features and dynamic objects (Khronos Github)](https://github.com/KhronosGroup/Vulkan-Samples/tree/master/samples/extensions/raytracing_extended)
+
+[vk_raytracing_tutorial_KHR - basic integration of ray tracing within an existing Vulkan sample, using the VK_KHR_ray_tracing_pipeline extension.](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
+
+### Vulkan Multithreading
+
+[Multithreading Overview in Vulkan](https://vkguide.dev/docs/extra-chapter/multithreading/)
+
 ## GPU Architecture - Hardware
 
 [How knowledgeable should a graphics programmer be about hardware?](https://www.reddit.com/r/GraphicsProgramming/comments/kwr87e/how_knowledgeable_should_a_graphics_programmer_be/)
@@ -276,3 +439,27 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [Where can I find an explanation of how the GPU works?](https://www.reddit.com/r/GraphicsProgramming/comments/ljt8kq/where_can_i_find_an_explanation_of_how_the_gpu/)
 
 [Bryce Adelstein Lelbach - The CUDA C++ Standard Library (+Atomics) - Meeting C++ online](https://youtu.be/-ENnYEWezKo)
+
+[A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+
+[Organizing GPU Work with Directed Acyclic Graphs](https://levelup.gitconnected.com/organizing-gpu-work-with-directed-acyclic-graphs-f3fd5f2c2af3)
+
+[AMD MRDNA 2 Performance guide](https://gpuopen.com/performance/)
+
+[Developer and Optimization Guide for Intel® Processor Graphics Gen11 API](https://www.intel.com/content/www/us/en/developer/articles/guide/developer-and-optimization-guide-for-intel-processor-graphics-gen11-api.html)
+
+## Image Processing
+
+[How to understand RGB?](https://ciechanow.ski/color-spaces/)
+
+[What is the hexadecimal?](https://medium.com/wait-what/what-the-hex-467566b120af)
+
+[Everything you know about color was wrong](https://youtu.be/_zQ_uBAHA4A)
+
+[Ditherpunk — The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
+
+[Fundamentals of Digital Image and Video Processing (Coursera Course)](https://www.coursera.org/learn/digital)
+
+[EGGN 510 - Image and Multidimensional Signal Processing (YT course)](https://www.youtube.com/playlist?list=PLyED3W677ALNv8Htn0f9Xh-AHe1aZPftv)
+
+[Digital Image processing (YT course)](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs)

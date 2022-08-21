@@ -120,6 +120,8 @@
 
 [How to Improve the About This Game section on your Steam store page](https://www.reddit.com/r/gamedev/comments/n79e4l/how_to_improve_the_about_this_game_section_on/)
 
+[Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
+
 ## Game Marketing
 
 [5 Marketing lessons I learned releasing my first commercial indie game](https://www.reddit.com/r/gamedev/comments/kx4jyr/5_marketing_lessons_i_learned_releasing_my_first/)
