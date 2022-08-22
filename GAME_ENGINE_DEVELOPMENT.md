@@ -34,6 +34,8 @@
 
 [Should I use C++ with STL to make a game engine?](https://www.reddit.com/r/cpp_questions/comments/gdtk5n/should_i_use_c_with_stl_to_make_a_game_engine/)
 
+[Make Games Not Engines... to Learn Engines](https://seanmiddleditch.github.io/makes-games-not-engines-to-learn-engines/)
+
 ## Game Engine Subsystems
 
 ### Entity Component System
@@ -65,6 +67,16 @@
 [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
 
 ## Game Engines Projects
+
+[NVIDIA's Falcor is an open-source real-time rendering framework designed specifically for rapid prototyping.](https://developer.nvidia.com/falcor)
+
+[AMD's simple framework for rapid prototyping on Vulkan or DirectX12.](https://github.com/GPUOpen-LibrariesAndSDKs/Cauldron)
+
+[raylib is a simple and easy-to-use library to enjoy videogames programming.](https://github.com/raysan5/raylib)
+
+[The G3D Innovation Engine is a commercial-grade C++ 3D engine available as Open Source](https://casual-effects.com/g3d/www/index.html)
+
+[GODOT 2D and 3D cross-platform game engine](https://godotengine.org/)
 
 [WickedEngine](https://github.com/turanszkij/WickedEngine)
 

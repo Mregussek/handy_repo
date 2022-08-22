@@ -156,6 +156,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Tips and Tricks: Ray Tracing Best Practices](https://developer.nvidia.com/blog/rtx-best-practices/)
 
+[Business card raytracer / eventual IOCCC winner](https://github.com/mzucker/miniray)
+
 ## Shaders
 
 ### Shader Learning
