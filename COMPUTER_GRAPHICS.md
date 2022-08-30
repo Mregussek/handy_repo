@@ -112,6 +112,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Real time global illumination techniques?](https://www.reddit.com/r/GraphicsProgramming/comments/jhh84i/real_time_global_illumination_techniques/)
 
+[Journey to Lumen](https://knarkowicz.wordpress.com/2022/08/18/journey-to-lumen/)
+
 ## Ray Tracing
 
 [CppCon 2019: Matt Godbolt “Path Tracing Three Ways: A Study of C++ Style”](https://youtu.be/HG6c4Kwbv4I)
@@ -157,6 +159,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Tips and Tricks: Ray Tracing Best Practices](https://developer.nvidia.com/blog/rtx-best-practices/)
 
 [Business card raytracer / eventual IOCCC winner](https://github.com/mzucker/miniray)
+
+[The RTX Shader Binding Table Three Ways](https://www.willusher.io/graphics/2019/11/20/the-sbt-three-ways)
 
 ## Shaders
 

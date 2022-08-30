@@ -20,6 +20,10 @@
 
 [Czego nauczyliśmy się o blockchainie w trakcie wywiadu z kryptologiem](https://www.internet-czas-dzialac.pl/odcinek-31-blockchain/)
 
+[Jak czytać cenę? Część V: Analiza techniczna – finansowa magia voodoo](https://cryps.pl/poradnik/jak-czytac-cene-czesc-v-analiza-techniczna-finansowa-magia-voodoo/)
+
+[Strategia "Whale watching"](https://cryptofrenzy.files.wordpress.com/2014/02/god.pdf)
+
 ## Fascinating
 
 [How do you start accepting Bitcoin as a payment method on your site?](https://neilpatel.com/blog/crypto-payments/)

@@ -80,6 +80,8 @@
 
 [WickedEngine](https://github.com/turanszkij/WickedEngine)
 
+[Esoterica Engine is an MIT licensed prototype game engine framework. It’s intended as a technology demonstrator, an educational tool and an R&D framework.](https://www.esotericaengine.com/)
+
 [MxEngine](https://github.com/asc-community/MxEngine)
 
 [Rootex](https://github.com/sdslabs/rootex)
