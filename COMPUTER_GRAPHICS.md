@@ -439,6 +439,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [Vulkan RT Tutorial With Minimal Abstraction](https://www.reddit.com/r/vulkan/comments/kvbupb/vulkan_rt_tutorial_with_minimal_abstraction/)
 
+[Introduction to Real-Time Ray Tracing with Vulkan](https://developer.nvidia.com/blog/vulkan-raytracing/)
+
 [NVIDIA Vulkan Ray Tracing Tutorial](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
 
 [Transition guide from VK_NV_raytracing to (final) VK_KHR_raytracing!](https://toomuchvoltage.github.io/nv_to_khr_raytracing/)
@@ -448,6 +450,10 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [Ray-tracing: Extended features and dynamic objects (Khronos Github)](https://github.com/KhronosGroup/Vulkan-Samples/tree/master/samples/extensions/raytracing_extended)
 
 [vk_raytracing_tutorial_KHR - basic integration of ray tracing within an existing Vulkan sample, using the VK_KHR_ray_tracing_pipeline extension.](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
+
+[Ray Tracing In Vulkan](https://github.com/GPSnoopy/RayTracingInVulkan)
+
+[Vulkan compute shader based ray tracer.](https://github.com/grigoryoskin/vulkan-compute-ray-tracing)
 
 ### Vulkan Multithreading
 
