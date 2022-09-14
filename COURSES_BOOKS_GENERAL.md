@@ -1,6 +1,10 @@
 
 # Courses / Books in general
 
+## Resources
+
+[Providing researchers with access to millions of scientific documents from journals, books, series, protocols, reference works and proceedings.](https://link.springer.com/)
+
 ## Books
 
 [mdBook - app for creating books](https://github.com/rust-lang/mdBook)

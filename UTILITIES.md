@@ -1,6 +1,8 @@
 
 # Utilities stuff
 
+[Build your own ...](https://github.com/danistefanovic/build-your-own-x)
+
 ## File Formats
 
 [Why is YAML evil and why should we move away from it?](https://noyaml.com/)
@@ -18,6 +20,8 @@
 [Movies For Hackers](https://hackermovie.club/)
 
 [DNA seen through the eyes of a coder (or, If you are a hammer, everything looks like a nail)](https://berthub.eu/articles/posts/amazing-dna/)
+
+[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 
 ## Automotive
 

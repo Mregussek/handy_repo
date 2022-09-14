@@ -184,6 +184,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Compute shader glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
 
+[Visualizing General Relativity](https://michaelmoroz.github.io/TracingGeodesics/)
+
 ### Shader websites
 
 [shdr.bkcore.com/](http://shdr.bkcore.com/)
