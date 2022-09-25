@@ -359,7 +359,7 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [OGLDEV - has 4 articles about vulkan clear screen and rendering triangle](https://ogldev.org/)
 
-[BREAKING DOWN BARRIERS – PART 1: WHAT’S A BARRIER?](https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/)
+[Breaking Down Barriers - Part 1: What's a Barrier?](https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/)
 
 [Computer Graphics at TU Wien Vulkan Course](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE0UsR2E_84-twxX6G7ynZNq)
 
