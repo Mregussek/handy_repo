@@ -24,6 +24,10 @@
 
 [Strategia "Whale watching"](https://cryptofrenzy.files.wordpress.com/2014/02/god.pdf)
 
+[I Looked Into 34 Top Real-World Blockchain Projects So You Don’t Have To](https://weh.wtf/34-blockchain-projects.html)
+
+[Bitcoin Is Not a Store-of-Value.](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
+
 ## Fascinating
 
 [How do you start accepting Bitcoin as a payment method on your site?](https://neilpatel.com/blog/crypto-payments/)

@@ -83,6 +83,8 @@
 
 [Python ML courses proposals on reddit](https://www.reddit.com/r/Python/comments/cew4iw/python_machine_learning/)
 
+[How are memories stored in neural networks? | The Hopfield Network (YT video)](https://youtu.be/piF6D6CQxUw)
+
 ### NLP Learning
 
 [Zero to Hero... NLP project edition](https://www.reddit.com/r/learnmachinelearning/comments/feceyu/zero_to_hero_nlp_project_edition/)

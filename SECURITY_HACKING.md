@@ -47,6 +47,8 @@
 
 [A collection of comic strips and flyers that graphically illustrate issues in the security industry](https://securityzines.com/#comics)
 
+[A different type of scam](https://splashdot.github.io/scam1/)
+
 ## Fascinating
 
 [Why offer an Onion Address rather than just encourage browsing-over-Tor?](https://alecmuffett.com/article/16007)

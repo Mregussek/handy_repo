@@ -64,6 +64,10 @@
 
 [Getting ready to start a new job as VP of Engineering. What would you want me to do if I were your boss?](https://www.reddit.com/r/cscareerquestions/comments/ojdtog/getting_ready_to_start_a_new_job_as_vp_of/)
 
+[Why your daily stand-ups don't work and how to fix them](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html)
+
+[Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
+
 ## Making money
 
 [I charged $18,000 for a Static HTML Page](https://idiallo.com/blog/18000-dollars-static-web-page)
@@ -113,6 +117,8 @@
 [An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 
 [The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](https://www.samjulien.com/shy-dev-networking)
+
+[How to find a job as Software Developer in Germany? (step-by-step guide)](https://germantechjobs.de/blog/how-to-find-job-as-software-developer-in-germany-complete-guide)
 
 ## Remote Job
 
@@ -195,3 +201,5 @@
 [It takes a village to build an open-source project and a single a**hole to demotivate everyone](https://www.reddit.com/r/Python/comments/npkm6o/it_takes_a_village_to_build_an_opensource_project/)
 
 [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
+
+[Awesome Open Source YT channel](https://www.youtube.com/c/AwesomeOpenSource/videos)

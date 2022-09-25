@@ -127,3 +127,5 @@
 [Real Time Face Detection on the RaspberryPi-4](https://www.instructables.com/id/Real-Time-Face-Detection-on-the-RaspberryPi-4/)
 
 [A physical calendar built on an e-paper display, controlled by a Raspberry Pi and synchronizing with Google Calendar](https://github.com/speedyg0nz/MagInkCal)
+
+[ODROID.pl – Stwórz swój pierwszy serwer na bazie platformy ODROID (lub Raspberry Pi). Od zera do bohatera, prostymi słowami. Stawiamy na rozwiązania otwartoźródłowe (open source) i samodzielnie hostowane (self hosted)!](https://odroid.pl/blog/spis-tresci/)

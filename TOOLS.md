@@ -54,3 +54,21 @@
 [Which browser is best for your privacy?](https://privacytests.org/android.html)
 
 [Anyone who works with LaTeX knows how time-consuming it can be to find a symbol in symbols-a4.pdf that you just can't memorize. Detexify is an attempt to simplify this search.](https://detexify.kirelabs.org/classify.html)
+
+[Print your memories Create personalized posters that retrace the routes of your road trips, travels, marathons…](https://www.paperoad.com/en)
+
+[What would Your city look like? Create a 3D city from your GitHub contributions.](https://honzaap.github.io/GithubCity/)
+
+[OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources](https://osintframework.com/)
+
+[RustDesk -> A remote desktop software, the open source TeamViewer alternative, works out of the box, no configuration required.](https://rustdesk.com/)
+
+[snoopforms -> The Open-source Typeform Alternative.](https://snoopforms.com/)
+
+[chronotrains -> How far can you get by train in 5h?](https://www.chronotrains.com/?zoom=5.4&lng=18.2&lat=48.3)
+
+[JSON Hero - a convenient online tool for viewing JSON files](https://jsonhero.io/)
+
+[PDF24 Tools Free and easy-to-use online PDF tools that make you more productive.](https://tools.pdf24.org/en/)
+
+[Open Source Bitly Alternative Dub is an open-source link shortener with built-in analytics and free custom domains.](https://dub.sh/)

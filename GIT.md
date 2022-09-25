@@ -31,6 +31,12 @@
 
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 
+[Calling git a blockchain to rebrand bad tech](https://rubenerd.com/please-stop-saying-git-is-a-blockchain/)
+
+## Github
+
+[A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
+
 ## Good practices
 
 [Git rebase and merge comparison](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)

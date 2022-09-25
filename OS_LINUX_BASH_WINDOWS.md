@@ -32,6 +32,8 @@
 
 [awesome-console-services](https://github.com/chubin/awesome-console-services)
 
+[ameReady 🎮 Install WINE, Winetricks, Lutris, Xanmod Kernel, GameMode, WINE Dependencies in just a single click. No hassle, no hustle.](https://github.com/NayamAmarshe/gameready)
+
 ## Linux General
 
 [Accessing raw memory in Embedded Linux](https://vmb-tech.com/blog/access-raw-mem-embedded-linux.html)
