@@ -520,6 +520,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [EmberGL (Ember Graphics Library) is a low-level open source graphics library, similar to OpenGL/DirectX/Vulkan, designed for real-time 2D/3D rendering on MCUs and other memory constrained non-GPU systems.](https://github.com/EmberGL-org/EmberGL)
 
+[LuxCoreRender is a physically based and unbiased rendering engine.](https://luxcorerender.org/)
+
 ## Debugging
 
 ### renderdoc
