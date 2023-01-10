@@ -31,9 +31,11 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 * **[Vulkan Physics](#vulkan-physics)**
 * **[GPU Architecture - Hardware](#gpu-architecture---hardware)**
 * **[Upscaling technology](#upscaling-technology)**
-* **[CUDA][#cuda]**
+* **[Projects - Graphics libraries](#projects---graphics-libraries)**
+* **[Debugging](#debugging)**
+* **[CUDA](#cuda)**
 * **[Image Processing](#image-processing)**
-* **[DirectX][#directx]**
+* **[DirectX](#directx)**
 
 ## Computer Graphics Resources
 
@@ -52,6 +54,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Computer Graphics at UTAH University](https://graphics.cs.utah.edu/courses/)
 
 ## Conferences
+
+[Advances in Real-Time Rendering in Games course](http://advances.realtimerendering.com/s2022/index.html)
 
 ## Computer Graphics Learning
 
@@ -174,6 +178,10 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [EA GDC 2018: Shiny Pixels and Beyond: Real-Time Raytracing at SEED](https://www.ea.com/seed/news/seed-gdc-2018-presentation-slides-shiny-pixels)
 
 [TU Wien Rendering / Ray Tracing Course](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
+
+[Practical Tips for Optimizing Ray Tracing](https://developer.nvidia.com/blog/practical-tips-for-optimizing-ray-tracing/)
+
+[Intel® Arc™ Graphics Developer Guide for Real-Time Ray Tracing in Games](https://www.intel.com/content/www/us/en/developer/articles/guide/real-time-ray-tracing-in-games.html)
 
 ## Shaders
 
@@ -507,6 +515,16 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 ## Upscaling technology
 
 [FidelityFX Super Resolution 2.1 (FSR 2.1.2) github](https://github.com/GPUOpen-Effects/FidelityFX-FSR2#introduction)
+
+## Projects - Graphics libraries
+
+[EmberGL (Ember Graphics Library) is a low-level open source graphics library, similar to OpenGL/DirectX/Vulkan, designed for real-time 2D/3D rendering on MCUs and other memory constrained non-GPU systems.](https://github.com/EmberGL-org/EmberGL)
+
+## Debugging
+
+### renderdoc
+
+[I just opened Plague Tale Requiem in a renderdoc. (twitter analysis)](https://twitter.com/newincpp/status/1587454519268593664?t=r7mvVA7pWZ_iehr6V1hXXw&s=19&fbclid=IwAR0SAQu9_KMESN-5mL-SqI_53wGqkgjBw-EdWPeSsyknZDToy-1P62pvYmw)
 
 ## CUDA
 

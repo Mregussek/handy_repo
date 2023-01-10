@@ -1,6 +1,40 @@
 
 # Tools
 
+## No need to register account
+
+[Photopea -> online photo editor](https://www.photopea.com/)
+
+[BOXY SVG EDYTOR GRAFIKI WEKTOROWEJ](https://boxy-svg.com/app)
+
+[A tiny little drawing app.](https://www.tldraw.com/)
+
+[Globs Design edytor grafiki wektorowej](https://www.globs.design/)
+
+[Alma -> interactive playground for generative graphics](https://www.alma.sh/)
+
+[AudioMass is a free, open source, web-based Audio and Waveform Editor.](https://audiomass.co/)
+
+[Hexed.it: Analyse and edit binary files wherever you want, on any operating system, whether on a desktop or smartphone, and without installing any software.](https://hexed.it/)
+
+[WebVM is a server-less virtual linux env running fully client-side in HTML5/WebAssembly](https://webvm.io/)
+
+[SculptGL is a digital sculpting web app, with sources available on github.](https://stephaneginier.com/sculptgl/)
+
+[Design Editor made with Polotno SDK.](https://studio.polotno.com/)
+
+[Security-first diagramming for teams.](https://app.diagrams.net/)
+
+[Virtual whiteboard for sketching hand-drawn like diagrams. Collaborative and end-to-end encrypted.](https://excalidraw.com/)
+
+[Squoosh -> Smaller images mean faster load times. Squoosh can reduce file size and maintain high quality.](https://squoosh.app/)
+
+[GraphToy -> Visualizing plots with math equations](https://graphtoy.com/)
+
+[A tiny web tool to use TDF (TheDraw font files) to create logo.](https://n0namen0.github.io/WAB_Ansi_Logo_Maker/)
+
+## Other
+
 [Just tools](https://nohq.co/tools/)
 
 [Free online tool to create diagrams](https://app.diagrams.net)

@@ -82,6 +82,8 @@
 
 [Vector of Objects vs Vector of Pointers And Memory Access Patterns](https://www.bfilipek.com/2014/05/vector-of-objects-vs-vector-of-pointers.html)
 
+[What is the memory usage of a small array in C++?](https://lemire.me/blog/2022/12/12/what-is-the-memory-usage-of-a-small-array-in-c/)
+
 ### Cpp Pointers
 
 [shared_ptr - basics and internals with examples](https://www.nextptr.com/tutorial/ta1358374985/shared_ptr-basics-and-internals-with-examples)

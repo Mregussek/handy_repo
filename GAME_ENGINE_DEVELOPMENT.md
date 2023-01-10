@@ -66,6 +66,8 @@
 
 [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
 
+[Quaternions: a geometrical interpretation.](https://lordarkam.wordpress.com/2022/08/28/quaternions-a-geometrical-interpretation/)
+
 ## Game Engines Projects
 
 [NVIDIA's Falcor is an open-source real-time rendering framework designed specifically for rapid prototyping.](https://developer.nvidia.com/falcor)
