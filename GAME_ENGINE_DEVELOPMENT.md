@@ -136,6 +136,10 @@
 
 [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
 
+[What is a way to publish a game without starting a company but still get paid for it?](https://www.reddit.com/r/gamedev/comments/wf4as5/what_is_a_way_to_publish_a_game_without_starting/)
+
+[We gathered data about ~54000 games in Steam and combined it in one spreadsheet. Feel free to use it whatever you like!](https://www.reddit.com/r/gamedev/comments/x0qs4z/we_gathered_data_about_54000_games_in_steam_and/)
+
 ## Game Marketing
 
 [5 Marketing lessons I learned releasing my first commercial indie game](https://www.reddit.com/r/gamedev/comments/kx4jyr/5_marketing_lessons_i_learned_releasing_my_first/)
@@ -149,6 +153,8 @@
 [I made a trailer that got 7K organic views and 1K wishlist in 3 days. Just wanted to share my techniques!](https://www.reddit.com/r/gamedev/comments/mthobe/i_made_a_trailer_that_got_7k_organic_views_and_1k/)
 
 [A mega-influencer featured my game on his youtube. This is my story (with numbers).](https://www.reddit.com/r/gamedev/comments/pqf3b8/a_megainfluencer_featured_my_game_on_his_youtube/)
+
+[Don’t start the trailer with your logo](https://plasmabeamgames.wordpress.com/2022/09/23/dont-start-the-trailer-with-your-logo/)
 
 ## Game Developer Opinions
 
@@ -165,6 +171,8 @@
 [modern c++ gamedev - thoughts & misconceptions (reddit)](https://www.reddit.com/r/cpp/comments/gkrquo/modern_c_gamedev_thoughts_misconceptions/)
 
 [modern c++ gamedev - thoughts & misconceptions (news)](https://news.ycombinator.com/item?id=23202120)
+
+[After two years of work on a huge open world RPG in Unity, here are the tips I wish I knew at the start.](https://www.reddit.com/r/gamedev/comments/yx93ck/after_two_years_of_work_on_a_huge_open_world_rpg/)
 
 ## Game Design Basics
 

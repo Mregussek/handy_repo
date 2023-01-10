@@ -30,7 +30,10 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 * **[Vulkan Multithreading](#vulkan-multithreading)**
 * **[Vulkan Physics](#vulkan-physics)**
 * **[GPU Architecture - Hardware](#gpu-architecture---hardware)**
+* **[Upscaling technology](#upscaling-technology)**
+* **[CUDA][#cuda]**
 * **[Image Processing](#image-processing)**
+* **[DirectX][#directx]**
 
 ## Computer Graphics Resources
 
@@ -45,6 +48,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Graphics Programming's Discord knowledge base.](https://graphics-programming.org/resources/)
 
 [Computer Graphics at TU Wien](https://www.youtube.com/channel/UCS9CFdjdEcq_NhaSFb_P-yA/videos)
+
+[Computer Graphics at UTAH University](https://graphics.cs.utah.edu/courses/)
 
 ## Conferences
 
@@ -77,6 +82,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Guide on writing a (C++) Vector Math Library](https://www.reedbeta.com/blog/on-vector-math-libraries/)
 
 [GPU Gems 1 2 3 books on NVIDIA developer page](https://developer.nvidia.com/gpugems/gpugems/contributors)
+
+[Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
 
 ## Computer Graphics Blogs
 
@@ -162,6 +169,12 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [The RTX Shader Binding Table Three Ways](https://www.willusher.io/graphics/2019/11/20/the-sbt-three-ways)
 
+[Advanced Graphics with Ray Tracing tutorials at UNIVERSITEIT UTRECHT](https://www.cs.uu.nl/docs/vakken/magr/2022-2023/index.html)
+
+[EA GDC 2018: Shiny Pixels and Beyond: Real-Time Raytracing at SEED](https://www.ea.com/seed/news/seed-gdc-2018-presentation-slides-shiny-pixels)
+
+[TU Wien Rendering / Ray Tracing Course](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
+
 ## Shaders
 
 ### Shader Learning
@@ -185,6 +198,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Compute shader glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
 
 [Visualizing General Relativity](https://michaelmoroz.github.io/TracingGeodesics/)
+
+[Rendering my balls in a fragment shader](https://www.getlazarus.org/pool/balls/)
 
 ### Shader websites
 
@@ -363,6 +378,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [Computer Graphics at TU Wien Vulkan Course](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE0UsR2E_84-twxX6G7ynZNq)
 
+[Vulkan Subgroup Tutorial](https://www.khronos.org/blog/vulkan-subgroup-tutorial)
+
 ### Vulkan Useful Blogs
 
 [Maister's Graphics Adventures - Low-level graphics programming](https://themaister.net/blog/)
@@ -439,6 +456,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 ### Vulkan Ray Tracing
 
+[Ray Tracing In Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
+
 [Vulkan RT Tutorial With Minimal Abstraction](https://www.reddit.com/r/vulkan/comments/kvbupb/vulkan_rt_tutorial_with_minimal_abstraction/)
 
 [Introduction to Real-Time Ray Tracing with Vulkan](https://developer.nvidia.com/blog/vulkan-raytracing/)
@@ -485,6 +504,14 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [GPU Profiling 101](https://www.reedbeta.com/blog/gpu-profiling-101/)
 
+## Upscaling technology
+
+[FidelityFX Super Resolution 2.1 (FSR 2.1.2) github](https://github.com/GPUOpen-Effects/FidelityFX-FSR2#introduction)
+
+## CUDA
+
+[Ray Tracing in One Weekend in CUDA](https://github.com/rogerallen/raytracinginoneweekendincuda)
+
 ## Image Processing
 
 [How to understand RGB?](https://ciechanow.ski/color-spaces/)
@@ -500,3 +527,13 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [EGGN 510 - Image and Multidimensional Signal Processing (YT course)](https://www.youtube.com/playlist?list=PLyED3W677ALNv8Htn0f9Xh-AHe1aZPftv)
 
 [Digital Image processing (YT course)](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs)
+
+## DirectX
+
+[A Gentle Introduction To DirectX Raytracing](https://cwyman.org/code/dxrTutors/dxr_tutors.md.html)
+
+[Introduction to DirectX RayTracing](https://intro-to-dxr.cwyman.org/)
+
+[DirectX Raytracing (DXR) Functional Spec](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html)
+
+[WispRenderer - Real-Time Raytracing Renderer](https://github.com/TeamWisp/WispRenderer)

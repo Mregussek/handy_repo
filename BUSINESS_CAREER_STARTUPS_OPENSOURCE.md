@@ -98,6 +98,8 @@
 
 [As a solo developer, I decided to offer phone support, and this is what happened](http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/)
 
+[I spent 3 days reading 30+ Marketing Reports & Case-Studies and Here’s What I learned!](https://www.reddit.com/r/EntrepreneurRideAlong/comments/xbdm3c/i_spent_3_days_reading_30_marketing_reports/)
+
 ## Career
 
 [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
@@ -129,6 +131,8 @@
 [Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
 
 ## Interviews
+
+[My First Interviewing Experience For AAA Gameplay Programming](https://www.reddit.com/r/gamedev/comments/xbcvvt/my_first_interviewing_experience_for_aaa_gameplay/)
 
 [50+ questions data structures && algorithms](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
