@@ -506,15 +506,25 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [Organizing GPU Work with Directed Acyclic Graphs](https://levelup.gitconnected.com/organizing-gpu-work-with-directed-acyclic-graphs-f3fd5f2c2af3)
 
-[AMD MRDNA 2 Performance guide](https://gpuopen.com/performance/)
-
 [Developer and Optimization Guide for Intel® Processor Graphics Gen11 API](https://www.intel.com/content/www/us/en/developer/articles/guide/developer-and-optimization-guide-for-intel-processor-graphics-gen11-api.html)
 
 [GPU Profiling 101](https://www.reedbeta.com/blog/gpu-profiling-101/)
 
+### AMD
+
+[AMD MRDNA 2 Performance guide](https://gpuopen.com/performance/)
+
+### Intel
+
+[Introduction to the Xe-HPG Architecture](https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-the-xe-hpg-architecture.html)
+
+[Intel® Arc™ A-series Graphics Gaming API Developer and Optimization Guide](https://www.intel.com/content/www/us/en/developer/articles/guide/arc-a-series-gaming-api-developer-optimization.html)
+
 ## Upscaling technology
 
 [FidelityFX Super Resolution 2.1 (FSR 2.1.2) github](https://github.com/GPUOpen-Effects/FidelityFX-FSR2#introduction)
+
+[Intel® X ͤ Super Sampling (X ͤ SS) API Developer Guide](https://www.intel.com/content/www/us/en/developer/articles/guide/xe-super-sampling-developer-guide.html)
 
 ## Projects - Graphics libraries
 
@@ -527,6 +537,10 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 ### renderdoc
 
 [I just opened Plague Tale Requiem in a renderdoc. (twitter analysis)](https://twitter.com/newincpp/status/1587454519268593664?t=r7mvVA7pWZ_iehr6V1hXXw&s=19&fbclid=IwAR0SAQu9_KMESN-5mL-SqI_53wGqkgjBw-EdWPeSsyknZDToy-1P62pvYmw)
+
+### GFXReconstruct
+
+[github](https://github.com/LunarG/gfxreconstruct)
 
 ## CUDA
 

@@ -5,7 +5,7 @@
 
 * **[Game Engine How To Start](#game-engine-how-to-start)**
 * **[Game Engine Subsystems](#game-engine-subsystems)**
-* **[Game Engines Projects](#game-engine-projects)**
+* **[Game Engines Projects](#game-engines-projects)**
 * **[Game Development Resources](#game-development-resources)**
 * **[Game Development Tips](#game-development-tips)**
 * **[Game Marketing](#game-marketing)**
@@ -97,6 +97,8 @@
 [10 years of constant work on nCine: my 2D open-source C++11 game engine](https://encelo.github.io/2021-06-21-ten-years-ncine/?utm_source=gameenginedevs&utm_medium=Reddit&utm_campaign=10years)
 
 [My progress in creating a 3D game engine (reddit)](https://www.reddit.com/r/gamedev/comments/i2z6ir/my_progess_in_creating_a_3d_game_engine/)
+
+[Diligent Engine A Modern Cross-Platform Low-Level 3D Graphics Library and Rendering Framework](https://github.com/DiligentGraphics/DiligentEngine)
 
 ## Game Development Resources
 
