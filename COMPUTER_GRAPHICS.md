@@ -53,6 +53,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Computer Graphics at UTAH University](https://graphics.cs.utah.edu/courses/)
 
+[Advanced Graphics at UNIVERSITEIT UTRECHT](https://www.cs.uu.nl/docs/vakken/magr/2021-2022/index.html)
+
 ## Conferences
 
 [Advances in Real-Time Rendering in Games course](http://advances.realtimerendering.com/s2022/index.html)
@@ -88,6 +90,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [GPU Gems 1 2 3 books on NVIDIA developer page](https://developer.nvidia.com/gpugems/gpugems/contributors)
 
 [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
+
+[Math for Game Programmers: Understanding Homogeneous Coordinates](https://youtu.be/o1n02xKP138)
 
 ## Computer Graphics Blogs
 
@@ -519,6 +523,12 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [Introduction to the Xe-HPG Architecture](https://www.intel.com/content/www/us/en/developer/articles/technical/introduction-to-the-xe-hpg-architecture.html)
 
 [Intel® Arc™ A-series Graphics Gaming API Developer and Optimization Guide](https://www.intel.com/content/www/us/en/developer/articles/guide/arc-a-series-gaming-api-developer-optimization.html)
+
+## ReSTIR
+
+[Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting (whitepaper)](https://cs.dartmouth.edu/wjarosz/publications/bitterli20spatiotemporal.html)
+
+[Understanding The Math Behind ReStir DI](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_di/)
 
 ## Upscaling technology
 
