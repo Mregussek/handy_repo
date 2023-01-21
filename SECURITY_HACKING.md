@@ -80,3 +80,5 @@
 [Recovering locked Facebook accounts is a nightmare. That’s on purpose.](https://www.washingtonpost.com/technology/2021/09/29/hacked-social-media-account/)
 
 [Here's the FBI's Internal Guide for Getting Data from AT&T, T-Mobile, Verizon](https://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon)
+
+[Hacker's Guide to UART Root Shells](https://youtu.be/01mw0oTHwxg)

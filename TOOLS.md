@@ -33,6 +33,8 @@
 
 [A tiny web tool to use TDF (TheDraw font files) to create logo.](https://n0namen0.github.io/WAB_Ansi_Logo_Maker/)
 
+[Have I Been Squatted? Check if your domain has been squatted](https://haveibeensquatted.com/)
+
 ## Other
 
 [Just tools](https://nohq.co/tools/)
@@ -106,3 +108,9 @@
 [PDF24 Tools Free and easy-to-use online PDF tools that make you more productive.](https://tools.pdf24.org/en/)
 
 [Open Source Bitly Alternative Dub is an open-source link shortener with built-in analytics and free custom domains.](https://dub.sh/)
+
+[Spotify Playlist Lookup](https://playlists.dags.dev/)
+
+[Unfakepng - narzędzie usuwania ‘fałszywej przezroczystości’ z plików PNG](https://unfakepng.com/)
+
+[WhatsMyName This tool allows you to enumerate usernames across many websites](https://whatsmyname.app/)

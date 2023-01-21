@@ -52,6 +52,8 @@
 
 [What do startup founders pay themselves?](https://sifted.eu/articles/startup-founders-salary/)
 
+[Ask HN: How do you start a startup in your 30s when you have wife/kids/mortgage?](https://news.ycombinator.com/item?id=33707889&utm_source=unknownews)
+
 ## Leadership
 
 [How to manage work-life balance while being an individual contributor working from home at a startup?](https://www.reddit.com/r/datascience/comments/kyjrmj/how_to_manage_worklife_balance_while_being_an/)
@@ -67,6 +69,8 @@
 [Why your daily stand-ups don't work and how to fix them](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html)
 
 [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
+
+[A curated and opinionated list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies.](https://github.com/kuchin/awesome-cto)
 
 ## Making money
 
@@ -121,6 +125,10 @@
 [The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](https://www.samjulien.com/shy-dev-networking)
 
 [How to find a job as Software Developer in Germany? (step-by-step guide)](https://germantechjobs.de/blog/how-to-find-job-as-software-developer-in-germany-complete-guide)
+
+[Becoming a Full-Time Creator as a Software Engineer: Controversial Advice](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/?utm_source=unknownews)
+
+[Side Project Guide](https://sideproject.guide/en?utm_source=unknownews)
 
 ## Remote Job
 
@@ -207,3 +215,5 @@
 [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
 
 [Awesome Open Source YT channel](https://www.youtube.com/c/AwesomeOpenSource/videos)
+
+[GitHub stars won't pay your rent](https://kitze.io/posts/github-stars-wont-pay-your-rent?utm_source=newsletter&utm_id=unknownews)
