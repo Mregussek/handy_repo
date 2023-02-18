@@ -79,7 +79,9 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 
-[The Graphics Codex](https://graphicscodex.courses.nvidia.com/app.html)
+[The Graphics Codex NVIDIA](https://graphicscodex.courses.nvidia.com/app.html)
+
+[The Graphics Codex Official](http://graphicscodex.com/)
 
 [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
 
