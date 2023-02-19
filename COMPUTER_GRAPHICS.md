@@ -576,6 +576,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 ## DirectX
 
+[awesome-d3d12](https://github.com/vinjn/awesome-d3d12)
+
 [A Gentle Introduction To DirectX Raytracing](https://cwyman.org/code/dxrTutors/dxr_tutors.md.html)
 
 [Introduction to DirectX RayTracing](https://intro-to-dxr.cwyman.org/)
