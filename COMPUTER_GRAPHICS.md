@@ -7,6 +7,7 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 * **[Computer Graphics Resources](#computer-graphics-resources)**
 * **[Computer Graphics Learning](#computer-graphics-learning)**
+* **[Research Resources](#research-resources)**
 * **[PBR - Physically Based Rendering](#pbr---physically-based-rendering)**
 * **[Normal Mapping](#normal-mapping)**
 * **[Global Illumination](#global-illumination)**
@@ -102,6 +103,16 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Self Shadow Blog](https://blog.selfshadow.com/)
 
 [Nikita Lisitsa Blog](https://lisyarus.github.io/blog/)
+
+[Reddit - My PhD advisor said that Computer Graphics is seen as a solved field. Do you agree?](https://www.reddit.com/r/GraphicsProgramming/comments/11khkfb/my_phd_advisor_said_that_computer_graphics_is/)
+
+## Research Resources
+
+[Rendering Resources from Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
+
+[Material Database from EPFL](http://rgl.epfl.ch/materials)
+
+[ORCA: Open Research Content Archive](https://developer.nvidia.com/orca)
 
 ## PBR - Physically Based Rendering
 
@@ -235,6 +246,26 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Light Tracer Render - Intuitive Tool for Highest Quality Product Rendering](https://lighttracer.org/)
 
+[NVIDIA Falcor is a real-time rendering framework supporting DirectX 12 and Vulkan. It aims to improve productivity of research and prototype projects.](https://github.com/NVIDIAGameWorks/Falcor)
+
+[AMD Cauldron A simple framework for rapid prototyping on Vulkan or DirectX12.](https://github.com/GPUOpen-LibrariesAndSDKs/Cauldron)
+
+[MxEngine is an educational modern-C++ general-purpose 3D game engine.](https://github.com/asc-community/MxEngine)
+
+[VulkanAbstractionLayer for MxEngine](https://github.com/asc-community/VulkanAbstractionLayer)
+
+[Iris is a cross-platform game engine written in modern C++](https://github.com/irisengine/iris)
+
+[Diligent Engine is a lightweight cross-platform graphics API abstraction library and rendering framework. It is designed to take full advantage of Direct3D12, Vulkan and Metal](https://github.com/DiligentGraphics/DiligentEngine)
+
+[Auto-Vk is a low-level convenience and productivity layer for Vulkan](https://github.com/cg-tuwien/Auto-Vk)
+
+[Laugh Engine A Vulkan implementation of real-time PBR renderer.](https://github.com/jian-ru/laugh_engine)
+
+[Acid is an open-source, cross-platform game engine written in modern C++17 and structured to be fast, simple, and extremely modular. Vulkan](https://github.com/EQMG/Acid)
+
+[VkHLF is an experimental high level abstraction library on top of Vulkan.](https://github.com/nvpro-pipeline/VkHLF)
+
 ## OpenGL
 
 ### OpenGL resources
@@ -282,6 +313,10 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [OpenGL Blog nehe.gamedev.net](http://nehe.gamedev.net/)
 
 [OGLDEV Blog](https://ogldev.org/)
+
+[Mouse Picking with Ray Casting](https://antongerdelan.net/opengl/raycasting.html)
+
+[Picking with an OpenGL hack](http://www.opengl-tutorial.org/miscellaneous/clicking-on-objects/picking-with-an-opengl-hack/)
 
 ### OpenGL projects
 
@@ -394,6 +429,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [Vulkan Subgroup Tutorial](https://www.khronos.org/blog/vulkan-subgroup-tutorial)
 
+[Building a Triangle with Vulkan and C++ in Fedora 37](https://jordanielder.com/posts/building-a-triangle-with-vulkan-and-cmake-in-fedora/)
+
 ### Vulkan Useful Blogs
 
 [Maister's Graphics Adventures - Low-level graphics programming](https://themaister.net/blog/)
@@ -401,6 +438,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [Sascha Willems - I make computer beep boop beep (and write code to do so)](https://www.saschawillems.de/)
 
 [LunarG - Get the Latest 3D Graphics Engineering News](https://www.lunarg.com/news-insights/news/)
+
+[Reddit - General Tip On Porting a In-House Engine to vulkan](https://www.reddit.com/r/vulkan/comments/10qleep/general_tip_on_porting_a_inhouse_engine_to_vulkan/)
 
 ### Vulkan Useful Libraries
 
@@ -435,6 +474,10 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [VULKAN MEMORY MANAGEMENT : HOW TO WRITE YOUR OWN ALLOCATOR](https://cpp-rendering.io/vulkan-memory-management-2/)
 
 [Vulkan Memory Management - NVIDIA](https://developer.nvidia.com/vulkan-memory-management)
+
+[Reddit (one huge answer) - Are there primary resources about best practices for memory allocations for different GPUs?](https://www.reddit.com/r/vulkan/comments/10ayahx/are_there_primary_resources_about_best_practices/)
+
+[Using Vulkan® Device Memory](https://gpuopen.com/learn/vulkan-device-memory/)
 
 ### Vulkan Bindless / Descriptor Indexing
 
