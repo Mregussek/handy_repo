@@ -84,6 +84,8 @@
 
 [What is the memory usage of a small array in C++?](https://lemire.me/blog/2022/12/12/what-is-the-memory-usage-of-a-small-array-in-c/)
 
+[Effortless Performance Improvements in C++: std::vector](https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-vector/)
+
 ### Cpp Pointers
 
 [shared_ptr - basics and internals with examples](https://www.nextptr.com/tutorial/ta1358374985/shared_ptr-basics-and-internals-with-examples)
