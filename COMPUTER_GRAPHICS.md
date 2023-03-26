@@ -89,6 +89,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
 
+[Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
+
 ## Computer Graphics Blogs
 
 [Jacco Bikker Blog](https://jacco.ompf2.com/)
@@ -509,6 +511,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [Developer and Optimization Guide for Intel® Processor Graphics Gen11 API](https://www.intel.com/content/www/us/en/developer/articles/guide/developer-and-optimization-guide-for-intel-processor-graphics-gen11-api.html)
 
 [GPU Profiling 101](https://www.reedbeta.com/blog/gpu-profiling-101/)
+
+[Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
 
 ### AMD
 

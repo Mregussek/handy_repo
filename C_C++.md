@@ -24,6 +24,8 @@
 
 [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp/blob/master/README.md)
 
+[AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp)
+
 [List of C++ blogs by individual developers](https://www.reddit.com/r/cpp/comments/m51ugh/list_of_c_blogs_by_individual_developers/)
 
 [A curated list of awesome header-only C++ libraries](https://github.com/p-ranav/awesome-hpp)
@@ -83,6 +85,8 @@
 [Vector of Objects vs Vector of Pointers And Memory Access Patterns](https://www.bfilipek.com/2014/05/vector-of-objects-vs-vector-of-pointers.html)
 
 [What is the memory usage of a small array in C++?](https://lemire.me/blog/2022/12/12/what-is-the-memory-usage-of-a-small-array-in-c/)
+
+[Some possible reasons for 8-bit bytes](https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/)
 
 ### Cpp Pointers
 

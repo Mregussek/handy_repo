@@ -116,11 +116,15 @@
 
 [A Better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)
 
+[What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
+
 [An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 
 [The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](https://www.samjulien.com/shy-dev-networking)
 
 [How to find a job as Software Developer in Germany? (step-by-step guide)](https://germantechjobs.de/blog/how-to-find-job-as-software-developer-in-germany-complete-guide)
+
+[INTERVIEW PROCESS AT GOOGLE](https://github.com/pakistani-women-in-computing/coding-interview-resources/blob/master/google-interview-preparation.md)
 
 ## Remote Job
 

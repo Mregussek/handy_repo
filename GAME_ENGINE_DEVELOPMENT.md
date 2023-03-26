@@ -192,6 +192,8 @@
 
 [Let's Build a Confetti Cannon](https://varun.ca/confetti/)
 
+[The hidden beauty of the A* algorithm (YT)](https://youtu.be/A60q6dcoCjw)
+
 ### Multiplayer Game Design
 
 [Using Docker for Game Servers](https://github.com/LacledesLAN/README.1ST/blob/master/GameServers/DockerAndGameServers.md)

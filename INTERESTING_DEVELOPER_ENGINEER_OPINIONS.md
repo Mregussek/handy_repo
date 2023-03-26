@@ -88,3 +88,5 @@
 [My Path to Financial Independence as a Software Engineer](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)
 
 [How to feel engaged at work: a software engineer's guide](https://jasont.co/ennui/)
+
+[Career Cheat Codes I Know at 36 That I Wish I Knew at 26](https://scribe.rip/swlh/career-cheat-codes-i-know-at-36-that-i-wish-i-knew-at-26-b0e385fa9988)

@@ -1,6 +1,10 @@
 
 # Tools
 
+## Lists
+
+[Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/)
+
 ## No need to register account
 
 [Photopea -> online photo editor](https://www.photopea.com/)
@@ -106,3 +110,5 @@
 [PDF24 Tools Free and easy-to-use online PDF tools that make you more productive.](https://tools.pdf24.org/en/)
 
 [Open Source Bitly Alternative Dub is an open-source link shortener with built-in analytics and free custom domains.](https://dub.sh/)
+
+[Remove any unwanted object, defect, people or text from your pictures in seconds](https://cleanup.pictures/)
