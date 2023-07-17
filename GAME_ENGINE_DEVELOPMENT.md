@@ -36,11 +36,19 @@
 
 [Make Games Not Engines... to Learn Engines](https://seanmiddleditch.github.io/makes-games-not-engines-to-learn-engines/)
 
+[study notes useful in case you intend to study more about engine and graphics programming.](https://encelo.github.io/notes.html#_my_study_notes)
+
+[Learn Game Engine Programming](https://engine-programming.github.io/)
+
+[going fast is about doing less](https://youtu.be/5rb0vvJ7NCY)
+
 ## Game Engine Subsystems
 
 ### Entity Component System
 
 [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system)
+
+[A Roadmap to Entity Relationships](https://ajmmertens.medium.com/a-roadmap-to-entity-relationships-5b1d11ebb4eb)
 
 ### Loading 3D models
 
@@ -99,6 +107,8 @@
 [My progress in creating a 3D game engine (reddit)](https://www.reddit.com/r/gamedev/comments/i2z6ir/my_progess_in_creating_a_3d_game_engine/)
 
 [Diligent Engine A Modern Cross-Platform Low-Level 3D Graphics Library and Rendering Framework](https://github.com/DiligentGraphics/DiligentEngine)
+
+[Spartan is a research-focused game engine designed for real-time solutions, providing a dynamic experience.](https://github.com/PanosK92/SpartanEngine)
 
 ## Game Development Resources
 

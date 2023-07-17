@@ -3,6 +3,10 @@
 
 [How to organize your code?](https://kislayverma.com/programming/how-to-organize-your-code/)
 
+[Computer, Enhance! Programming courses, interviews, commentary. By Casey Muratori](https://www.computerenhance.com/)
+
+[going fast is about doing less](https://youtu.be/5rb0vvJ7NCY)
+
 ## SOLID
 
 [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
@@ -52,3 +56,5 @@
 [If-Else Is a Poor Man’s Polymorphism](https://levelup.gitconnected.com/if-else-is-a-poor-mans-polymorphism-ab0b333b7265)
 
 [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
+
+[YT - The Clean Code Debacle and Rhetoric Tricks - Casey Muratori vs Mr "Uncle Bob" Martin](https://youtu.be/ZLxazlP7Ppo)

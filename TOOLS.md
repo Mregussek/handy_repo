@@ -120,3 +120,7 @@
 [Unfakepng - narzędzie usuwania ‘fałszywej przezroczystości’ z plików PNG](https://unfakepng.com/)
 
 [WhatsMyName This tool allows you to enumerate usernames across many websites](https://whatsmyname.app/)
+
+[Open Assistant (polish AI chat gpt)](https://open-assistant.io/pl)
+
+[How to turn long YouTube videos into 5-minute narrated summaries using AI (twitter)](https://twitter.com/rowancheung/status/1650160608682078210?fbclid=IwAR1KDJrbURfu8DKr7pfla0LL92bTh9_9jtnoClo_CxfXvln5gtqbp1daaJQ)

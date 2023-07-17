@@ -8,6 +8,7 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 * **[Computer Graphics Resources](#computer-graphics-resources)**
 * **[Computer Graphics Learning](#computer-graphics-learning)**
 * **[Research Resources](#research-resources)**
+* **[Geometry Math](#geometry-math)**
 * **[PBR - Physically Based Rendering](#pbr---physically-based-rendering)**
 * **[Normal Mapping](#normal-mapping)**
 * **[Global Illumination](#global-illumination)**
@@ -60,6 +61,16 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Advances in Real-Time Rendering in Games course](http://advances.realtimerendering.com/s2022/index.html)
 
+[High Performance Graphics 2023](https://www.highperformancegraphics.org/2023/index.html)
+
+[ACM SIGGRAPH](https://www.siggraph.org/)
+
+[ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](https://i3dsymposium.org/2022/)
+
+[GDC Vault](https://www.gdcvault.com/)
+
+[The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2022.thecvf.com/)
+
 ## Computer Graphics Learning
 
 [Finding Your Home in Game Graphics Programming](https://alextardif.com/LearningGraphics.html)
@@ -108,6 +119,16 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Reddit - My PhD advisor said that Computer Graphics is seen as a solved field. Do you agree?](https://www.reddit.com/r/GraphicsProgramming/comments/11khkfb/my_phd_advisor_said_that_computer_graphics_is/)
 
+[Alain Galvan Blog (great for Ray Tracing and Vulkan DX12)](https://alain.xyz/)
+
+[unofficial webpage for our Grenoble GraphiX (GGX) Research team. Now at Intel, previously at Unity.](https://ggx-research.github.io/)
+
+[study notes useful in case you intend to study more about engine and graphics programming.](https://encelo.github.io/notes.html#_my_study_notes)
+
+[DREAMS OF FLASHY PIXELS (ON A WHITE WEBSITE)](https://flashypixels.wordpress.com/)
+
+[INTERPLAY OF LIGHT](https://interplayoflight.wordpress.com/)
+
 ## Research Resources
 
 [Rendering Resources from Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
@@ -115,6 +136,10 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Material Database from EPFL](http://rgl.epfl.ch/materials)
 
 [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca)
+
+## Geometry Math
+
+[Projective Geometric Algebra](https://projectivegeometricalgebra.org/)
 
 ## PBR - Physically Based Rendering
 
@@ -147,6 +172,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Real time global illumination techniques?](https://www.reddit.com/r/GraphicsProgramming/comments/jhh84i/real_time_global_illumination_techniques/)
 
 [Journey to Lumen](https://knarkowicz.wordpress.com/2022/08/18/journey-to-lumen/)
+
+[Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF)
 
 ## Ray Tracing
 
@@ -271,6 +298,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Acid is an open-source, cross-platform game engine written in modern C++17 and structured to be fast, simple, and extremely modular. Vulkan](https://github.com/EQMG/Acid)
 
 [VkHLF is an experimental high level abstraction library on top of Vulkan.](https://github.com/nvpro-pipeline/VkHLF)
+
+[Spartan is a research-focused game engine designed for real-time solutions, providing a dynamic experience.](https://github.com/PanosK92/SpartanEngine)
 
 ## OpenGL
 
@@ -455,6 +484,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [A utility library that jump starts initialization of Vulkan](https://github.com/charles-lunarg/vk-bootstrap)
 
+[Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU.](https://github.com/facebook/igl/)
+
 ### Vulkan Debugging
 
 [RenderDoc is a frame-capture based graphics debugger](https://github.com/baldurk/renderdoc)
@@ -539,6 +570,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [Vulkan compute shader based ray tracer.](https://github.com/grigoryoskin/vulkan-compute-ray-tracing)
 
+[Real-time Vulkan raytracer (funny)](https://github.com/brunosegiu/vk-rt)
+
 ### Vulkan Multithreading
 
 [Multithreading Overview in Vulkan](https://vkguide.dev/docs/extra-chapter/multithreading/)
@@ -567,9 +600,17 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
 
+[x86/x64 SIMD Instruction List (SSE to AVX512)](https://www.officedaytime.com/simd512e/)
+
+[GPU ARCHITECTURE RESOURCES](https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/)
+
+[#graphics folks, Are there some good (preferably free) materials/courses/books on modern GPU hardware from a graphics perspective? Like all those registers, caches, wavefronts, occupacy stuff, etc](https://twitter.com/lisyarus/status/1657471363949506566?fbclid=IwAR1Q5Olo64ptkfhTdJA3WKM6RZAfEI5VQBbV6J3u5KWKfuoDr-t66UHcA9I)
+
 ### AMD
 
 [AMD MRDNA 2 Performance guide](https://gpuopen.com/performance/)
+
+[Optimizing for the Radeon™ RDNA Architecture](https://youtu.be/7eEKLUhoTQs)
 
 ### Intel
 
