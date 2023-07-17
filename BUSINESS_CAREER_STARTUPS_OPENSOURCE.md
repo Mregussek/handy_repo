@@ -134,6 +134,8 @@
 
 [Side Project Guide](https://sideproject.guide/en?utm_source=unknownews)
 
+[Insider guide to tech interviews](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/)
+
 ## Remote Job
 
 [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)

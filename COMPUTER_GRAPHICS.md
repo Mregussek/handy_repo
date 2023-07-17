@@ -128,6 +128,10 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Physically Based Rendering:From Theory To Implementation](https://www.pbr-book.org/)
 
+[READINGS ON PHYSICALLY BASED RENDERING](https://interplayoflight.wordpress.com/2013/12/30/readings-on-physically-based-rendering/)
+
+[Physically Based Rendering – Part one](https://wiki.jmonkeyengine.org/docs/3.4/tutorials/how-to/articles/pbr/pbr_part1.html)
+
 ## Normal Mapping
 
 [Three Normal Mapping Techniques Explained For the Mathematically Uninclined](https://www.gamedeveloper.com/programming/three-normal-mapping-techniques-explained-for-the-mathematically-uninclined)
