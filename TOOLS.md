@@ -5,6 +5,8 @@
 
 [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/)
 
+[19 VS Code Extensions To Boost Your Productivity](https://madza.hashnode.dev/19-vs-code-extensions-to-boost-your-productivity)
+
 ## No need to register account
 
 [Photopea -> online photo editor](https://www.photopea.com/)
@@ -42,6 +44,8 @@
 ## Other
 
 [Just tools](https://nohq.co/tools/)
+
+[The Best No-Code Tools](https://www.nocodetools.pl/)
 
 [Free online tool to create diagrams](https://app.diagrams.net)
 
@@ -124,3 +128,13 @@
 [Open Assistant (polish AI chat gpt)](https://open-assistant.io/pl)
 
 [How to turn long YouTube videos into 5-minute narrated summaries using AI (twitter)](https://twitter.com/rowancheung/status/1650160608682078210?fbclid=IwAR1KDJrbURfu8DKr7pfla0LL92bTh9_9jtnoClo_CxfXvln5gtqbp1daaJQ)
+
+[Open-source assistant-style large language models that run locally on your CPU](https://github.com/nomic-ai/gpt4all)
+
+[Top 20 Draw.io Alternatives & Competitors for Cloud Architectures](https://blog.brainboard.co/top-20-alternatives-to-draw-io-diagrams-net-for-cloud-architecture-ccaf0a6edd97)
+
+[Dalai Run LLaMA and Alpaca on your computer.](https://github.com/cocktailpeanut/dalai)
+
+[Melofi - Lofi music player with additional tools](https://melofi.app/)
+
+[Scrolling screenshots Render a scrolling animated screenshot of any website.](https://damngood.tools/tools/scrolling-screenshots)

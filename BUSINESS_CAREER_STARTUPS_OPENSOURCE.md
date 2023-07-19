@@ -72,6 +72,12 @@
 
 [A curated and opinionated list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies.](https://github.com/kuchin/awesome-cto)
 
+[Why Scrum Fails](https://betterprogramming.pub/why-scrum-fails-ac92cab05c6a)
+
+[The Culture Map: How to Navigate Foreign Cultures in Business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
+
+[4 Myths and 1 Truth About Scheduling Meetings](https://blog.boomerangapp.com/2023/06/4-myths-and-1-truth-about-scheduling-meetings/)
+
 ## Making money
 
 [I charged $18,000 for a Static HTML Page](https://idiallo.com/blog/18000-dollars-static-web-page)
@@ -103,6 +109,10 @@
 [As a solo developer, I decided to offer phone support, and this is what happened](http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/)
 
 [I spent 3 days reading 30+ Marketing Reports & Case-Studies and Here’s What I learned!](https://www.reddit.com/r/EntrepreneurRideAlong/comments/xbdm3c/i_spent_3_days_reading_30_marketing_reports/)
+
+[Twitch: A game changer for developers](https://github.com/readme/guides/twitch-for-developers)
+
+[Napiszmy przyjazną politykę prywatności](https://blog.tomaszdunia.pl/rodo-gdpr/)
 
 ## Career
 

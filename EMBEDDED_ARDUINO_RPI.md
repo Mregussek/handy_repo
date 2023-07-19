@@ -114,6 +114,8 @@
 
 [Does anyone have experience with installing opencv on a raspberry pi?](https://www.reddit.com/r/opencv/comments/g89k7r/question_does_anyone_have_experience_with/)
 
+[Building a handheld PC](https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html)
+
 ### Raspberry Pi Projects
 
 [Real-Time Person Tracking on the Edge with a Raspberry Pi](https://heartbeat.fritz.ai/real-time-person-tracking-on-the-edge-with-a-raspberry-pi-93ae636af9fa)

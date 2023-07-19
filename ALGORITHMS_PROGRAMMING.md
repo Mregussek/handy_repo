@@ -37,6 +37,8 @@
 
 [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 
+[How Booking.com Searches Through Millions of Locations in Milliseconds](https://blog.quastor.org/p/bookingcom-searches-millions-locations-milliseconds)
+
 ## Programming
 
 [A collection of keyboard shortcuts for Mac apps, Windows programs, and websites.](https://usethekeyboard.com/)

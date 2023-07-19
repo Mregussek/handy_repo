@@ -82,3 +82,7 @@
 [Here's the FBI's Internal Guide for Getting Data from AT&T, T-Mobile, Verizon](https://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon)
 
 [Hacker's Guide to UART Root Shells](https://youtu.be/01mw0oTHwxg)
+
+[CAN Injection - how are cars with keyless systems being stolen?](https://kentindell.github.io/2023/04/03/can-injection/)
+
+[YT Raspberry Pi Malware uses IRC Remote Access Trojan (RAT)](https://youtu.be/DmJSLGaJBiw)

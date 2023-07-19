@@ -35,6 +35,8 @@
 
 [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/)
 
+[Design Patterns for Microservices: Ambassador, Anti-Corruption Layer, and Backends for Frontends](https://dzone.com/articles/design-patterns-for-microservices-ambassador-anti)
+
 ## Fascinating
 
 [The epistemology of software quality](https://increment.com/teams/the-epistemology-of-software-quality/)

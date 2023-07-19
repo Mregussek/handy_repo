@@ -17,7 +17,11 @@
 
 [Everything you want to know about Docker - from A to Z (presentation)](https://container.training/intro-selfpaced.yml.html#1)
 
+[Container security fundamentals: Exploring containers as processes](https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-1/)
+
 ## Fascinating
+
+[Build Your Own Docker with Linux Namespaces, cgroups, and chroot: Hands-on Guide](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
 
 [This is a repo to hold various Dockerfiles for images I create.](https://github.com/jessfraz/dockerfiles)
 
@@ -35,6 +39,8 @@
 
 [Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
+[Awesome Kubernetes (K8s) Threat Detection](https://github.com/jatrost/awesome-kubernetes-threat-detection)
+
 [Dotknij Kubernetes!](https://poznajkubernetes.pl/mini-szkolenie.html)
 
 [“Let’s use Kubernetes!” Now you have 8 problems](https://pythonspeed.com/articles/dont-need-kubernetes/)
@@ -46,3 +52,5 @@
 [Ingress & TLS in kubernetes using self-signed certificates](https://michalwojcik.com.pl/2021/08/08/ingress-tls-in-kubernetes-using-self-signed-certificates/)
 
 [Understanding Kubernetes - a free ebook with the basics of k8s](https://www.linode.com/content/kubernetes-guide/)
+
+[Klaster K8s na Raspberry Pi, czyli K3s na nowo](https://kaluzny.io/klaster-k8s-na-raspberry-pi-czyli-k3s-na-nowo/)

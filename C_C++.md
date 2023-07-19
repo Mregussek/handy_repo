@@ -76,7 +76,7 @@
 
 [Learning to write efficient C++](https://www.reddit.com/r/cpp_questions/comments/fxrkb6/learning_to_write_efficient_c/)
 
-[Smarter C/C++ inlining with __attribute__((flatten))](https://awesomekling.github.io/Smarter-C++-inlining-with-attribute-flatten/)
+[Smarter C/C++ inlining with \_\_attribute\_\_((flatten))](https://awesomekling.github.io/Smarter-C++-inlining-with-attribute-flatten/)
 
 [Statically checking C/C++ for unused return values](https://pmeerw.net/blog/programming/unused-return.html)
 
@@ -89,6 +89,8 @@
 [Some possible reasons for 8-bit bytes](https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/)
 
 [Effortless Performance Improvements in C++: std::vector](https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-vector/)
+
+[Memory allocation - how do malloc and free work?](https://samwho.dev/memory-allocation/)
 
 ### Cpp Pointers
 
