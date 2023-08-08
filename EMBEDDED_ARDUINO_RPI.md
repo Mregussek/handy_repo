@@ -40,6 +40,8 @@
 
 [Using modern C++ for hardware access on embedded systems](https://www.reddit.com/r/embedded/comments/kmq2ga/using_modern_c_for_hardware_access_on_embedded/)
 
+[The microarchitecture of Intel, AMD, and VIA CPUs An optimization guide for assembly programmers and compiler makers](https://www.agner.org/optimize/microarchitecture.pdf)
+
 ## Debugging
 
 [Debugging Embedded Linux Ethernet](https://vmb-tech.com/blog/debugging-embedded-ethernet.html)

@@ -26,6 +26,8 @@
 
 [Python built-in functions to know](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 
+[Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
+
 ## Good practices
 
 [How to set up a perfect Python project](https://sourcery.ai/blog/python-best-practices/)
@@ -34,7 +36,7 @@
 
 [Python Refactorings - Part 7](https://sourcery.ai/blog/explaining-refactorings-7/)
 
-# Interpreters
+## Interpreters
 
 [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
 

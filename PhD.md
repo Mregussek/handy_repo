@@ -1,6 +1,10 @@
 
 # PhD stuff
 
+## Is it worth it?
+
+[A professor's warning letter to his PhD student🤔](https://www.reddit.com/r/PhD/comments/1523aqh/a_professors_warning_letter_to_his_phd_student/)
+
 ## Technical Writing Resources
 
 [How to Read a Realistic Rendering Paper](https://morgan3d.github.io/advanced-ray-tracing-course/reading-research.pdf)

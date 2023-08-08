@@ -138,3 +138,7 @@
 [Melofi - Lofi music player with additional tools](https://melofi.app/)
 
 [Scrolling screenshots Render a scrolling animated screenshot of any website.](https://damngood.tools/tools/scrolling-screenshots)
+
+[ChatHub Use ChatGPT, Bing, Bard, Claude and more chatbots simultaneously](https://chathub.gg/)
+
+[Anytype - a Notion/Obsidian style application](https://anytype.io/)

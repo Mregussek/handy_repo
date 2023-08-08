@@ -54,6 +54,8 @@
 
 [Ask HN: How do you start a startup in your 30s when you have wife/kids/mortgage?](https://news.ycombinator.com/item?id=33707889&utm_source=unknownews)
 
+[Excuse me, is there a problem? Many startups fail despite identifying a real problem and building a product that solves that problem. This explains why, so you can avoid their fate.](https://longform.asmartbear.com/problem/)
+
 ## Leadership
 
 [How to manage work-life balance while being an individual contributor working from home at a startup?](https://www.reddit.com/r/datascience/comments/kyjrmj/how_to_manage_worklife_balance_while_being_an/)
@@ -77,6 +79,8 @@
 [The Culture Map: How to Navigate Foreign Cultures in Business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
 
 [4 Myths and 1 Truth About Scheduling Meetings](https://blog.boomerangapp.com/2023/06/4-myths-and-1-truth-about-scheduling-meetings/)
+
+[17 REASONS NOT TO BE A MANAGER](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 
 ## Making money
 
