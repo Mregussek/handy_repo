@@ -38,6 +38,7 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 * **[CUDA](#cuda)**
 * **[Image Processing](#image-processing)**
 * **[DirectX](#directx)**
+* **[Differentiable Rendering](#differentiable-rendering)**
 
 ## Computer Graphics Resources
 
@@ -72,6 +73,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2022.thecvf.com/)
 
 ## Computer Graphics Learning
+
+[Graphics effects explored by some Twitter user](https://twitter.com/XorDev/status/1692974985483092271)
 
 [Finding Your Home in Game Graphics Programming](https://alextardif.com/LearningGraphics.html)
 
@@ -137,9 +140,13 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca)
 
+[OpenPBR - new material specs by Adobe and Autodesk](https://materialx.org/assets/ASWF_OSD2023_MaterialX_Final.pdf)
+
 ## Geometry Math
 
 [Projective Geometric Algebra](https://projectivegeometricalgebra.org/)
+
+[How to Draw with Math](https://blogs.scientificamerican.com/guest-blog/how-to-draw-with-math/)
 
 ## PBR - Physically Based Rendering
 
@@ -233,9 +240,15 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Intel® Arc™ Graphics Developer Guide for Real-Time Ray Tracing in Games](https://www.intel.com/content/www/us/en/developer/articles/guide/real-time-ray-tracing-in-games.html)
 
+### Ray Tracing Whitepapers
+
+[Ray-aligned Occupancy Map Array for Fast Approximate Ray Tracing](https://zheng95z.github.io/publications/roma23)
+
 ## Shaders
 
 ### Shader Learning
+
+[Shader programming: From absolute beginner to demoscene superstar](https://clauswilke.com/art/post/shaders)
 
 [Good hands-on educational/resource book for math and shaders?](https://www.reddit.com/r/GraphicsProgramming/comments/klqliy/good_handson_educationalresource_book_for_math/)
 
@@ -264,6 +277,12 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [shdr.bkcore.com/](http://shdr.bkcore.com/)
 
 [shadertoy.com](https://www.shadertoy.com/)
+
+### Shader whitepapers
+
+[Shader Components: Modular and High Performance Shader Development](http://graphics.cs.cmu.edu/projects/shadercomp/he17_shadercomp.pdf)
+
+[Optimization Techniques for GPU Programming](https://hgpu.org/?p=28413)
 
 ## Renderers Architecture
 
@@ -302,6 +321,12 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Spartan is a research-focused game engine designed for real-time solutions, providing a dynamic experience.](https://github.com/PanosK92/SpartanEngine)
 
 [SORT - Simple Open-source Ray Tracing](https://sort-renderer.com/)
+
+[Implementing a GPU Voxel Octree Path Tracer](https://www.enkisoftware.com/devlogpost-20230823-1-Implementing-a-GPU-Voxel-Octree-Path-Tracer)
+
+### Renderer example videos
+
+[Radiance Cascades Rendered Directly (great video with some debugging stuff)](https://youtu.be/xkJ6i2N32Pc)
 
 ## OpenGL
 
@@ -681,3 +706,9 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [DirectX Raytracing (DXR) Functional Spec](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html)
 
 [WispRenderer - Real-Time Raytracing Renderer](https://github.com/TeamWisp/WispRenderer)
+
+## Differentiable Rendering
+
+### Differentiable Rendering Whitepapers
+
+[Flexible Techniques for Differentiable Rendering with 3D Gaussians](https://leonidk.com/fmb-plus/)

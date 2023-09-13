@@ -56,6 +56,8 @@
 
 [Excuse me, is there a problem? Many startups fail despite identifying a real problem and building a product that solves that problem. This explains why, so you can avoid their fate.](https://longform.asmartbear.com/problem/)
 
+[How the most successful B2B startups came up with their original idea](https://www.lennysnewsletter.com/p/how-the-most-successful-b2b-startups)
+
 ## Leadership
 
 [How to manage work-life balance while being an individual contributor working from home at a startup?](https://www.reddit.com/r/datascience/comments/kyjrmj/how_to_manage_worklife_balance_while_being_an/)
@@ -81,6 +83,10 @@
 [4 Myths and 1 Truth About Scheduling Meetings](https://blog.boomerangapp.com/2023/06/4-myths-and-1-truth-about-scheduling-meetings/)
 
 [17 REASONS NOT TO BE A MANAGER](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
+
+[Managing difficult software engineers](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
+
+[You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 
 ## Making money
 

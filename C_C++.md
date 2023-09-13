@@ -190,6 +190,10 @@
 
 [Compiler Construction (Niklaus Wirth)](https://inf.ethz.ch/personal/wirth/CompilerConstruction/index.html)
 
+[How to use CompileScore to reduce compilation times](https://blog.s-schoener.com/2023-08-17-compile-score/)
+
+[DRIVING COMPILERS](https://fabiensanglard.net/dc/)
+
 ## Boost library
 
 ### boost::asio

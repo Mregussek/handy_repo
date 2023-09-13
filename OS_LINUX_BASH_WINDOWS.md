@@ -60,6 +60,8 @@
 
 [Neofetch - A program (CLI) for neatly displaying information about your Linux system](https://github.com/dylanaraps/neofetch)
 
+[Behind "Hello World" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
+
 ## Programming in terminal
 
 [Effective Code Browsing - Part 1](https://noahan.me/posts/effective-code-browsing-part1/)
@@ -101,6 +103,8 @@
 [Best of .bashrc Or, actually, .bash_aliases - but that's not as fun to say](https://www.datagubbe.se/bestofbash/)
 
 [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
+
+[The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
 
 ## Kali Linux
 
