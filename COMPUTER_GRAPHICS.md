@@ -148,6 +148,10 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [How to Draw with Math](https://blogs.scientificamerican.com/guest-blog/how-to-draw-with-math/)
 
+[Bezier Curves](https://blog.richardekwonye.com/bezier-curves)
+
+[Monte Carlo Methods and Applications](https://geometrycollective.github.io/monte-carlo/)
+
 ## PBR - Physically Based Rendering
 
 [Moving Frostbite to Physically Based Rendering 3.0](https://seblagarde.files.wordpress.com/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf)
@@ -244,6 +248,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Ray-aligned Occupancy Map Array for Fast Approximate Ray Tracing](https://zheng95z.github.io/publications/roma23)
 
+[RenderMan: An Advanced Path Tracing Architecture for Movie Rendering](https://graphics.pixar.com/library/RendermanTog2018/paper.pdf)
+
 ## Shaders
 
 ### Shader Learning
@@ -271,6 +277,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Visualizing General Relativity](https://michaelmoroz.github.io/TracingGeodesics/)
 
 [Rendering my balls in a fragment shader](https://www.getlazarus.org/pool/balls/)
+
+[GM Shaders Mini: Vector Spaces](https://mini.gmshaders.com/p/vector-spaces)
 
 ### Shader websites
 
@@ -653,6 +661,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [Understanding The Math Behind ReStir DI](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_di/)
 
+[A Gentle Introduction to ReSTIR: Path Reuse in Real-time](https://intro-to-restir.cwyman.org/)
+
 ## Upscaling technology
 
 [FidelityFX Super Resolution 2.1 (FSR 2.1.2) github](https://github.com/GPUOpen-Effects/FidelityFX-FSR2#introduction)
@@ -664,6 +674,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [EmberGL (Ember Graphics Library) is a low-level open source graphics library, similar to OpenGL/DirectX/Vulkan, designed for real-time 2D/3D rendering on MCUs and other memory constrained non-GPU systems.](https://github.com/EmberGL-org/EmberGL)
 
 [LuxCoreRender is a physically based and unbiased rendering engine.](https://luxcorerender.org/)
+
+[RealTimePathTracingResearchFramework Public](https://github.com/intel/RealTimePathTracingResearchFramework)
 
 ## Debugging
 

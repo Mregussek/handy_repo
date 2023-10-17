@@ -156,6 +156,10 @@
 
 [Insider guide to tech interviews](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/)
 
+[Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+
+[How to burnout a software engineer, in 3 easy steps](https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer)
+
 ## Remote Job
 
 [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)

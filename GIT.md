@@ -33,6 +33,8 @@
 
 [Calling git a blockchain to rebrand bad tech](https://rubenerd.com/please-stop-saying-git-is-a-blockchain/)
 
+[What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
+
 ## Github
 
 [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
