@@ -14,3 +14,7 @@
 [Three-phase Paper Writing](https://dritchie.github.io/2017/10/12/three-phase-paper-writing.html)
 
 [briefly summarizes the most common English rules.](http://www.englishplus.com/grammar/)
+
+## Latex
+
+[pix2tex - LaTeX OCR The goal of this project is to create a learning based system that takes an image of a math formula and returns corresponding LaTeX code.](https://github.com/lukas-blecher/LaTeX-OCR)

@@ -92,6 +92,12 @@
 
 [Memory allocation - how do malloc and free work?](https://samwho.dev/memory-allocation/)
 
+[Herb Sutter's CppCon talk is on YouTube: “Cooperative C++ Evolution – Toward a TypeScript for C++”](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
+
+[Why does unsafe multithreaded use of an std::unordered_map crash more often than unsafe multithreaded use of a std::map?](https://devblogs.microsoft.com/oldnewthing/20231103-00/?p=108966)
+
+[Why I think C++ is still a desirable coding platform compared to Rust](https://lucisqr.substack.com/p/why-i-think-c-is-still-a-very-attractive)
+
 ### Cpp Pointers
 
 [shared_ptr - basics and internals with examples](https://www.nextptr.com/tutorial/ta1358374985/shared_ptr-basics-and-internals-with-examples)

@@ -152,6 +152,12 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Monte Carlo Methods and Applications](https://geometrycollective.github.io/monte-carlo/)
 
+["Introduction to Information Geometry" by Frank Nielsen](https://www.youtube.com/watch?v=w6r_jsEBlgU)
+
+[An Elementary Introduction to Information Geometry - Frank Nielsen (Whitepaper)](https://www.researchgate.net/publication/327304999_An_Elementary_Introduction_to_Information_Geometry)
+
+[The Many Faces of Information Geometry - Frank Nielsen (Whitepaper)](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
+
 ## PBR - Physically Based Rendering
 
 [Moving Frostbite to Physically Based Rendering 3.0](https://seblagarde.files.wordpress.com/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf)
@@ -643,6 +649,12 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [#graphics folks, Are there some good (preferably free) materials/courses/books on modern GPU hardware from a graphics perspective? Like all those registers, caches, wavefronts, occupacy stuff, etc](https://twitter.com/lisyarus/status/1657471363949506566?fbclid=IwAR1Q5Olo64ptkfhTdJA3WKM6RZAfEI5VQBbV6J3u5KWKfuoDr-t66UHcA9I)
 
+[SIMD min_element I have a few times encountered people asking about it, so I decided to write this summary.](https://twitter.com/dyaroshev/status/1738241466164453752)
+
+[How GPU Computing Works | GTC 2021 (YT)](https://youtu.be/3l10o0DYJXg)
+
+[GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
+
 ### AMD
 
 [AMD MRDNA 2 Performance guide](https://gpuopen.com/performance/)
@@ -682,6 +694,8 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 ### renderdoc
 
 [I just opened Plague Tale Requiem in a renderdoc. (twitter analysis)](https://twitter.com/newincpp/status/1587454519268593664?t=r7mvVA7pWZ_iehr6V1hXXw&s=19&fbclid=IwAR0SAQu9_KMESN-5mL-SqI_53wGqkgjBw-EdWPeSsyknZDToy-1P62pvYmw)
+
+[XDC 2021: Dissecting and fixing Vulkan rendering issues in drivers with RenderDoc](https://youtu.be/OyIxKX3SRcM)
 
 ### GFXReconstruct
 

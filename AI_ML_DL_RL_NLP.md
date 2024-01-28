@@ -1,5 +1,5 @@
 
-# Everything related to artificial intelligence, machine learning, deep learning...
+# Everything related to artificial intelligence, machine learning, deep learning
 
 ## Resources
 
@@ -12,6 +12,16 @@
 [The mission of {PapersWithCode} is to create a free and open resource with Machine Learning papers, code and evaluation tables](https://paperswithcode.com/)
 
 ## Learning
+
+### Books
+
+[Dive into Deep Learning (book)](https://d2l.ai/index.html)
+
+[Neural Networks and Deep Learning (book)](http://neuralnetworksanddeeplearning.com/)
+
+[The Mathematical Engineering of Deep Learning (book)](https://deeplearningmath.org/)
+
+### Learning Resources
 
 [Python3: from None to Machine Learning](http://python.astrotech.io/index.html)
 
@@ -34,8 +44,6 @@
 [BasicDeepLearning](https://github.com/chuckwolber/BasicDeepLearning/)
 
 [Smelling smells using Deep Learning](https://github.com/tushartushar/DeepLearningSmells)
-
-[Dive into Deep Learning {Book}](https://d2l.ai/index.html)
 
 [How to plan and execute your ML and DL projects](https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/)
 
@@ -84,6 +92,8 @@
 [Python ML courses proposals on reddit](https://www.reddit.com/r/Python/comments/cew4iw/python_machine_learning/)
 
 [How are memories stored in neural networks? | The Hopfield Network (YT video)](https://youtu.be/piF6D6CQxUw)
+
+[WE DON'T UNDERSTAND DEEP LEARNING... Prof. SIMON PRINCE](https://www.youtube.com/watch?v=sJXn4Cl4oww)
 
 ### NLP Learning
 

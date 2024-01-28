@@ -160,6 +160,8 @@
 
 [How to burnout a software engineer, in 3 easy steps](https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer)
 
+[Awesome CTO](https://github.com/kuchin/awesome-cto)
+
 ## Remote Job
 
 [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
