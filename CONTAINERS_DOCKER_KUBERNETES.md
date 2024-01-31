@@ -19,6 +19,8 @@
 
 [Container security fundamentals: Exploring containers as processes](https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-1/)
 
+[How to Fortify Your Docker Containers: A Guide to Advanced Security Practices](https://blog.coderco.io/p/how-to-fortify-your-docker-containers?r=2bjtip)
+
 ## Fascinating
 
 [Build Your Own Docker with Linux Namespaces, cgroups, and chroot: Hands-on Guide](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)

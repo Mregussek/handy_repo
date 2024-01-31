@@ -13,6 +13,8 @@
 
 [I finally opened my years-old Pandora's Box of cybersecurity & programming resource bookmarks while in quarantine](https://www.reddit.com/r/learnprogramming/comments/jjlues/i_finally_opened_my_yearsold_pandoras_box_of/)
 
+[A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.](https://github.com/trimstray/the-book-of-secret-knowledge)
+
 ## Tools
 
 [Privacy and security software list](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)

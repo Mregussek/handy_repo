@@ -142,3 +142,5 @@
 [ChatHub Use ChatGPT, Bing, Bard, Claude and more chatbots simultaneously](https://chathub.gg/)
 
 [Anytype - a Notion/Obsidian style application](https://anytype.io/)
+
+[Search for deleted YouTube videos](https://findyoutubevideo.thetechrobo.ca/)

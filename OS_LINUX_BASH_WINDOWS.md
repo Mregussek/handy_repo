@@ -62,6 +62,8 @@
 
 [Behind "Hello World" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
 
+[Linux Performance](https://www.brendangregg.com/linuxperf.html)
+
 ## Programming in terminal
 
 [Effective Code Browsing - Part 1](https://noahan.me/posts/effective-code-browsing-part1/)
@@ -121,3 +123,5 @@
 [Windows 11 runs Graphical Linux Apps out of the box with WSLg](https://youtu.be/b1YBx1L8op4)
 
 [The Ultimate Guide To Use VS Code With Windows Subsystem for Linux (WSL)](https://dev.to/ajeet/the-ultimate-guide-to-use-vs-code-with-windows-subsystem-for-linux-wsl-51hc)
+
+[Supercharge your Windows Development: The Ultimate Guide to WSL](https://dev.to/wasp/supercharge-your-windows-development-the-ultimate-guide-to-wsl-195m)

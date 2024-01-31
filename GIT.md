@@ -35,9 +35,15 @@
 
 [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 
+[git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
+
+[git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
+
 ## Github
 
 [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
+
+[System Design Case Study #2: How GitHub Indexes Code For Blazing Fast Search & Retrieval](https://scaleyourapp.com/system-design-github-code-search-engine/)
 
 ## Good practices
 

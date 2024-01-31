@@ -42,6 +42,8 @@
 
 [The microarchitecture of Intel, AMD, and VIA CPUs An optimization guide for assembly programmers and compiler makers](https://www.agner.org/optimize/microarchitecture.pdf)
 
+[How To Make A CPU - A Simple Picture Based Explanation](https://blog.robertelder.org/how-to-make-a-cpu/)
+
 ## Debugging
 
 [Debugging Embedded Linux Ethernet](https://vmb-tech.com/blog/debugging-embedded-ethernet.html)

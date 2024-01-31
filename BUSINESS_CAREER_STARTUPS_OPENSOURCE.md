@@ -88,6 +88,16 @@
 
 [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 
+[15 principles for managing up](https://newsletter.weskao.com/p/15-principles-for-managing-up)
+
+[7 types of difficult coworkers and how to deal with them](https://careercutler.substack.com/p/7-types-of-difficult-coworkers-and)
+
+[It takes 23 mins to recover after an interruption](https://addyo.substack.com/p/it-takes-23-mins-to-recover-after)
+
+[Key Metrics for Tracking Developer Productivity: What to Measure, How and Why](https://faun.pub/key-metrics-for-tracking-developer-productivity-what-to-measure-how-and-why-f2d2012ca2d2)
+
+[Demystifying Project Estimation](https://hybridhacker.email/p/demystifying-project-estimation)
+
 ## Making money
 
 [I charged $18,000 for a Static HTML Page](https://idiallo.com/blog/18000-dollars-static-web-page)
@@ -161,6 +171,12 @@
 [How to burnout a software engineer, in 3 easy steps](https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer)
 
 [Awesome CTO](https://github.com/kuchin/awesome-cto)
+
+[Networking as an introvert CTO](https://vadimkravcenko.com/shorts/networking-introvert-cto/)
+
+[Framing: The 1 most important communication concept every software engineer must know](https://careercutler.substack.com/p/framing-the-1-most-important-communication)
+
+[50 ways to bring in extra cash as a developer](https://dev.to/lissy93/50-ways-to-bring-in-extra-cash-as-a-developer-19b6)
 
 ## Remote Job
 
@@ -249,3 +265,5 @@
 [Awesome Open Source YT channel](https://www.youtube.com/c/AwesomeOpenSource/videos)
 
 [GitHub stars won't pay your rent](https://kitze.io/posts/github-stars-wont-pay-your-rent?utm_source=newsletter&utm_id=unknownews)
+
+[A compendium of absurd, funny, and downright bad licenses.](https://github.com/ErikMcClure/bad-licenses)
