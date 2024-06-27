@@ -38,7 +38,7 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 * **[CUDA](#cuda)**
 * **[Image Processing](#image-processing)**
 * **[DirectX](#directx)**
-* **[Differentiable Rendering](#differentiable-rendering)**
+* **[Differentiable / Inverse Rendering](#differentiable-inverse-rendering)**
 
 ## Computer Graphics Resources
 
@@ -743,7 +743,7 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [WispRenderer - Real-Time Raytracing Renderer](https://github.com/TeamWisp/WispRenderer)
 
-## Differentiable / Inverse Rendering
+## Differentiable Inverse Rendering
 
 ### Courses
 
