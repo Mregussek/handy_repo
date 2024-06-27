@@ -98,6 +98,14 @@
 
 [Demystifying Project Estimation](https://hybridhacker.email/p/demystifying-project-estimation)
 
+[Super Specific Feedback: How to give actionable feedback on work output](https://newsletter.weskao.com/p/super-specific-feedback)
+
+[How to talk about deadlines at work](https://newsletter.weskao.com/p/how-to-talk-about-deadlines-at-work)
+
+[How to communicate decisions you disagree with to your team](https://staysaasy.com/leadership/2024/04/04/have-concerns-and-commit.html)
+
+[Become a Great Engineering Leader in 12 Months](https://hybridhacker.email/p/how-to-become-a-great-engineering-leader)
+
 ## Making money
 
 [I charged $18,000 for a Static HTML Page](https://idiallo.com/blog/18000-dollars-static-web-page)
@@ -177,6 +185,8 @@
 [Framing: The 1 most important communication concept every software engineer must know](https://careercutler.substack.com/p/framing-the-1-most-important-communication)
 
 [50 ways to bring in extra cash as a developer](https://dev.to/lissy93/50-ways-to-bring-in-extra-cash-as-a-developer-19b6)
+
+[Is Europe Better Than America for Working in Tech?](https://relocate.me/blog/job-relocation/working-in-tech-europe-vs-america/)
 
 ## Remote Job
 
@@ -269,3 +279,5 @@
 [GitHub stars won't pay your rent](https://kitze.io/posts/github-stars-wont-pay-your-rent?utm_source=newsletter&utm_id=unknownews)
 
 [A compendium of absurd, funny, and downright bad licenses.](https://github.com/ErikMcClure/bad-licenses)
+
+[The Dark Side of Open Source](https://kettanaito.com/blog/the-dark-side-of-open-source)

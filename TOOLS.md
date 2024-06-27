@@ -144,3 +144,7 @@
 [Anytype - a Notion/Obsidian style application](https://anytype.io/)
 
 [Search for deleted YouTube videos](https://findyoutubevideo.thetechrobo.ca/)
+
+[Runtipi - Homeservermanagement made easy.](https://runtipi.io/)
+
+[StackRadar - a huge collection of technology tools](https://www.stackradar.co/)
