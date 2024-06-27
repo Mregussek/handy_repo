@@ -112,6 +112,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Math for Game Programmers: Understanding Homogeneous Coordinates](https://youtu.be/o1n02xKP138)
 
+[Graphics Studies Compilation](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
+
 ## Computer Graphics Blogs
 
 [Jacco Bikker Blog](https://jacco.ompf2.com/)
@@ -146,6 +148,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Projective Geometric Algebra](https://projectivegeometricalgebra.org/)
 
+[Shadows Don’t Lie and Lines Can’t Bend! Generative Models don’t know Projective Geometry...for now](https://projective-geometry.github.io/)
+
 [How to Draw with Math](https://blogs.scientificamerican.com/guest-blog/how-to-draw-with-math/)
 
 [Bezier Curves](https://blog.richardekwonye.com/bezier-curves)
@@ -157,6 +161,10 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [An Elementary Introduction to Information Geometry - Frank Nielsen (Whitepaper)](https://www.researchgate.net/publication/327304999_An_Elementary_Introduction_to_Information_Geometry)
 
 [The Many Faces of Information Geometry - Frank Nielsen (Whitepaper)](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
+
+## NeRF / AI
+
+[Three Level Summary: Neural Radiance Fields vs. 3D Gaussian Splatting](https://edwardahn.me/writing/NeRFvs3DGS/)
 
 ## PBR - Physically Based Rendering
 
@@ -249,6 +257,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Practical Tips for Optimizing Ray Tracing](https://developer.nvidia.com/blog/practical-tips-for-optimizing-ray-tracing/)
 
 [Intel® Arc™ Graphics Developer Guide for Real-Time Ray Tracing in Games](https://www.intel.com/content/www/us/en/developer/articles/guide/real-time-ray-tracing-in-games.html)
+
+[Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
 
 ### Ray Tracing Whitepapers
 
@@ -733,7 +743,11 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 
 [WispRenderer - Real-Time Raytracing Renderer](https://github.com/TeamWisp/WispRenderer)
 
-## Differentiable Rendering
+## Differentiable / Inverse Rendering
+
+### Courses
+
+[Machine Learning for Inverse Graphics](https://www.scenerepresentations.org/courses/inverse-graphics-23/)
 
 ### Differentiable Rendering Whitepapers
 

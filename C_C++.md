@@ -98,6 +98,8 @@
 
 [Why I think C++ is still a desirable coding platform compared to Rust](https://lucisqr.substack.com/p/why-i-think-c-is-still-a-very-attractive)
 
+[Optimizing Open Addressing](https://thenumb.at/Hashtables/)
+
 ### Cpp Pointers
 
 [shared_ptr - basics and internals with examples](https://www.nextptr.com/tutorial/ta1358374985/shared_ptr-basics-and-internals-with-examples)

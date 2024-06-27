@@ -95,6 +95,8 @@
 
 [WE DON'T UNDERSTAND DEEP LEARNING... Prof. SIMON PRINCE](https://www.youtube.com/watch?v=sJXn4Cl4oww)
 
+[Generative AI in a Nutshell - how to survive and thrive in the age of AI](https://www.youtube.com/watch?v=2IK3DFHRFfw)
+
 ### NLP Learning
 
 [Zero to Hero... NLP project edition](https://www.reddit.com/r/learnmachinelearning/comments/feceyu/zero_to_hero_nlp_project_edition/)

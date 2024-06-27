@@ -222,6 +222,8 @@
 
 [Graphics Knowledge Questions](https://www.reddit.com/r/GraphicsProgramming/comments/op4u7w/graphics_knowledge_questions/)
 
+[NVIDIA Senior Position Interview Question](https://www.reddit.com/r/cpp/comments/1amxl7g/nvidia_senior_position_interview_question/)
+
 ## Open Source
 
 [Friendly Open Source projects should reserve specific issues for newbies](https://www.firsttimersonly.com/)
