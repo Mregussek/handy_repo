@@ -42,6 +42,8 @@
 
 [going fast is about doing less](https://youtu.be/5rb0vvJ7NCY)
 
+[Advanced voxel mesh optimizations - I Optimized My Game Engine Up To 12000 FPS](https://youtu.be/40JzyaOYJeY)
+
 ## Game Engine Subsystems
 
 ### Entity Component System
@@ -109,6 +111,8 @@
 [Diligent Engine A Modern Cross-Platform Low-Level 3D Graphics Library and Rendering Framework](https://github.com/DiligentGraphics/DiligentEngine)
 
 [Spartan is a research-focused game engine designed for real-time solutions, providing a dynamic experience.](https://github.com/PanosK92/SpartanEngine)
+
+[Game Engines with Source: Learning from the best](https://github.com/redorav/public_source_engines)
 
 ## Game Development Resources
 

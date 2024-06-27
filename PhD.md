@@ -27,6 +27,8 @@
 
 [How do you take and manage Notes?](https://www.reddit.com/r/PhD/comments/13tz9zj/how_do_you_take_and_manage_notes/)
 
+[My dream died, and now I'm here (YT)](https://youtu.be/LKiBlGDfRU8)
+
 ## Technical Writing Resources
 
 [How to Read a Realistic Rendering Paper](https://morgan3d.github.io/advanced-ray-tracing-course/reading-research.pdf)
@@ -58,3 +60,7 @@
 ## After PhD
 
 [What’s your opinion on having Ph.D after your name on LinkedIn?](https://www.reddit.com/r/PhD/comments/16trrec/whats_your_opinion_on_having_phd_after_your_name/)
+
+## Some articles from professors
+
+[Harvard Tramples the Truth - When it came to debating Covid lockdowns, Veritas wasn’t the university’s guiding principle.](https://www.city-journal.org/article/harvard-tramples-the-truth)

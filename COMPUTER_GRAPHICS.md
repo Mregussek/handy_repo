@@ -114,6 +114,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Graphics Studies Compilation](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
 
+[The Amazing Math behind Colors!](https://youtu.be/gnUYoQ1pwes)
+
 ## Computer Graphics Blogs
 
 [Jacco Bikker Blog](https://jacco.ompf2.com/)
@@ -143,6 +145,14 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca)
 
 [OpenPBR - new material specs by Adobe and Autodesk](https://materialx.org/assets/ASWF_OSD2023_MaterialX_Final.pdf)
+
+[Super comprehensive collection of Light Transport papers](https://drive.google.com/drive/folders/16A6Yj2esRTk0FP-ALr6XfxkGQvTb_1dD)
+
+### Research Articles
+
+[Reading Veach’s Thesis](https://www.reedbeta.com/blog/reading-veach-thesis/)
+
+[Reading Veach’s Thesis, Part 2](https://www.reedbeta.com/blog/reading-veach-thesis-2/)
 
 ## Geometry Math
 
@@ -260,11 +270,17 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 
 [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
 
+[Ray Tracing with Voxels in C++ Series – Part 1](https://jacco.ompf2.com/2024/04/24/ray-tracing-with-voxels-in-c-series-part-1/)
+
 ### Ray Tracing Whitepapers
 
 [Ray-aligned Occupancy Map Array for Fast Approximate Ray Tracing](https://zheng95z.github.io/publications/roma23)
 
 [RenderMan: An Advanced Path Tracing Architecture for Movie Rendering](https://graphics.pixar.com/library/RendermanTog2018/paper.pdf)
+
+[A Ray-Box Intersection Algorithm and Efficient Dynamic Voxel Rendering](https://jcgt.org/published/0007/03/04/paper-lowres.pdf)
+
+[Real-time denoising of importance sampled direct lighting](https://aaltodoc.aalto.fi/server/api/core/bitstreams/ab0d594b-da79-4402-88ca-3811b39745e6/content)
 
 ## Shaders
 
@@ -295,6 +311,8 @@ It includes all interesting websites, tutorials, blogs and other resources regar
 [Rendering my balls in a fragment shader](https://www.getlazarus.org/pool/balls/)
 
 [GM Shaders Mini: Vector Spaces](https://mini.gmshaders.com/p/vector-spaces)
+
+[Hash Functions for GPU Rendering](https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/)
 
 ### Shader websites
 
@@ -744,6 +762,10 @@ The graphics rendering pipeline chapter in Real Time Rendering book.
 [WispRenderer - Real-Time Raytracing Renderer](https://github.com/TeamWisp/WispRenderer)
 
 ## Differentiable Inverse Rendering
+
+### Articles
+
+[Adventures with Differentiable Mesh Rendering](https://andrewkchan.dev/posts/diff-render.html)
 
 ### Courses
 
