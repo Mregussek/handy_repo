@@ -3,8 +3,6 @@
 
 ## AR / VR  Resources
 
-[Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-
 [Fundamentals of display technologies for Augmented and Virtual Reality](https://medium.com/hackernoon/fundamentals-of-display-technologies-for-augmented-and-virtual-reality-c88e4b9b0895)
 
 [What is it like to work in virtual reality 40-50 hours a week? well?](https://blog.immersed.team/working-from-orbit-39bf95a6d385)
@@ -18,10 +16,6 @@
 [AR By Hand – Part 1 – Introduction](https://enterprisemath.com/ar-by-hand-part-1-introduction/)
 
 [Augmented reality with Python and OpenCV (part 1)](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/)
-
-[The Perspective Camera - An Interactive Tour](http://ksimek.github.io/2012/08/13/introduction/)
-
-[Lecture 16: Planar Homographies](http://www.cse.psu.edu/~rtc12/CSE486/lecture16.pdf)
 
 [Augmented Reality with OpenCV and OpenGL: the tricky projection matrix](https://fruty.io/2019/08/29/augmented-reality-with-opencv-and-opengl-the-tricky-projection-matrix/)
 
