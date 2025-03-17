@@ -64,15 +64,9 @@
 
 [5 arguments to make managers care about technical debt](https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt/)
 
-[How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
-
 [How do you deal with coworkers like this?](https://www.reddit.com/r/cscareerquestions/comments/nio8ny/how_do_you_deal_with_coworkers_like_this/)
 
 [Getting ready to start a new job as VP of Engineering. What would you want me to do if I were your boss?](https://www.reddit.com/r/cscareerquestions/comments/ojdtog/getting_ready_to_start_a_new_job_as_vp_of/)
-
-[Why your daily stand-ups don't work and how to fix them](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html)
-
-[Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
 
 [A curated and opinionated list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies.](https://github.com/kuchin/awesome-cto)
 
@@ -86,23 +80,9 @@
 
 [Managing difficult software engineers](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
 
-[You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
-
 [15 principles for managing up](https://newsletter.weskao.com/p/15-principles-for-managing-up)
 
-[7 types of difficult coworkers and how to deal with them](https://careercutler.substack.com/p/7-types-of-difficult-coworkers-and)
-
 [It takes 23 mins to recover after an interruption](https://addyo.substack.com/p/it-takes-23-mins-to-recover-after)
-
-[Key Metrics for Tracking Developer Productivity: What to Measure, How and Why](https://faun.pub/key-metrics-for-tracking-developer-productivity-what-to-measure-how-and-why-f2d2012ca2d2)
-
-[Demystifying Project Estimation](https://hybridhacker.email/p/demystifying-project-estimation)
-
-[Super Specific Feedback: How to give actionable feedback on work output](https://newsletter.weskao.com/p/super-specific-feedback)
-
-[How to talk about deadlines at work](https://newsletter.weskao.com/p/how-to-talk-about-deadlines-at-work)
-
-[How to communicate decisions you disagree with to your team](https://staysaasy.com/leadership/2024/04/04/have-concerns-and-commit.html)
 
 [Become a Great Engineering Leader in 12 Months](https://hybridhacker.email/p/how-to-become-a-great-engineering-leader)
 
@@ -144,95 +124,11 @@
 
 ## Career
 
-[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
-
-[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-
 [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin)
 
 [Becoming 1% better at data science everyday](https://github.com/amitness/learning)
 
-[Software Engineer 3 Years of Experience - My Path to from 77k TC to 300k+ (70 LC)](https://www.reddit.com/r/cscareerquestions/comments/l6evby/software_engineer_3_years_of_experience_my_path/)
-
-[Scrollycoding - A new tool for dev blogs and docs | Code Hike (preview)](https://youtu.be/7O2b7vfk-mo)
-
-[A Better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)
-
-[What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
-
-[An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
-
-[The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](https://www.samjulien.com/shy-dev-networking)
-
-[How to find a job as Software Developer in Germany? (step-by-step guide)](https://germantechjobs.de/blog/how-to-find-job-as-software-developer-in-germany-complete-guide)
-
-[INTERVIEW PROCESS AT GOOGLE](https://github.com/pakistani-women-in-computing/coding-interview-resources/blob/master/google-interview-preparation.md)
-
-[Becoming a Full-Time Creator as a Software Engineer: Controversial Advice](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/?utm_source=unknownews)
-
-[Side Project Guide](https://sideproject.guide/en?utm_source=unknownews)
-
-[Insider guide to tech interviews](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/)
-
-[Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
-
-[How to burnout a software engineer, in 3 easy steps](https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer)
-
-[Awesome CTO](https://github.com/kuchin/awesome-cto)
-
-[Networking as an introvert CTO](https://vadimkravcenko.com/shorts/networking-introvert-cto/)
-
 [Framing: The 1 most important communication concept every software engineer must know](https://careercutler.substack.com/p/framing-the-1-most-important-communication)
-
-[50 ways to bring in extra cash as a developer](https://dev.to/lissy93/50-ways-to-bring-in-extra-cash-as-a-developer-19b6)
-
-[Is Europe Better Than America for Working in Tech?](https://relocate.me/blog/job-relocation/working-in-tech-europe-vs-america/)
-
-## Remote Job
-
-[Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
-
-[Tools for remote work](https://nohq.co/tools/)
-
-[Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
-
-## Interviews
-
-[My First Interviewing Experience For AAA Gameplay Programming](https://www.reddit.com/r/gamedev/comments/xbcvvt/my_first_interviewing_experience_for_aaa_gameplay/)
-
-[50+ questions data structures && algorithms](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
-
-[How to not hire software engineer?](http://tonsky.me/blog/hiring/)
-
-[Embedded Software Internship Interview at Tesla next week, what to expect?](https://www.reddit.com/r/ECE/comments/ia9ex5/embedded_software_internship_interview_at_tesla/)
-
-[I've worked in HR for ~15 years, and I've managed teams for 10 years. As a covid side project, I'm going to create "The Essential Guide to Getting Promoted at Work" that I'll be happy to share here for free. What questions or challenges do you have? What can I include that you'd find helpful?](https://www.reddit.com/r/cscareerquestions/comments/kign0f/ive_worked_in_hr_for_15_years_and_ive_managed/)
-
-[Coding Interview University](https://github.com/jwasham/coding-interview-university)
-
-[I've reviewed thousands of applications for university recruiting at a startup. Here are some numbers and thoughts on the university recruiting process.](https://www.reddit.com/r/cscareerquestions/comments/inrex1/ive_reviewed_thousands_of_applications_for/)
-
-[Questions we could ask recruiter](https://github.com/viraptor/reverse-interview)
-
-[Coding Interview University](https://github.com/jwasham/coding-interview-university)
-
-[Applied Math & ML: A Real Data Science Interview Project](https://medium.com/the-urban-nerd/applied-math-ml-a-real-data-science-interview-project-1f18852d7cc9)
-
-[100+ Basic Deep Learning Interview Questions and Answers](http://theprofessionalspoint.blogspot.com/2019/06/100-basic-deep-learning-interview.html)
-
-[Deep Learning Topics to refresh before interview](https://github.com/vlgiitr/DL_Topics)
-
-[Interview Case Study](https://spencerschien.info/categories/interview-case-study/)
-
-[I interviewed over a dozen game developers in order to gain perspective on how to get a career in Game Dev.](https://www.reddit.com/r/gamedev/comments/kwjes1/i_interviewed_over_a_dozen_game_developers_in/)
-
-[What can/should be expected of someone with one year of experience as an entry level SWE? How would you evaluate a person if they were applying for a job at your company with 1 YOE in the industry?](https://www.reddit.com/r/cscareerquestions/comments/lv9awn/what_canshould_be_expected_of_someone_with_one/)
-
-[Best Github Repos you'll ever need to crack any coding interview](https://www.reddit.com/r/learnprogramming/comments/n7d6j6/best_github_repos_youll_ever_need_to_crack_any/)
-
-[Graphics Knowledge Questions](https://www.reddit.com/r/GraphicsProgramming/comments/op4u7w/graphics_knowledge_questions/)
-
-[NVIDIA Senior Position Interview Question](https://www.reddit.com/r/cpp/comments/1amxl7g/nvidia_senior_position_interview_question/)
 
 ## Open Source
 

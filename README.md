@@ -38,6 +38,7 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 * **[Game Development](#game-development)**
 * **[Embedded](#embedded)**
 * **[Raspberry Pi](#raspberry-pi)**
+* **[Career](#career)**
 
 # Awesome Repositories
 
@@ -848,3 +849,63 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 
 [e-ink display which shows your last played track and listening stats from last.fm](https://www.reddit.com/r/raspberry_pi/comments/h7tkqi/eink_display_which_shows_your_last_played_track/)  
 [A physical calendar built on an e-paper display, controlled by a Raspberry Pi and synchronizing with Google Calendar](https://github.com/speedyg0nz/MagInkCal)
+
+# Career
+
+[awesome-cTO](https://github.com/kuchin/awesome-cto)
+[awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
+[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+[Tools for remote work](https://nohq.co/tools/)
+[Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
+
+[Software Engineer 3 Years of Experience - My Path to from 77k TC to 300k+ (70 LC)](https://www.reddit.com/r/cscareerquestions/comments/l6evby/software_engineer_3_years_of_experience_my_path/)
+[An Old Hacker's Tips On Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
+[How to find a job as Software Developer in Germany? (step-by-step guide)](https://germantechjobs.de/blog/how-to-find-job-as-software-developer-in-germany-complete-guide)
+[Becoming a Full-Time Creator as a Software Engineer: Controversial Advice](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/?utm_source=unknownews)
+[Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+[How to burnout a software engineer, in 3 easy steps](https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer)
+[Is Europe Better Than America for Working in Tech?](https://relocate.me/blog/job-relocation/working-in-tech-europe-vs-america/)
+
+[The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](https://www.samjulien.com/shy-dev-networking)
+[Networking as an introvert CTO](https://vadimkravcenko.com/shorts/networking-introvert-cto/)
+
+[Side Project Guide](https://sideproject.guide/en?utm_source=unknownews)
+[50 ways to bring in extra cash as a developer](https://dev.to/lissy93/50-ways-to-bring-in-extra-cash-as-a-developer-19b6)
+
+## Resume / Interviews
+
+[coding-interview-university](https://github.com/jwasham/coding-interview-university)
+[awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+[tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+[reverse-interview: uestions we could ask recruiter](https://github.com/viraptor/reverse-interview)
+
+[Insider guide to tech interviews](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/)
+[How to not hire software engineer?](http://tonsky.me/blog/hiring/)
+
+[A Better Resume for Developers](http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php)  
+[What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
+
+[Interview Process at Google](https://github.com/pakistani-women-in-computing/coding-interview-resources/blob/master/google-interview-preparation.md)
+[My First Interviewing Experience For AAA Gameplay Programming](https://www.reddit.com/r/gamedev/comments/xbcvvt/my_first_interviewing_experience_for_aaa_gameplay/)
+[Embedded Software Internship Interview at Tesla next week, what to expect?](https://www.reddit.com/r/ECE/comments/ia9ex5/embedded_software_internship_interview_at_tesla/)
+[NVIDIA Senior Position Interview Question](https://www.reddit.com/r/cpp/comments/1amxl7g/nvidia_senior_position_interview_question/)
+[Graphics Knowledge Questions](https://www.reddit.com/r/GraphicsProgramming/comments/op4u7w/graphics_knowledge_questions/)
+[I interviewed over a dozen game developers in order to gain perspective on how to get a career in Game Dev.](https://www.reddit.com/r/gamedev/comments/kwjes1/i_interviewed_over_a_dozen_game_developers_in/)
+
+[50+ questions data structures && algorithms](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+
+## Cooperation
+
+[How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)  
+[You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)  
+[How to communicate decisions you disagree with to your team](https://staysaasy.com/leadership/2024/04/04/have-concerns-and-commit.html)
+
+[Why your daily stand-ups don't work and how to fix them](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html)
+
+[Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)  
+[Demystifying Project Estimation](https://hybridhacker.email/p/demystifying-project-estimation)  
+[How to talk about deadlines at work](https://newsletter.weskao.com/p/how-to-talk-about-deadlines-at-work)
+
+[Key Metrics for Tracking Developer Productivity: What to Measure, How and Why](https://faun.pub/key-metrics-for-tracking-developer-productivity-what-to-measure-how-and-why-f2d2012ca2d2)  
+[Super Specific Feedback: How to give actionable feedback on work output](https://newsletter.weskao.com/p/super-specific-feedback)
