@@ -28,6 +28,8 @@
 
 [Bitcoin Is Not a Store-of-Value.](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
 
+[Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core/)
+
 ## Fascinating
 
 [How do you start accepting Bitcoin as a payment method on your site?](https://neilpatel.com/blog/crypto-payments/)
@@ -43,17 +45,3 @@
 [Czym jest i jak naprawdę działa NFT](https://www.internet-czas-dzialac.pl/odcinek-30-nft/)
 
 [NFT Projects are just MLMs for Tech Elites](https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites)
-
-## Stellar (XLM)
-
-[stellar project page](https://www.stellar.org/)
-
-[awesome-stellar](https://github.com/stellar/awesome-stellar)
-
-[stellar-core repository](https://github.com/stellar/stellar-core)
-
-[I researched Stellar Lumens XLM, here's what I found!](https://www.reddit.com/r/CryptoCurrency/comments/po94kv/i_researched_stellar_lumens_xlm_heres_what_i_found/)
-
-## VeChain (VET)
-
-[I researched VeChain (VET), here's what I found!](https://www.reddit.com/r/CryptoCurrency/comments/pqrzim/i_researched_vechain_vet_heres_what_i_found/)

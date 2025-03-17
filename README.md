@@ -5,7 +5,6 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 
 # Contents
 
-* **[Awesome Repositories](#awesome-repositories)**
 * **[University Courses](#university-courses)**
 * **[Conferences](#conferences)**
 * **[Learning](#learning)**
@@ -39,14 +38,6 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 * **[Embedded](#embedded)**
 * **[Raspberry Pi](#raspberry-pi)**
 * **[Career](#career)**
-
-# Awesome Repositories
-
-[awesome-computer-graphics](https://github.com/lettier/awesome-computer-graphics)  
-[graphics-resources - bookmarks related to game development and realtime graphics programming.](https://github.com/mattdesl/graphics-resources)  
-[Graphics Programming Virtual Meetup Resources](https://github.com/Graphics-Programming-Virtual-Meetup/Resources)  
-[Graphics Workshop](https://github.com/ekzhang/graphics-workshop)  
-[awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
 # University Courses
 
@@ -85,6 +76,7 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [Finding Your Home in Game Graphics Programming](https://alextardif.com/LearningGraphics.html)  
 [Scratch Pixel - Teaching computer graphics programming to regular folks.](https://www.scratchapixel.com/)  
 [Study notes useful in case you intend to study more about engine and graphics programming.](https://encelo.github.io/notes.html#_my_study_notes)
+[Want to get started in Graphics Programming? Start Here!](https://www.reddit.com/r/GraphicsProgramming/comments/1hry6wx/want_to_get_started_in_graphics_programming_start/)
 
 [The Graphics Codex Official - Morgan McGuire](https://graphicscodex.com/)
 
@@ -96,6 +88,15 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 
 ## Learning Resources
 
+[awesome-computer-graphics](https://github.com/lettier/awesome-computer-graphics)  
+[graphics-resources - bookmarks related to game development and realtime graphics programming.](https://github.com/mattdesl/graphics-resources)  
+[Graphics Programming Virtual Meetup Resources](https://github.com/Graphics-Programming-Virtual-Meetup/Resources)  
+[Graphics Workshop](https://github.com/ekzhang/graphics-workshop)  
+[awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)  
+[graphics-developer-roadmap](https://github.com/prographon/graphics-developer-roadmap)  
+[Computer Graphics Resources - Materials for self-study](https://legends2k.github.io/note/cg_resources/)
+[Computer Graphics Programming Resources](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9)
+
 [The Journal of Computer Graphics Techniques](https://jcgt.org/read.html)  
 [NVIDIA GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors)  
 [NVIDIA GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright)  
@@ -105,6 +106,9 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [Various articles, tutorials on computer graphics and related techniques (Inigo Quilez)](https://iquilezles.org/)
 
 [Graphics effects explored by Twitter user](https://twitter.com/XorDev/status/1692974985483092271)
+
+[Rasterization in One Weekend](https://tayfunkayhan.wordpress.com/2018/11/24/rasterization-in-one-weekend/)  
+[Implementing a tiny CPU rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html)
 
 [Ditherpunk — The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)  
 [Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/)
@@ -130,7 +134,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca)  
 [OpenPBR - new material specs by Adobe and Autodesk](https://materialx.org/assets/ASWF_OSD2023_MaterialX_Final.pdf)
 
-[Super comprehensive collection of Light Transport whitepapers](https://drive.google.com/drive/folders/16A6Yj2esRTk0FP-ALr6XfxkGQvTb_1dD)
+[Super comprehensive collection of Light Transport whitepapers](https://drive.google.com/drive/folders/16A6Yj2esRTk0FP-ALr6XfxkGQvTb_1dD)  
+[Daily Papers](https://huggingface.co/papers)
 
 ## Research Articles
 
@@ -145,6 +150,10 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [Adventures with Differentiable Mesh Rendering](https://andrewkchan.dev/posts/diff-render.html)
 
 [Whitepaper | Flexible Techniques for Differentiable Rendering with 3D Gaussians](https://leonidk.com/fmb-plus/)
+
+## Neural Rendering
+
+[AMD Crash Course in Deep Learning (for Computer Graphics)](https://gpuopen.com/learn/deep_learning_crash_course/)
 
 # Math
 
@@ -182,7 +191,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [YT | "Introduction to Information Geometry" by Frank Nielsen](https://www.youtube.com/watch?v=w6r_jsEBlgU)  
 [Whitepaper | An Elementary Introduction to Information Geometry - Frank Nielsen](https://www.researchgate.net/publication/327304999_An_Elementary_Introduction_to_Information_Geometry)  
 [Whitepaper | The Many Faces of Information Geometry - Frank Nielsen](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)  
-[Whitepaper | Shadows Don’t Lie and Lines Can’t Bend! Generative Models don’t know Projective Geometry...for now](https://projective-geometry.github.io/)
+[Whitepaper | Shadows Don’t Lie and Lines Can’t Bend! Generative Models don’t know Projective Geometry...for now](https://projective-geometry.github.io/)  
+[SGP Summer School Presentations](https://school.geometryprocessing.org/)
 
 ## Quaternions Math
 
@@ -249,6 +259,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 
 [How to add thousands of lights to your renderer and not die in the process](http://zyanidelab.com/how-to-add-thousands-of-lights-to-your-renderer/)
 
+[Recollecting the history of offline rendering. Was ray-tracing "early" and path-tracing "late"?](https://c0de517e.com/018_rthistory.htm)
+
 ## Ray Tracing
 
 ### RTX Learning
@@ -275,9 +287,13 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [Basic Ray Tracer that exploits numpy arrays and functions to work reasonably fast compared with a pure Python implementation.](https://www.reddit.com/r/Python/comments/i9q4dx/i_finished_my_python_ray_tracer_capable_of/)  
 [Nova - High performance GPU accelerated ray tracer using OpenCL/CUDA](https://github.com/wchang22/Nova)
 
+[tinyraycaster](https://github.com/ssloy/tinyraycaster/wiki)  
+[tinyraytracer](https://github.com/ssloy/tinyraytracer/wiki)
+
 ## Path Tracing
 
-[CppCon 2019: Matt Godbolt “Path Tracing Three Ways: A Study of C++ Style”](https://youtu.be/HG6c4Kwbv4I)
+[YT | CppCon 2019: Matt Godbolt “Path Tracing Three Ways: A Study of C++ Style”](https://youtu.be/HG6c4Kwbv4I)  
+[Path tracing lectures](https://momentsingraphics.de/PathTracingLectures.html)
 
 # Denoising
 
@@ -290,7 +306,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [YT | Physically Based Shading in Theory and Practice](https://youtu.be/zs0oYjwjNEo)  
 [Physically Based Rendering – Part one](https://wiki.jmonkeyengine.org/docs/3.4/tutorials/how-to/articles/pbr/pbr_part1.html)  
 [Moving Frostbite to Physically Based Rendering 3.0](https://seblagarde.files.wordpress.com/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf)  
-[Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF)
+[Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF)  
+[Radiometry, part 1: I got it backwards](https://momentsingraphics.de/Radiometry1Backwards.html)
 
 [Journey to Lumen (Unreal Engine)](https://knarkowicz.wordpress.com/2022/08/18/journey-to-lumen/)
 
@@ -334,6 +351,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 
 [INTEL Developer and Optimization Guide for Intel® Processor Graphics Gen11 API](https://www.intel.com/content/www/us/en/developer/articles/guide/developer-and-optimization-guide-for-intel-processor-graphics-gen11-api.html)
 
+[Tools for GPU Codec Development](https://www.ludicon.com/castano/blog/2024/12/tools-for-gpu-codec-development/)
+
 ## GPU Hardware-accelerated Ray Tracing
 
 [The RTX Shader Binding Table Three Ways](https://www.willusher.io/graphics/2019/11/20/the-sbt-three-ways)
@@ -346,6 +365,7 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 
 [EA GDC 2018: Shiny Pixels and Beyond: Real-Time Ray tracing at SEED](https://www.ea.com/seed/news/seed-gdc-2018-presentation-slides-shiny-pixels)  
 [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
+[YT | Inside Indiana Jones and the Great Circle: The Ray Tracing Breakdown](https://youtu.be/k2SBZSm2mOw)
 
 ## Vulkan
 
@@ -451,7 +471,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [VkHLF is an experimental high level abstraction library on top of Vulkan.](https://github.com/nvpro-pipeline/VkHLF)  
 [VulkanAbstractionLayer for MxEngine](https://github.com/asc-community/VulkanAbstractionLayer)  
 [Laugh Engine A Vulkan implementation of real-time PBR renderer.](https://github.com/jian-ru/laugh_engine)  
-[Acid is an open-source, cross-platform game engine written in modern C++17 and structured to be fast, simple, and extremely modular. Vulkan](https://github.com/EQMG/Acid)
+[Acid is an open-source, cross-platform game engine written in modern C++17 and structured to be fast, simple, and extremely modular. Vulkan](https://github.com/EQMG/Acid)  
+[Datoviz: Ultra-Fast, High-Performance GPU Scientific Visualization Library Built on Vulkan](https://www.khronos.org/blog/datoviz-ultra-fast-high-performance-gpu-scientific-visualization-library-built-on-vulkan)
 
 ## DirectX 12
 
@@ -503,7 +524,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [YT | Intro to Shader Coding in Unity - An Improvised Live Course](https://youtu.be/9WW5-0N1DsI)  
 [YT | Shaders For Game Devs](https://www.youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z)  
 [Compute shader glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)  
-[GM Shaders Mini: Vector Spaces](https://mini.gmshaders.com/p/vector-spaces)
+[GM Shaders Mini: Vector Spaces](https://mini.gmshaders.com/p/vector-spaces)  
+[YT | Shader Creation for Everyone! - An intro to Ben Cloward's YouTube channel](https://youtu.be/mSsqy0gYoHw)
 
 [An introduction to shader derivative functions](http://www.aclockworkberry.com/shader-derivative-functions/)  
 [Hash Functions for GPU Rendering](https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/)
@@ -539,9 +561,11 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 
 [A history of NVidia Stream Multiprocessor](https://fabiensanglard.net/cuda/index.html)  
 [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)  
+[Graphics Pipelines for Young Bloods](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/)  
 [Organizing GPU Work with Directed Acyclic Graphs](https://levelup.gitconnected.com/organizing-gpu-work-with-directed-acyclic-graphs-f3fd5f2c2af3)  
 [YT | NVIDIA How GPU Computing Works | GTC 2021](https://youtu.be/3l10o0DYJXg)  
-[x86/x64 SIMD Instruction List (SSE to AVX512)](https://www.officedaytime.com/simd512e/)
+[x86/x64 SIMD Instruction List (SSE to AVX512)](https://www.officedaytime.com/simd512e/)  
+[GPU Architectures (pptx)](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view?pli=1)
 
 [GPU Profiling 101](https://www.reedbeta.com/blog/gpu-profiling-101/)
 
@@ -559,6 +583,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 
 [AMD RDNA 2 Performance guide](https://gpuopen.com/performance/)  
 [YT | AMD Optimizing for the Radeon™ RDNA Architecture](https://youtu.be/7eEKLUhoTQs)
+
+[Optimized FP32 matrix multiplication on AMD RDNA3 GPU outperforming rocBLAS by 60%](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
 
 ### Intel GPU Hardware
 
@@ -589,6 +615,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 
 [“A damn stupid thing to do”—the origins of C](https://arstechnica.com/features/2020/12/a-damn-stupid-thing-to-do-the-origins-of-c/)
+
+[Some thoughts about C++ and how a better programming language could look like (Adam Sawicki)](https://t.co/z4g506iaWT)
 
 ## C++ Start
 
