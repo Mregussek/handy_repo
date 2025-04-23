@@ -477,6 +477,7 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 ## DirectX 12
 
 [awesome-d3d12](https://github.com/vinjn/awesome-d3d12)
+[DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
 
 ### DirectX 12 Ray Tracing
 
@@ -525,7 +526,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [YT | Shaders For Game Devs](https://www.youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z)  
 [Compute shader glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)  
 [GM Shaders Mini: Vector Spaces](https://mini.gmshaders.com/p/vector-spaces)  
-[YT | Shader Creation for Everyone! - An intro to Ben Cloward's YouTube channel](https://youtu.be/mSsqy0gYoHw)
+[YT | Shader Creation for Everyone! - An intro to Ben Cloward's YouTube channel](https://youtu.be/mSsqy0gYoHw)  
+[GLSL trick for adding outlines to anything.](https://x.com/XorDev/status/1784054180186927536)
 
 [An introduction to shader derivative functions](http://www.aclockworkberry.com/shader-derivative-functions/)  
 [Hash Functions for GPU Rendering](https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/)
@@ -560,12 +562,14 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 # GPU Hardware
 
 [A history of NVidia Stream Multiprocessor](https://fabiensanglard.net/cuda/index.html)  
+[I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)  
 [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)  
 [Graphics Pipelines for Young Bloods](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/)  
 [Organizing GPU Work with Directed Acyclic Graphs](https://levelup.gitconnected.com/organizing-gpu-work-with-directed-acyclic-graphs-f3fd5f2c2af3)  
 [YT | NVIDIA How GPU Computing Works | GTC 2021](https://youtu.be/3l10o0DYJXg)  
 [x86/x64 SIMD Instruction List (SSE to AVX512)](https://www.officedaytime.com/simd512e/)  
-[GPU Architectures (pptx)](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view?pli=1)
+[GPU Architectures (pptx)](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view?pli=1)  
+[The Eras of GPU Development](https://blog.siggraph.org/2025/04/evolution-of-gpus.html/)
 
 [GPU Profiling 101](https://www.reedbeta.com/blog/gpu-profiling-101/)
 
@@ -585,6 +589,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [YT | AMD Optimizing for the Radeon™ RDNA Architecture](https://youtu.be/7eEKLUhoTQs)
 
 [Optimized FP32 matrix multiplication on AMD RDNA3 GPU outperforming rocBLAS by 60%](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
+
+[Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds)
 
 ### Intel GPU Hardware
 

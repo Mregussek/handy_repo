@@ -6,8 +6,6 @@
 * **[Making Money](#making-money)**
 * **[Marketing](#marketing)**
 * **[Career](#career)**
-* **[Remote Job](#remote-job)**
-* **[Interviews](#interviews)**
 * **[OpenSource](#open-source)**
 
 ## Startups
@@ -177,3 +175,5 @@
 [A compendium of absurd, funny, and downright bad licenses.](https://github.com/ErikMcClure/bad-licenses)
 
 [The Dark Side of Open Source](https://kettanaito.com/blog/the-dark-side-of-open-source)
+
+[Open-source is where dreams go to die](https://www.trevorlasn.com/blog/open-source-is-where-dreams-go-to-die)
