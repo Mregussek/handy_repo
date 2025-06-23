@@ -16,6 +16,7 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 * **[Camera Projection View](#camera-projection-view)**
 * **[Texturing](#texturing)**
 * **[Shadows](#shadows)**
+* **[Anti Aliasing](#anti-aliasing)**
 * **[Ray Tracing / Path Tracing](#ray-tracing--path-tracing)**
 * **[Denoising](#denoising)**
 * **[PBR Physically Based Rendering](#pbr-physically-based-rendering)**
@@ -253,6 +254,10 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [YT | How Shadows Work in Games](https://youtu.be/TXI8rWiOF0k)  
 [Three Normal Mapping Techniques Explained For the Mathematically Uninclined](https://www.gamedeveloper.com/programming/three-normal-mapping-techniques-explained-for-the-mathematically-uninclined)
 
+# Anti Aliasing
+
+[YT | Aliasing... Or How Sampling Distorts Signals](https://youtu.be/eBHbCZo9QrM)
+
 # Ray Tracing / Path Tracing
 
 [Business card raytracer / eventual IOCCC winner](https://github.com/mzucker/miniray)
@@ -276,6 +281,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [The Ray Tracer Challenge (writing Rust Ray Tracer)](https://www.youtube.com/playlist?list=PLy68GuC77sUTyOUvDhVboQoOlHoa4XrSO)
 
 [Ray Tracing with Voxels in C++ Series – Part 1](https://jacco.ompf2.com/2024/04/24/ray-tracing-with-voxels-in-c-series-part-1/)
+
+[On Shaping Light (comprehensive walkthrough of implementing volumetric lighting using raymarching and post-processing)](https://blog.maximeheckel.com/posts/shaping-light-volumetric-lighting-with-post-processing-and-raymarching/)
 
 [Whitepaper | Ray-aligned Occupancy Map Array for Fast Approximate Ray Tracing](https://zheng95z.github.io/publications/roma23)  
 [Whitepaper | RenderMan: An Advanced Path Tracing Architecture for Movie Rendering](https://graphics.pixar.com/library/RendermanTog2018/paper.pdf)  
@@ -309,7 +316,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF)  
 [Radiometry, part 1: I got it backwards](https://momentsingraphics.de/Radiometry1Backwards.html)
 
-[Journey to Lumen (Unreal Engine)](https://knarkowicz.wordpress.com/2022/08/18/journey-to-lumen/)
+[Journey to Lumen (Unreal Engine)](https://knarkowicz.wordpress.com/2022/08/18/journey-to-lumen/)  
+[SIGGRAPH 2025 Course: Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/s2025-shading-course/)
 
 [Thesis | "Deferred Voxel Shading for Real Time Global Illumination"](https://github.com/jose-villegas/VCTRenderer/)
 
@@ -342,6 +350,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [YT | Radiance Cascades Rendered Directly (with some debugging stuff)](https://youtu.be/xkJ6i2N32Pc)
 
 [10 years of constant work on nCine: my 2D open-source C++11 game engine](https://encelo.github.io/2021-06-21-ten-years-ncine/?utm_source=gameenginedevs&utm_medium=Reddit&utm_campaign=10years)
+
+[YT | Speaking the GPU's Language | Indirect Rendering](https://youtu.be/YS_t3FtnQXw)
 
 # Graphics APIs / GPU Programming
 
