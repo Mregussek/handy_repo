@@ -85,6 +85,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [How to understand RGB?](https://ciechanow.ski/color-spaces/)  
 [YT | Everything you know about color was wrong](https://youtu.be/_zQ_uBAHA4A)
 
+[YT | But how do AI images/videos actually work?](https://www.youtube.com/watch?v=iv-5mZ_9CPY)
+
 [What is the hexadecimal?](https://medium.com/wait-what/what-the-hex-467566b120af)
 
 ## Learning Resources
@@ -579,12 +581,17 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [YT | NVIDIA How GPU Computing Works | GTC 2021](https://youtu.be/3l10o0DYJXg)  
 [x86/x64 SIMD Instruction List (SSE to AVX512)](https://www.officedaytime.com/simd512e/)  
 [GPU Architectures (pptx)](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view?pli=1)  
-[The Eras of GPU Development](https://blog.siggraph.org/2025/04/evolution-of-gpus.html/)
+[The Eras of GPU Development](https://blog.siggraph.org/2025/04/evolution-of-gpus.html/)  
+[Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 
 [GPU Profiling 101](https://www.reedbeta.com/blog/gpu-profiling-101/)
 
 [SIMD min_element I have a few times encountered people asking about it, so I decided to write this summary.](https://twitter.com/dyaroshev/status/1738241466164453752)  
 [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
+
+[YT | Game Optimization - Introduction & General Principles - Episode 1](https://youtu.be/jt8b0cpjUVk)  
+[YT | The Graphics Pipeline and Rendering Types - Game Optimization - Episode 2](https://youtu.be/27Am6QaH_Hc)  
+[YT | Preproduction Optimization Steps - Game Optimization - Episode 3](https://youtu.be/Q05R_UKhRo4)  
 
 ## GPU Hardware Resources
 
