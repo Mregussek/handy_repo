@@ -39,6 +39,7 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 * **[Embedded](#embedded)**
 * **[Raspberry Pi](#raspberry-pi)**
 * **[Career](#career)**
+* **[Tests](#tests)**
 
 # University Courses
 
@@ -114,7 +115,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [Implementing a tiny CPU rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html)
 
 [Ditherpunk — The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)  
-[Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/)
+[Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/)  
+[Dithering - Part 2](https://visualrambling.space/dithering-part-2/)
 
 [Help for fluid volume(signed distance field) rendering.](https://www.reddit.com/r/opengl/comments/ihij63/help_for_fluid_volumesigned_distance_field/)
 [Real-time rendering of water caustics](https://medium.com/@martinRenou/real-time-rendering-of-water-caustics-59cda1d74aa)
@@ -156,7 +158,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 
 ## Neural Rendering
 
-[AMD Crash Course in Deep Learning (for Computer Graphics)](https://gpuopen.com/learn/deep_learning_crash_course/)
+[AMD Crash Course in Deep Learning (for Computer Graphics)](https://gpuopen.com/learn/deep_learning_crash_course/)  
+[Adventures in Neural Rendering part 2: Cooperative vectors](https://interplayoflight.wordpress.com/2026/02/21/adventures-in-neural-rendering-part-2-cooperative-vectors/)
 
 # Math
 
@@ -218,7 +221,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [Ships, Icebergs, Game Engines - The Our Machinery fiasco has made an excellent case for more self-reliant, more from-scratch technology.](https://www.rfleury.com/p/ships-icebergs-game-engines)
 
 [CUSTOM GAME ENGINES: A Small Study](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74)  
-[Game Engines with Open Source Code: Learning from the best](https://github.com/redorav/public_source_engines)
+[Game Engines with Open Source Code: Learning from the best](https://github.com/redorav/public_source_engines)  
+[At minimum, what optimizations should be made in a 3D renderer.](https://www.reddit.com/r/gameenginedevs/comments/1qw9mar/at_minimum_what_optimizations_should_be_made_in_a/)
 
 [YT | going fast is about doing less (optimization stuff)](https://youtu.be/5rb0vvJ7NCY)  
 [YT | Game Engine Optimization Up To 12000 FPS - Advanced voxel mesh optimizations](https://youtu.be/40JzyaOYJeY)
@@ -316,7 +320,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [Physically Based Rendering – Part one](https://wiki.jmonkeyengine.org/docs/3.4/tutorials/how-to/articles/pbr/pbr_part1.html)  
 [Moving Frostbite to Physically Based Rendering 3.0](https://seblagarde.files.wordpress.com/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf)  
 [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF)  
-[Radiometry, part 1: I got it backwards](https://momentsingraphics.de/Radiometry1Backwards.html)
+[Radiometry, part 1: I got it backwards](https://momentsingraphics.de/Radiometry1Backwards.html)  
+[Physically based rendering from first principles](https://imadrahmoune.com/pbr/)
 
 [Journey to Lumen (Unreal Engine)](https://knarkowicz.wordpress.com/2022/08/18/journey-to-lumen/)  
 [SIGGRAPH 2025 Course: Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/s2025-shading-course/)
@@ -345,7 +350,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [LuxCoreRender is a physically based and unbiased rendering engine.](https://luxcorerender.org/)  
 [raylib is a simple and easy-to-use library to enjoy videogames programming.](https://github.com/raysan5/raylib)  
 [The G3D Innovation Engine is a commercial-grade C++ 3D engine available as Open Source](https://casual-effects.com/g3d/www/index.html)  
-[GODOT 2D and 3D cross-platform game engine](https://godotengine.org/)
+[GODOT 2D and 3D cross-platform game engine](https://godotengine.org/)  
+[Billions of triangles in minutes](https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/)
 
 [Implementing a GPU Voxel Octree Path Tracer](https://www.enkisoftware.com/devlogpost-20230823-1-Implementing-a-GPU-Voxel-Octree-Path-Tracer)
 
@@ -364,6 +370,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [INTEL Developer and Optimization Guide for Intel® Processor Graphics Gen11 API](https://www.intel.com/content/www/us/en/developer/articles/guide/developer-and-optimization-guide-for-intel-processor-graphics-gen11-api.html)
 
 [Tools for GPU Codec Development](https://www.ludicon.com/castano/blog/2024/12/tools-for-gpu-codec-development/)
+
+[No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 
 ## GPU Hardware-accelerated Ray Tracing
 
@@ -397,6 +405,7 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 
 [Khronos Group's Vulkan samples](https://github.com/KhronosGroup/Vulkan-Samples)  
 [SaschaWillems' examples](https://github.com/SaschaWillems/Vulkan)
+[New Vulkan Game Engine Tutorial: Build Your Own Production-Ready Rendering Engine](https://www.khronos.org/blog/new-vulkan-game-engine-tutorial-build-your-own-production-ready-rendering-engine?=)
 
 ### Vulkan Learning
 
@@ -426,6 +435,7 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 
 [Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)  
 [Breaking Down Barriers (GPU Synchronization) - Part 1: What's a Barrier?](https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/)  
+[Vulkan memory barriers and image layouts explained](https://www.rastergrid.com/blog/gpu-tech/2026/03/vulkan-memory-barriers-and-image-layouts-explained/)  
 [Understanding Vulkan Synchronization](https://www.khronos.org/blog/understanding-vulkan-synchronization)  
 [Vulkan Timeline Semaphores](https://www.khronos.org/blog/vulkan-timeline-semaphores)
 
@@ -451,7 +461,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [AMD Porting Detroit: Become Human from PlayStation® 4 to PC – Part 3](https://gpuopen.com/learn/porting-detroit-3/)
 
 [Game Physics in One Weekend](https://gamephysicsweekend.github.io/)  
-[This is a very basic renderer that is meant to be used in conjuction with the Game Physics In One Weekend book series.](https://github.com/gamephysicsweekend/VulkanRenderer)
+[This is a very basic renderer that is meant to be used in conjuction with the Game Physics In One Weekend book series.](https://github.com/gamephysicsweekend/VulkanRenderer)  
+[The Art of Render Graphs](https://alielmorsy.github.io/the-art-of-render-graphs/)
 
 ### Vulkan ImGui
 
@@ -582,7 +593,8 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [x86/x64 SIMD Instruction List (SSE to AVX512)](https://www.officedaytime.com/simd512e/)  
 [GPU Architectures (pptx)](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view?pli=1)  
 [The Eras of GPU Development](https://blog.siggraph.org/2025/04/evolution-of-gpus.html/)  
-[Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
+[Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)  
+[GPU Cache Hierarchy: Understanding L1, L2, and VRAM](https://charlesgrassi.dev/blog/gpu-cache-hierarchy/)
 
 [GPU Profiling 101](https://www.reedbeta.com/blog/gpu-profiling-101/)
 
@@ -630,6 +642,7 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [Cheat Sheets & Infographics](https://hackingcpp.com/cpp/cheat_sheets.html)  
 [List of C++ blogs by individual developers](https://www.reddit.com/r/cpp/comments/m51ugh/list_of_c_blogs_by_individual_developers/)  
 [Modern C++: Snippets and Examples](https://alandefreitas.github.io/moderncpp/)
+[Modern C++ Firmware: Proven Strategies for Tiny, Critical Systems (Part 1/10)](https://johnfarrier.com/modern-cpp-firmware-part-01-case-for-modern-cpp/)
 
 [Software optimization resources](https://agner.org/optimize/)  
 [Learning to write efficient C++](https://www.reddit.com/r/cpp_questions/comments/fxrkb6/learning_to_write_efficient_c/)  
@@ -796,9 +809,11 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 [modern c++ gamedev - thoughts & misconceptions (reddit)](https://www.reddit.com/r/cpp/comments/gkrquo/modern_c_gamedev_thoughts_misconceptions/)  
 [modern c++ gamedev - thoughts & misconceptions (news)](https://news.ycombinator.com/item?id=23202120)  
 [After two years of work on a huge open world RPG in Unity, here are the tips I wish I knew at the start.](https://www.reddit.com/r/gamedev/comments/yx93ck/after_two_years_of_work_on_a_huge_open_world_rpg/)  
-[38% of my bug reports come from the Linux community](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
+[38% of my bug reports come from the Linux community](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)  
+[I replaced Windows with Linux and everything’s going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)
 
-[Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/)
+[Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/)  
+[What makes a game tick? Part 9 - Data Driven Multi-Threading Scheduler](https://mropert.github.io/2026/02/27/making_games_tick_part9/)
 
 ## Game Design
 
@@ -960,3 +975,7 @@ Main storage of all interesting websites, tutorials, blogs and other resources r
 
 [Key Metrics for Tracking Developer Productivity: What to Measure, How and Why](https://faun.pub/key-metrics-for-tracking-developer-productivity-what-to-measure-how-and-why-f2d2012ca2d2)  
 [Super Specific Feedback: How to give actionable feedback on work output](https://newsletter.weskao.com/p/super-specific-feedback)
+
+# Tests
+
+[How They Test - A curated collection of publicly available resources on how software companies around the world test their software systems and build their quality culture.](https://abhivaikar.github.io/howtheytest/)
